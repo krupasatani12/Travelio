@@ -1,0 +1,49 @@
+
+> travelio-server@1.0.0 dev
+> node --watch server.js
+
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+Failed running 'server.js'. Waiting for file changes before restarting...
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connection failed. Running without database. Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connection failed. Running without database. Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connection failed. Running without database. Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connection failed. Running without database. Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017

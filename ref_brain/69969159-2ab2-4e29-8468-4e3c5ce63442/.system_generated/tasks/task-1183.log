@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-07-18T22:24:35+05:30
+Prompt: Check test_cities.py - the semantic model should definitely be loaded by now
+
+[2026-07-18T22:23:05+05:30] Still waiting. Remaining time: 1m30s
+[2026-07-18T22:23:35+05:30] Still waiting. Remaining time: 1m0s
+[2026-07-18T22:24:05+05:30] Still waiting. Remaining time: 30s
+[2026-07-18T22:24:08+05:30] Timer cancelled: agent received a message during wait.

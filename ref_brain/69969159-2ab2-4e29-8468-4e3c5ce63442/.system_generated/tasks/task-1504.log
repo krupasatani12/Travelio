@@ -1,0 +1,81 @@
+
+> client@0.0.0 dev
+> vite
+
+12:57:44 pm [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v8.1.4  ready in 652 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+12:57:46 pm [vite] (client) [optimizer] bundling dependencies...
+12:59:55 pm [vite] (client) hmr update /src/components/chat/TravelBot.jsx
+1:00:24 pm [vite] (client) hmr update /src/components/chat/TravelBot.css
+1:05:38 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+1:06:58 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+1:08:31 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+1:11:00 pm [vite] (client) [console.error] AxiosError: Request failed with status code 500
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:2231:4)
+1:11:17 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'map')
+ > SafetyChecker src/pages/SafetyChecker.jsx:98:33
+    96 |                    <h4>Safety Tips:</h4>
+    97 |                    <ul>
+    98 |                      {result.tips.map((t, i) => <li key={i}>{t}</li>)}
+       |                                   ^
+    99 |                    </ul>
+    100|                  </div>
+ > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+ > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+ > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+ > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+
+1:11:17 pm [vite] (client) [console.warn] An error occurred in the <SafetyChecker> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+1:11:31 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'map')
+ > SafetyChecker src/pages/SafetyChecker.jsx:98:33
+    96 |                    <h4>Safety Tips:</h4>
+    97 |                    <ul>
+    98 |                      {result.tips.map((t, i) => <li key={i}>{t}</li>)}
+       |                                   ^
+    99 |                    </ul>
+    100|                  </div>
+ > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+ > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+ > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+ > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+
+1:11:31 pm [vite] (client) [console.warn] An error occurred in the <SafetyChecker> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+1:13:33 pm [vite] (client) hmr update /src/pages/SafetyChecker.jsx
+1:13:42 pm [vite] (client) hmr update /src/pages/SafetyChecker.jsx
+1:39:11 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+1:59:39 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+1:59:53 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+1:59:55 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+2:01:16 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+2:02:47 pm [vite] (client) [console.warn] THREE.WebGLRenderer: WEBGL_lose_context extension not supported.
+2:17:25 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+2:17:54 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+2:50:53 pm [vite] (client) [console.error] AxiosError: Request failed with status code 500
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:2231:4)
+2:52:47 pm [vite] (client) [console.error] AxiosError: Request failed with status code 500
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=9fc28398:2231:4)

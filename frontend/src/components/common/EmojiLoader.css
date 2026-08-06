@@ -1,0 +1,42 @@
+.emoji-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.emoji-box {
+  width: 80px;
+  height: 80px;
+  background: var(--glass-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.2);
+  animation: pulse-border 1.5s infinite alternate;
+}
+
+.emoji-animate {
+  font-size: 3rem;
+  animation: bounce-soft 0.4s infinite alternate ease-in-out;
+}
+
+.emoji-text {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+@keyframes bounce-soft {
+  0% { transform: translateY(4px) scale(0.95); }
+  100% { transform: translateY(-4px) scale(1.05); }
+}
+
+@keyframes pulse-border {
+  0% { border-color: rgba(99, 102, 241, 0.2); box-shadow: 0 0 10px rgba(99, 102, 241, 0.1); }
+  100% { border-color: rgba(16, 185, 129, 0.6); box-shadow: 0 0 25px rgba(16, 185, 129, 0.3); }
+}

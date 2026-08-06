@@ -1,0 +1,398 @@
+/* =====================================================
+   CityPage.css — Dedicated City Page Styles
+   ===================================================== */
+
+/* Hero Section */
+.city-hero {
+  position: relative;
+  min-height: 420px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: -2rem;
+}
+
+.city-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.3) 0%,
+    rgba(0, 0, 0, 0.6) 50%,
+    rgba(15, 15, 35, 0.95) 100%
+  );
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 3rem;
+}
+
+.city-back-link {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: all 0.3s;
+}
+
+.city-back-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+.city-hero-content {
+  color: #fff;
+}
+
+.city-hero-title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin: 0;
+  line-height: 1.1;
+  font-family: 'Outfit', sans-serif;
+}
+
+.city-hero-state {
+  font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0.5rem 0 1.5rem;
+  font-weight: 400;
+}
+
+.city-hero-stats {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.hero-stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  padding: 8px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.hero-stat-icon {
+  font-size: 1.1rem;
+}
+
+.city-hero-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.btn-hero {
+  padding: 12px 24px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  color: #fff;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+
+.btn-hero:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+  transform: translateY(-2px);
+}
+
+.btn-hero.favorited {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: rgba(239, 68, 68, 0.5);
+}
+
+.btn-hero-plan {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  border-color: transparent;
+}
+
+.btn-hero-plan:hover {
+  box-shadow: 0 8px 20px rgba(99, 102, 241, 0.3);
+}
+
+.btn-hero-chat {
+  background: rgba(16, 185, 129, 0.2);
+  border-color: rgba(16, 185, 129, 0.4);
+}
+
+/* Teaser Card */
+.city-teaser-card {
+  margin-top: 2rem;
+  padding: 1.5rem 2rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  border-left: 4px solid var(--primary);
+}
+
+/* Places Section */
+.city-places-section {
+  margin-top: 3rem;
+}
+
+.section-header {
+  margin-bottom: 1.5rem;
+}
+
+.section-header h2 {
+  margin: 0 0 0.3rem;
+  font-size: 2rem;
+}
+
+.section-header p {
+  margin: 0;
+}
+
+.city-places-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.city-places-controls .search-input {
+  flex: 1;
+  min-width: 200px;
+}
+
+.city-places-controls .sort-select {
+  width: 180px;
+}
+
+/* Places Grid */
+.city-places-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.place-card {
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 16px;
+  transition: all 0.3s;
+}
+
+.place-card-image {
+  position: relative;
+  height: 180px;
+  overflow: hidden;
+}
+
+.place-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s;
+}
+
+.place-card:hover .place-card-image img {
+  transform: scale(1.08);
+}
+
+.place-card-rating {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(8px);
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.place-card-google {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(26, 115, 232, 0.9);
+  color: #fff;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.place-card-body {
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+.place-card-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  line-height: 1.3;
+}
+
+.place-card-meta {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.place-type-badge {
+  background: rgba(99, 102, 241, 0.15);
+  color: var(--primary);
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.place-fee {
+  background: rgba(16, 185, 129, 0.12);
+  color: var(--accent);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.place-reviews {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+}
+
+.place-best-time {
+  margin: 0.3rem 0;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.place-card-teaser {
+  margin: 0.4rem 0 0;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: var(--text-muted);
+}
+
+/* Nearby Cities */
+.nearby-cities-section {
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+
+.nearby-cities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25rem;
+}
+
+.nearby-city-card {
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 14px;
+  transition: all 0.3s;
+}
+
+.nearby-city-image {
+  height: 140px;
+  overflow: hidden;
+}
+
+.nearby-city-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s;
+}
+
+.nearby-city-card:hover .nearby-city-image img {
+  transform: scale(1.08);
+}
+
+.nearby-city-info {
+  padding: 0.8rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.nearby-city-info h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  flex: 1;
+}
+
+.nearby-city-count {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.nearby-city-rating {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--warning);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .city-hero {
+    min-height: 350px;
+  }
+
+  .city-hero-title {
+    font-size: 2.4rem;
+  }
+
+  .city-hero-stats {
+    gap: 0.75rem;
+  }
+
+  .hero-stat {
+    font-size: 0.85rem;
+    padding: 6px 12px;
+  }
+
+  .city-hero-actions {
+    flex-direction: column;
+  }
+
+  .city-places-controls {
+    flex-direction: column;
+  }
+
+  .city-places-controls .sort-select {
+    width: 100%;
+  }
+
+  .city-places-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .nearby-cities-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

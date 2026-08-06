@@ -1,0 +1,200 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v8.1.4  ready in 953 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+9:37:40 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+9:37:52 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+9:37:55 pm [vite] (client) hmr update /src/components/layout/Navbar.css
+9:38:11 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+9:38:16 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+9:38:26 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+9:40:03 pm [vite] (client) [console.error] AxiosError: Request failed with status code 401
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+9:40:03 pm [vite] (client) [console.error] AxiosError: Request failed with status code 401
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+9:40:24 pm [vite] (client) [console.warn] Failed to fetch cities: Request failed with status code 500
+9:40:26 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+9:40:29 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+9:40:31 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+9:41:05 pm [vite] (client) [console.warn] Failed to save trip AxiosError: Request failed with status code 401
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+9:46:16 pm [vite] (client) hmr update /src/pages/Journal.jsx
+9:47:05 pm [vite] (client) hmr update /src/pages/PlaceDetailPage.jsx
+10:00:37 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+10:00:45 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+10:03:07 pm [vite] (client) hmr update /src/pages/PlaceDetailPage.jsx
+10:03:07 pm [vite] (client) hmr update /src/pages/PlaceDetailPage.jsx
+10:06:37 pm [vite] (client) [console.warn] Failed to fetch cities: Request failed with status code 500
+10:10:13 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:10:13 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:10:16 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:10:24 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:10:24 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:10:24 pm [vite] (client) [Unhandled error] TypeError: Cannot read properties of undefined (reading 'trim')
+ > handlePlaceClick src/pages/Places.jsx:69:32
+    67 |  
+    68 |    const handlePlaceClick = (place) => {
+    69 |      const citySlug = place.city.trim().toLowerCase().replace(/\s+/g, '-');
+       |                                  ^
+    70 |      const placeSlug = place.name.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    71 |      navigate(`/places/${citySlug}/${placeSlug}`);
+ > onClick src/pages/Places.jsx:176:33
+ > executeDispatch node_modules/react-dom/cjs/react-dom-client.development.js:19116:8
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > processDispatchQueue node_modules/react-dom/cjs/react-dom-client.development.js:19166:18
+ > node_modules/react-dom/cjs/react-dom-client.development.js:19767:8
+ > batchedUpdates$1 node_modules/react-dom/cjs/react-dom-client.development.js:3255:39
+ > dispatchEventForPluginEventSystem node_modules/react-dom/cjs/react-dom-client.development.js:19320:6
+ > dispatchEvent node_modules/react-dom/cjs/react-dom-client.development.js:23585:10
+ > dispatchDiscreteEvent node_modules/react-dom/cjs/react-dom-client.development.js:23553:10
+
+10:14:40 pm [vite] (client) hmr update /src/pages/Places.jsx
+10:14:40 pm [vite] (client) hmr update /src/pages/Places.jsx
+10:14:46 pm [vite] (client) [console.error] Failed to fetch place detail or journals: AxiosError: Request failed with status code 500
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+10:14:48 pm [vite] (client) hmr update /src/pages/CityPage.jsx
+10:43:21 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:43:21 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:44:11 pm [vite] (client) hmr update /src/pages/TripPlanner.css
+10:47:54 pm [vite] (client) hmr update /src/components/layout/Navbar.jsx
+10:48:11 pm [vite] (client) hmr update /src/components/layout/Navbar.css
+10:48:24 pm [vite] (client) hmr update /src/components/layout/Navbar.css
+10:48:40 pm [vite] (client) hmr update /src/context/AuthContext.jsx
+10:48:40 pm [vite] (client) hmr invalidate /src/context/AuthContext.jsx Could not Fast Refresh ("AuthContext" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+10:48:40 pm [vite] (client) page reload src/context/AuthContext.jsx
+10:48:55 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:49:03 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:49:17 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:49:28 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:49:38 pm [vite] (client) hmr update /src/pages/TripPlanner.jsx
+10:50:15 pm [vite] (client) hmr update /src/pages/ChatbotPage.jsx
+10:50:24 pm [vite] (client) hmr update /src/pages/ChatbotPage.jsx
+10:53:41 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+10:55:30 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+11:12:59 pm [vite] (client) hmr update /src/App.jsx
+11:12:59 pm [vite] Internal server error: Transform failed with 1 error:
+
+[PARSE_ERROR] Expected `}` but found `;`
+    ╭─[ src/App.jsx:70:4 ]
+    │
+ 70 │   );
+    │    ┬  
+    │    ╰── `}` expected
+────╯
+
+  Plugin: vite:oxc
+  File: D:/Travel.IO/client/src/App.jsx
+      at transformWithOxc (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:4017:19)
+      at TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:4088:26)
+      at EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:51)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+11:13:00 pm [vite] (client) [console.error] [vite] Failed to reload /src/App.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+11:13:10 pm [vite] (client) hmr update /src/App.jsx
+11:18:08 pm [vite] (client) [console.error] Failed to fetch place detail or journals: AxiosError: Request failed with status code 404
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+11:18:08 pm [vite] (client) [console.error] Failed to fetch place detail or journals: AxiosError: Request failed with status code 404
+    at settle (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:1838:14)
+    at XMLHttpRequest.onloadend (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2231:4)
+12:35:20 am [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+12:49:24 am [vite] (client) hmr update /src/components/common/PaperPlane.jsx
+12:49:24 am [vite] (client) hmr update /src/components/common/PaperPlane.jsx
+12:51:37 am [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+12:54:24 am [vite] (client) hmr update /src/components/common/PaperPlane.jsx
+12:54:24 am [vite] (client) hmr update /src/components/common/PaperPlane.jsx
+12:54:44 am [vite] (client) hmr update /src/components/common/SplashLoader.jsx

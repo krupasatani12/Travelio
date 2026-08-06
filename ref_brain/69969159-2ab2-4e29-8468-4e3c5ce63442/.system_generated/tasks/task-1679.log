@@ -1,0 +1,21 @@
+--- FLIGHTS ---
+Index(['index', 'airline', 'flight', 'source_city', 'departure_time', 'stops',
+       'arrival_time', 'destination_city', 'class', 'duration', 'days_left',
+       'price'],
+      dtype='object')
+
+--- HOTELS ---
+Index(['additional_info', 'address', 'area', 'city', 'country', 'crawl_date',
+       'guest_recommendation', 'hotel_brand', 'hotel_category',
+       'hotel_description', 'hotel_facilities', 'hotel_star_rating',
+       'image_count', 'latitude', 'locality', 'longitude', 'pageurl',
+       'point_of_interest', 'property_id', 'property_name', 'property_type',
+       'province', 'qts', 'query_time_stamp', 'review_count_by_category',
+       'room_area', 'room_count', 'room_facilities', 'room_type',
+       'similar_hotel', 'site_review_count', 'site_review_rating',
+       'site_stay_review_rating', 'sitename', 'state', 'uniq_id'],
+      dtype='object')
+
+--- TRAINS ---
+Total stations: 2
+Sample station: FeatureCollection

@@ -1,0 +1,1308 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Beachwalk Resort | Luxury Boutique Stay in Candolim, Goa</title>
+    <meta name="description" content="Experience the finest luxury at The Beachwalk Resort. Located in Candolim, our boutique resort offers an infinity pool, spa, and premium dining.">
+    <meta name="author" content="Acron Group of Hotels">
+    <meta name="copyright" content="Acron Hospitality Pvt. Ltd.">
+    <meta name="theme-color" content="#ffd803">
+    <meta name="apple-mobile-web-app-status-bar-style" content="yellow">
+    <link rel="icon" href="assets/img/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/v2/css/style.css">
+    <style>
+        body {
+            opacity: 0;
+            animation: pageEntry 0.4s ease-out forwards;
+        }
+        @keyframes pageEntry {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RE4RL53T8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-4RE4RL53T8');
+        gtag('config', 'AW-852966872');
+    </script>
+</head>
+<body>
+    <a href="#mainContent" class="visually-hidden-focusable position-absolute top-0 start-0 p-3 bg-white z-3 skip-to-main-content">Skip to main content</a>
+    
+<header class="acron-header shadow-sm fixed-top nav-beachwalk">
+    <div class="top-bar py-2 text-center">
+        <div class="container-fluid px-lg-5">
+            <div class="d-flex justify-content-center justify-content-lg-between align-items-center">
+                <div class="special-offers-cta d-flex align-items-center">
+                    <button type="button" class="bg-transparent border-0 p-0 text-decoration-none fw-bold cta-link" id="specialOffersTrigger" aria-haspopup="dialog" aria-expanded="false">
+                        <span class="d-lg-none flash-text">TAP FOR SPECIAL OFFERS</span>
+                        <span class="d-none d-lg-inline flash-text">FOR SPECIAL OFFERS</span>
+                    </button>
+                    <div class="d-none d-lg-inline-block ms-3 contact-numbers" id="desktopContactNumbers">
+                        <a href="tel:+918888848038" class="me-3 text-decoration-none"><i class="fa-solid fa-phone"></i>&nbsp;+91 8888 848 038</a>
+                        <a href="tel:+917741088822" class="me-3 text-decoration-none"><i class="fa-solid fa-phone"></i>&nbsp;+91 7741 088 822</a>
+                        <a href="tel:+917722016888" class="text-decoration-none"><i class="fa-solid fa-phone"></i>&nbsp;+91 7722 016 888</a>
+                    </div>
+                    <div class="d-none d-lg-inline-block ms-3">
+                        <div class="award-icon d-flex align-items-center gap-1">
+                            <img src="/v2/assets/tripadvisor-120.webp" height="30" width="auto" alt="TripAdvisor Traveler's Choice 2025 Award Winner" class="ta-award-icon" aria-hidden="true">
+                            <span class="d-none d-lg-inline fw-bold fs-6">Winner of Travelers' Choice Award 2025 </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="social-icons d-none d-lg-flex gap-3" style="display:none!important;">
+                    <a href="#" aria-label="Visit our TripAdvisor page" class="social-link"><img src="v2/assets/icon-tripadvisor.webp" alt="" aria-hidden="true" class="ta-custom-icon"></a>
+                    <a href="#" aria-label="Visit our Google profile" class="social-link"><i class="fa-brands fa-google" aria-hidden="true"></i></a>
+                    <a href="#" aria-label="Visit our YouTube channel" class="social-link"><i class="fa-brands fa-youtube" aria-hidden="true"></i></a>
+                    <a href="#" aria-label="Visit our Instagram page" class="social-link"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+                    <a href="#" aria-label="Visit our Facebook page" class="social-link"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg bg-white py-3" aria-label="Main Navigation">
+        <div class="container-fluid px-lg-5">
+            <a class="navbar-brand me-auto me-lg-0" href="/" aria-label="Acron Hotels Home"><img src="/v2/assets/acron-group-of-hotels-logo-main.webp" alt="Acron Group of Hotels Logo" class="img-fluid main-logo"></a>
+            <div class="ms-auto d-lg-none"><button type="button" class="btn btn-book-now fw-bold px-4 py-2 trigger-book-engine">BOOK NOW</button></div>
+            <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#acronOffcanvas" aria-controls="acronOffcanvas" aria-expanded="false" aria-label="Toggle navigation menu"><span class="navbar-toggler-icon"></span></button>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="acronOffcanvas" aria-labelledby="acronOffcanvasLabel" data-bs-backdrop="false">
+                <div class="offcanvas-header border-bottom">
+                    <h5 class="offcanvas-title fw-bold" id="acronOffcanvasLabel">ACRON GROUP OF HOTELS</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close menu"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav mx-auto mb-1 mb-lg-0 gap-lg-5 fw-semibold text-uppercase" id="mainNavLinks">
+                        <li class="nav-item fw-bold text-uppercase"><a class="nav-link" href="/">Home</a></li>
+                        <li class="nav-item dropdown fw-bold">
+                            <a class="nav-link dropdown-toggle d-none d-lg-block text-uppercase" href="javascript:void(0);" id="hotelsDropdown" role="button" aria-expanded="false" aria-haspopup="true">Our&nbsp;&nbsp;Hotels</a>
+                            <ul class="dropdown-menu border-0 shadow-sm desktop-dropdown-menu" aria-labelledby="hotelsDropdown">
+                                <li><a class="dropdown-item fw-semibold" href="/waterfront.php">The WATERFRONT RESORT by ACRON</a></li>
+                                <li><a class="dropdown-item fw-semibold" href="/candolim-regina.php">The REGINA RESORT by ACRON</a></li>
+                                <li><a class="dropdown-item fw-semibold" href="/beachwalk.php">The BEACHWALK RESORT by ACRON</a></li>
+                            </ul>
+                            <a class="nav-link dropdown-toggle d-lg-none text-uppercase" data-bs-toggle="collapse" href="#mobileHotelsMenu" role="button" aria-expanded="true" aria-controls="mobileHotelsMenu">Our&nbsp;&nbsp;Hotels</a>
+                            <div class="collapse show d-lg-none" id="mobileHotelsMenu">
+                                <ul class="navbar-nav ps-4">
+                                    <li class="nav-item"><a class="nav-link" href="/waterfront.php">THE WATERFRONT RESORT by ACRON</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/candolim-regina.php">THE REGINA RESORT by ACRON</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/beachwalk.php">THE BEACHWALK RESORT by ACRON</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item fw-bold text-uppercase"><a class="nav-link" href="#exclusiveDeals">Exclusive&nbsp;&nbsp;Deals</a></li>
+                        <li class="nav-item dropdown fw-bold text-uppercase">
+                            <a class="nav-link dropdown-toggle d-none d-lg-block text-uppercase" href="javascript:void(0);" id="whyBookDropdown" role="button" aria-expanded="false" aria-haspopup="true">Direct&nbsp;&nbsp;Booking&nbsp;&nbsp;Benefits</a>
+                            <ul class="dropdown-menu border-0 desktop-tooltip-menu p-3" aria-labelledby="whyBookDropdown">
+                                                                                                        <li class="mb-2"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Best Rate Guarantee</li>
+                                                                                                        <li class="mb-2"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Priority Room Upgrades</li>
+                                                                                                        <li class="mb-2"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Value added Benefits</li>
+                                                                                                        <li class="mb-0"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Customized packages</li>
+                                                            </ul>
+                            <a class="nav-link dropdown-toggle d-lg-none text-uppercase" data-bs-toggle="collapse" href="#mobileWhyBookMenu" role="button" aria-expanded="false" aria-controls="mobileWhyBookMenu">Direct&nbsp;&nbsp;Booking&nbsp;&nbsp;Benefits</a>
+                            <div class="collapse d-lg-none" id="mobileWhyBookMenu">
+                                <ul class="list-unstyled ps-4 mt-2 mb-3 why-book-mobile-list">
+                                                                                                                    <li class="mb-2 small fw-medium text-blue-grey"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Best Rate Guarantee</li>
+                                                                                                                    <li class="mb-2 small fw-medium text-blue-grey"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Priority Room Upgrades</li>
+                                                                                                                    <li class="mb-2 small fw-medium text-blue-grey"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Value added Benefits</li>
+                                                                                                                    <li class=" small fw-medium text-blue-grey"><i class="fa-solid fa-check text-yellow me-2" aria-hidden="true"></i> Customized packages</li>
+                                                                    </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item fw-bold text-uppercase"><a class="nav-link" href="javascript:void(0);" onclick="zE('webWidget', 'open');">Contact&nbsp;&nbsp;Us</a></li>
+                    </ul>
+                    <div class="d-none d-lg-block">
+                        <button type="button" class="btn btn-book-now fw-bold px-4 py-2 trigger-book-engine" data-bs-dismiss="offcanvas">BOOK NOW</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="modal fade" id="specialOffersModal" tabindex="-1" aria-labelledby="specialOffersModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered px-4">
+        <div class="modal-content border-0 shadow-lg special-offers-card">
+
+            <button type="button" class="btn-close-custom" data-bs-dismiss="modal" aria-label="Close offers modal">
+                <i class="bi bi-x-circle" aria-hidden="true"></i>
+            </button>
+
+            <div class="modal-body text-center py-4">
+                <h6 id="specialOffersModalLabel" class="fw-bold text-uppercase mb-3">Call for Special Offers</h6>
+                <hr class="modal-line mx-auto mb-4" aria-hidden="true">
+                <div class="modal-contacts d-flex flex-column gap-3">
+
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <a href="tel:+918888848038" aria-label="Call +91 8888 848 038" class="text-decoration-none text-blue-grey">
+                            <i class="fa-solid fa-phone" aria-hidden="true"></i>
+                        </a>
+                        <span class="opacity-50 fw-light" aria-hidden="true">/</span>
+                        <a href="https://wa.me/918888848038" target="_blank" aria-label="WhatsApp +91 8888 848 038" class="text-decoration-none text-blue-grey wa-link">
+                            <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+                        </a>
+                        <a href="tel:+918888848038" aria-label="Call +91 8888 848 038" class="text-decoration-none ms-1 text-blue-grey">
+                            <span aria-hidden="true">+91 8888 848 038</span>
+                        </a>
+                    </div>
+
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <a href="tel:+917741088822" aria-label="Call +91 7741 088 822" class="text-decoration-none text-blue-grey">
+                            <i class="fa-solid fa-phone" aria-hidden="true"></i>
+                        </a>
+                        <span class="opacity-50 fw-light" aria-hidden="true">/</span>
+                        <a href="https://wa.me/917741088822" target="_blank" aria-label="WhatsApp +91 7741 088 822" class="text-decoration-none text-blue-grey wa-link">
+                            <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+                        </a>
+                        <a href="tel:+917741088822" aria-label="Call +91 7741 088 822" class="text-decoration-none ms-1 text-blue-grey">
+                            <span aria-hidden="true">+91 7741 088 822</span>
+                        </a>
+                    </div>
+
+                    <div class="d-flex align-items-center justify-content-center gap-2">
+                        <a href="tel:+917722016888" aria-label="Call +91 7722 016 888" class="text-decoration-none text-blue-grey">
+                            <i class="fa-solid fa-phone" aria-hidden="true"></i>
+                        </a>
+                        <span class="opacity-50 fw-light" aria-hidden="true">/</span>
+                        <a href="https://wa.me/917722016888" target="_blank" aria-label="WhatsApp +91 7722 016 888" class="text-decoration-none text-blue-grey wa-link">
+                            <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+                        </a>
+                        <a href="tel:+917722016888" aria-label="Call +91 7722 016 888" class="text-decoration-none ms-1 text-blue-grey">
+                            <span aria-hidden="true">+91 7722 016 888</span>
+                        </a>
+                    </div>
+
+                    <hr class="modal-line mx-auto mb-4" aria-hidden="true">
+
+                    <div class="d-flex justify-content-center">
+                            <img src="/v2/assets/tripadvisor-120.webp" height="30" width="auto" alt="TripAdvisor Traveler's Choice 2025 Award Winner" aria-hidden="true">
+                    </div>
+
+                    <div class="d-flex ms-3">
+                        <div class="align-items-center gap-1">
+                            <span class="fw-bold fs-6">Travelers' Choice Award 2025 Winner</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<section class="booking-engine-fixed w-100 engine-beachwalk" id="bookingEngine" aria-label="Hotel Booking Engine">
+    <button type="button" class="engine-toggle-btn d-lg-none" id="engineToggle" aria-expanded="false" aria-controls="book-direct-form"><span class="btn-text">BOOK NOW</span></button>
+    <div class="booking-panel container-fluid px-lg-5">
+        <form class="booking-form py-3 py-lg-4" id="book-direct-form" target="_blank" aria-label="Book Direct Form">
+            <div class="row align-items-end g-3 g-lg-4">
+                <div class="col-12 col-lg-3">
+                    <label for="checkin" class="form-label mb-1 d-block">
+                        <span class="visually-hidden">Check In Date</span>
+                        <span class="text-white small fw-semibold d-none d-lg-block" aria-hidden="true">Check In</span>
+                        <span class="d-lg-none fw-bold text-blue-grey" aria-hidden="true">Check In</span>
+                    </label>
+                    <input type="date" id="checkin" name="checkin" class="form-control date-input" required>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <label for="checkout" class="form-label mb-1 d-block">
+                        <span class="visually-hidden">Check Out Date</span>
+                        <span class="text-white small fw-semibold d-none d-lg-block" aria-hidden="true">Check Out</span>
+                        <span class="d-lg-none fw-bold text-blue-grey" aria-hidden="true">Check Out</span>
+                    </label>
+                    <input type="date" id="checkout" name="checkout" class="form-control date-input" required>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <label for="select_prop" class="form-label mb-1 d-block">
+                        <span class="visually-hidden">Select Hotel</span>
+                        <span class="text-white small fw-semibold d-none d-lg-block" aria-hidden="true">Select Hotel</span>
+                        <span class="d-lg-none fw-bold text-blue-grey" aria-hidden="true">Select Hotel</span>
+                    </label>
+                    <select class="form-select custom-select" name="select_prop" id="select_prop" required>
+                        <option value=""  disabled>SELECT</option>
+                        <option value="MzAw" >The Waterfront Resort</option>
+                        <option value="Mjk4" >The Regina Resort</option>
+                        <option value="NzQy" selected>The Beachwalk Resort</option>
+                    </select>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <button type="submit" class="btn btn-book-now btn-beachwalk w-100 fw-bold py-2 py-lg-3">BOOK NOW</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+<aside class="enquiry-panel-wrapper" id="enquiryPanel" aria-label="Quick Enquiry Panel">
+    <button type="button" class="enquiry-trigger" id="enquiryTrigger" aria-expanded="false" aria-controls="enquiryContentWrapper"><span class="btn-text">ENQUIRE NOW</span></button>
+    <div id="enquiryContentWrapper" class="enquiry-content enquiry-form-beachwalk py-4 px-4">
+        <form id="enquiryForm" action="/process-enquiry.php" method="POST" aria-label="Enquiry Form">
+            <div class="mb-3">
+                <label for="enquiryName" class="visually-hidden">Full Name (Required)</label>
+                <input type="text" id="enquiryName" name="name" class="form-control enquiry-input" placeholder="Name *" autocomplete="name" required>
+            </div>
+            <div class="mb-3">
+                <label for="enquiryPhone" class="visually-hidden">Phone Number (Required)</label>
+                <input type="tel" id="enquiryPhone" name="phone" class="form-control enquiry-input" placeholder="Phone Number *" autocomplete="tel" required>
+            </div>
+            <div class="mb-3">
+                <label for="enquiryEmail" class="visually-hidden">Email Address</label>
+                <input type="email" id="enquiryEmail" name="email" class="form-control enquiry-input" placeholder="Email" autocomplete="email">
+            </div>
+            <div class="mb-3 visually-required" aria-hidden="true">
+                <label for="password" class="visually-hidden">New Password</label>
+                <input type="password" id="new_password1" name="new_password" class="form-control enquiry-input" placeholder="New Password" autocomplete="new-password" tabindex="-1">
+            </div>
+            <div class="mb-3">
+                <label for="enquiryHotel" class="visually-hidden">Select Hotel (Required)</label>
+                <select id="enquiryHotel" name="hotel" class="form-select enquiry-input" required>
+                    <option value="" selected disabled>Select Hotel *</option>
+                    <option value="waterfront">The Waterfront Resort</option>
+                    <option value="regina">The Regina Resort</option>
+                    <option value="beachwalk">The Beachwalk Resort</option>
+                </select>
+            </div>
+            <div class="row g-3 mb-3">
+                <div class="col-6">
+                    <input type="text" onfocus="this.type='date'" id="enquiryCheckIn" name="check_in" class="form-control enquiry-input" placeholder="Check-in" required>   
+                </div>
+                <div class="col-6">
+                    <input type="text" onfocus="this.type='date'" id="enquiryCheckOut" name="check_out" class="form-control enquiry-input" placeholder="Check-out" required>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="enquiryMessage" class="visually-hidden">Your Message</label>
+                <textarea id="enquiryMessage" name="message" class="form-control enquiry-input" rows="2" placeholder="Message"></textarea>
+            </div>
+            <div class="form-check mb-3">
+                <input class="form-check-input shadow-none" type="checkbox" name="marketingConsent" value="yes" id="marketingConsent" required>
+                <label class="form-check-label small text-blue-grey" for="marketingConsent">I consent to receiving marketing emails, calls and messages for offers. *</label>
+            </div>
+            <p class="assurance small text-blue-grey mb-4" aria-hidden="true">Rest assured! We promise not to spam you! :)</p>
+              <input type="hidden" name="MXHOrgCode" value="3502" /> 
+              <input type='hidden' id='Source' name='Source' value='SEO Enquiry'/>
+              <input type="hidden" name="MXHLandingPageId" value="cca74b50-4f2d-11eb-8573-06ff16d87222" /> 
+              <input type="hidden" name="MXHFormBehaviour" value="1" /> 
+              <input type="hidden" name="MXHFormDataTransfer" value="0" />
+              <input type="hidden" name="MXHAsc" value="10" /> 
+              <input type="hidden" name="MXHPageTitle" value="Website" />
+              <input type="hidden" name="MXHOutputMessagePosition" value="0" />
+              <input type="hidden" name="MXHIsExternallyUsed" value="1" />
+            <button type="submit" class="btn btn-yellow w-100 enquiry-submit fw-bold py-3">ENQUIRE</button>
+        </form>
+    </div>
+</aside><main id="mainContent">
+  <section class="resort-hero-wrapper position-relative overflow-hidden" aria-labelledby="resortHeroHeading">
+    <div class="hero-content-overlay d-flex align-items-center justify-content-center text-center">
+      <div class="container">
+        <header class="hero-text-box reveal">
+          <h1 id="resortHeroHeading" class="resort-h2 fw-bold mb-2 text-uppercase text-white">
+            The Beachwalk Resort By Acron          </h1>
+          <div class="d-flex align-items-center justify-content-center gap-3 mb-4">
+            <p class="resort-tagline mb-0 h6 text-white">Candolim, Goa</p>
+            <button type="button" class="btn-map-link d-flex align-items-center gap-2 text-decoration-none border-0" aria-label="Show The Beachwalk Resort on Map" data-bs-toggle="modal" data-bs-target="#customMapModal"
+              data-map-link="https://maps.google.com/?q=The+Beachwalk+Resort+by+Acron"
+              data-hotel-name="The Beachwalk Resort"
+              data-map-image="v2/assets/beachwalk/home/map.webp"
+              data-micro-map-image="v2/assets/beachwalk/home/attraction-map.webp"
+              >
+              <i class="fa-solid fa-location-dot" aria-hidden="true"></i> SHOW ON MAP
+            </button>
+          </div>
+          <!--
+          <p class="hero-feature-list text-white mb-4">
+            Steps to Candolim Beach | 24-Room Boutique Stay | Garden & Pool Views | Near Goa Hotspots
+          </p> -->
+          <div class="d-flex flex-column align-items-center justify-content-center gap-3 margin-hero-text">
+            <div class="d-flex flex-row justify-content-center gap-2 gap-md-3">
+              <button type="button" class="btn btn-outline-hero fw-bold tooltip-trigger" data-resort="beachwalk" aria-label="Why stay at The Beachwalk Resort?">
+                Stay Here For...
+              </button>
+              <button type="button" class="btn btn-book-now hero-btn btn-beachwalk fw-bold trigger-book-engine" data-staah-id="NzQy">
+                BOOK NOW
+              </button>
+            </div>
+          </div>
+        </header>
+        <div class="beachwalk-hero-strip d-flex align-items-center justify-content-center">
+          <span>Stay tuned for the new vibe!</span>
+        </div>
+      </div>
+    </div>
+    <div id="heroCarousel" class="carousel slide hero-carousel-bg" data-bs-ride="carousel" data-bs-interval="5000" role="region" aria-label="Resort Banner Gallery">
+      <div class="carousel-inner h-100">
+                  <div class="carousel-item h-100 active">
+            <div class="hero-img-render" style="background-image: url('v2/assets/beachwalk/hero/1.webp');" fetchpriority="high"></div>
+            <div class="resort-overlay" aria-hidden="true"></div>
+          </div>
+                  <div class="carousel-item h-100 ">
+            <div class="hero-img-render" style="background-image: url('v2/assets/beachwalk/hero/2.webp');" ></div>
+            <div class="resort-overlay" aria-hidden="true"></div>
+          </div>
+                  <div class="carousel-item h-100 ">
+            <div class="hero-img-render" style="background-image: url('v2/assets/beachwalk/hero/3.webp');" ></div>
+            <div class="resort-overlay" aria-hidden="true"></div>
+          </div>
+                  <div class="carousel-item h-100 ">
+            <div class="hero-img-render" style="background-image: url('v2/assets/beachwalk/hero/4.webp');" ></div>
+            <div class="resort-overlay" aria-hidden="true"></div>
+          </div>
+                  <div class="carousel-item h-100 ">
+            <div class="hero-img-render" style="background-image: url('v2/assets/beachwalk/hero/5.webp');" ></div>
+            <div class="resort-overlay" aria-hidden="true"></div>
+          </div>
+              </div>
+      <div class="hero-controls-wrapper d-flex align-items-center justify-content-center gap-3">
+        <button class="promo-control-btn" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev" aria-label="Previous slide">
+          <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+        </button>
+        <div class="carousel-indicators promo-indicators position-static m-0">
+                      <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0"
+              class="active" aria-label="Slide 1"
+              aria-current="true"></button>
+                      <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1"
+              class="" aria-label="Slide 2"
+              ></button>
+                      <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2"
+              class="" aria-label="Slide 3"
+              ></button>
+                      <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="3"
+              class="" aria-label="Slide 4"
+              ></button>
+                      <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="4"
+              class="" aria-label="Slide 5"
+              ></button>
+                  </div>
+        <button class="promo-control-btn" type="button" data-bs-target="#heroCarousel" data-bs-slide="next" aria-label="Next slide">
+          <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+    <div class="wave-divider-bottom" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
+        <path fill="var(--lightest-blue)" d="M0,40 C480,120 960,-40 1440,40 L1440,100 L0,100 Z"></path>
+      </svg>
+    </div>
+  </section>
+  <div class="hero-tooltip-overlay" id="heroTooltip" role="dialog" aria-modal="true" aria-labelledby="tooltipTitle">
+    <div class="hero-tooltip-box p-4 p-md-5">
+        <header class="d-flex justify-content-between align-items-center mb-4">
+            <h4 class="tooltip-title fw-bold m-0" id="tooltipTitle">Resort Features</h4>
+            <button type="button" class="btn-close-tooltip" id="closeTooltip" aria-label="Close features list"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+        </header>
+        <ul class="tooltip-features-list fa-ul ms-4" id="tooltipList"></ul>
+    </div>
+</div>  <section id="signatureAmenities" class="signature-amenities-section py-5 position-relative bg-lightest-blue overflow-hidden" aria-labelledby="amenitiesSectionHeading">
+    <div class="container py-4 position-relative z-1"><h2 id="amenitiesSectionHeading" class="text-center fw-bold text-blue-grey reveal section-heading">Signature Amenities</h2></div>
+    <div class="container-fluid px-0 reveal position-relative z-1">
+        <div class="amenities-slider d-flex gap-4 px-3 px-lg-5 pb-5" role="region" aria-label="Signature Amenities Slider" tabindex="0">
+                            <article class="amenity-card shadow-sm bg-white">
+                    <img src="v2/assets/beachwalk/amenities/1.webp" class="amenity-img placeholder-img" alt="Tranquil Pool" loading="lazy">
+                    <div class="amenity-content p-4 text-center d-flex flex-column justify-content-center">
+                        <h3 class="fw-bold text-blue-grey mb-3 fs-5 text-uppercase">Tranquil Pool</h3>
+                        <p class="text-blue-grey mb-0 small lh-base opacity-85 fw-medium">Just steps from your room, the resort pool is perfect for a quick dip or relaxed sun-soaked breaks.</p>
+                    </div>
+                </article>
+                            <article class="amenity-card shadow-sm bg-white">
+                    <img src="v2/assets/beachwalk/amenities/2.webp" class="amenity-img placeholder-img" alt="Cinnabar Cafe" loading="lazy">
+                    <div class="amenity-content p-4 text-center d-flex flex-column justify-content-center">
+                        <h3 class="fw-bold text-blue-grey mb-3 fs-5 text-uppercase">Cinnabar Cafe</h3>
+                        <p class="text-blue-grey mb-0 small lh-base opacity-85 fw-medium"></p>
+                    </div>
+                </article>
+                            <article class="amenity-card shadow-sm bg-white">
+                    <img src="v2/assets/beachwalk/amenities/4.webp" class="amenity-img placeholder-img" alt="Jacuzzi" loading="lazy">
+                    <div class="amenity-content p-4 text-center d-flex flex-column justify-content-center">
+                        <h3 class="fw-bold text-blue-grey mb-3 fs-5 text-uppercase">Jacuzzi</h3>
+                        <p class="text-blue-grey mb-0 small lh-base opacity-85 fw-medium">Our temperature-controlled Jacuzzi is yours to enjoy. Relax and let the soothing jets melt away every bit of tension.</p>
+                    </div>
+                </article>
+                            <article class="amenity-card shadow-sm bg-white">
+                    <img src="v2/assets/beachwalk/amenities/3.webp" class="amenity-img placeholder-img" alt="Close to the Beach" loading="lazy">
+                    <div class="amenity-content p-4 text-center d-flex flex-column justify-content-center">
+                        <h3 class="fw-bold text-blue-grey mb-3 fs-5 text-uppercase">Close to the Beach</h3>
+                        <p class="text-blue-grey mb-0 small lh-base opacity-85 fw-medium">Only minutes from Candolim Beach—perfect for sunrise walks and sunset swims.</p>
+                    </div>
+                </article>
+                    </div>
+    </div>
+    <div class="wave-divider-bottom" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none"><path fill="var(--deals-grad-beachwalk-top)" d="M0,40 C480,120 960,-40 1440,40 L1440,100 L0,100 Z"></path></svg></div>
+</section>  
+<section id="exclusiveDeals" class="exclusive-deals py-5 position-relative deals-beachwalk" aria-labelledby="dealsHeading">
+    <img src="v2/assets/starfish-2.webp" class="decor scale-decor resort-deals-decor" alt="" aria-hidden="true" loading="lazy">
+    <img src="v2/assets/beach-balls.webp" class="decor scale-decor deals-desktop-decor" alt="" aria-hidden="true" loading="lazy">
+    <div class="container py-4 reveal">
+        <h2 id="dealsHeading" class="text-center fw-bold text-blue-grey mb-4 section-heading">Exclusive Deals, Just For You</h2>
+        <div class="row g-4 justify-content-center px-3 px-lg-0" id="dealsGrid">
+                            <div class="col-12 col-lg-4 deal-card " data-category="deal-pack-1">
+                    <article class="card h-100 border-0 shadow deals-card-wrapper d-flex flex-column">
+                        <img src="v2/assets/deal-2-seaway.webp" class="card-img-top deal-img" alt="Promotional image for Last Minute Offer" loading="lazy">
+                        <div class="card-body text-center d-flex flex-column justify-content-center py-4 px-3 flex-grow-1">
+                            <h3 class="card-title h4 fw-bold text-blue-grey mb-3">
+                                Last Minute Offer                            </h3>
+                            <div class="mb-3 d-flex align-items-baseline justify-content-center flex-wrap">
+                                <span class="deal-offer fw-bold">Enjoy both the options below</span>
+                            </div>
+                            <p class="small text-blue-grey opacity-75 mb-0 mx-auto text-start">
+                                ● 15% discount on Spa Rituals <br>
+                                ● 15% discount on Food &amp; Soft beverages<br>
+                                <br>
+                                                            </p>
+                        </div>
+                        <a href="https://wa.me/918888848038?text=Hi%2C%20I%20would%20like%20to%20avail%20the%20Last%20Minute%20Booking" target="_blank" class="btn btn-deal-book w-100 rounded-0 mt-auto" aria-label="Book the Last Minute Offer">GRAB IT NOW</a>
+                    </article>
+                </div>
+                            <div class="col-12 col-lg-4 deal-card " data-category="deal-pack-1">
+                    <article class="card h-100 border-0 shadow deals-card-wrapper d-flex flex-column">
+                        <img src="v2/assets/deal-3-seaway.webp" class="card-img-top deal-img" alt="Promotional image for Early Bird Offer" loading="lazy">
+                        <div class="card-body text-center d-flex flex-column justify-content-center py-4 px-3 flex-grow-1">
+                            <h3 class="card-title h4 fw-bold text-blue-grey mb-3">
+                                Early Bird Offer                            </h3>
+                            <div class="mb-3 d-flex align-items-baseline justify-content-center flex-wrap">
+                                <span class="deal-offer fw-bold">Enjoy any 2 of the options below</span>
+                            </div>
+                            <p class="small text-blue-grey opacity-75 mb-0 mx-auto text-start">
+                                ● Happy Hours Buy-One-Get-One Offer<br>
+                                ● 15% discount on Spa Rituals<br>
+                                ● Hi-Tea &amp; Snacks every evening<br>
+                                                            </p>
+                        </div>
+                        <a href="https://wa.me/918888848038?text=Hi%2C%20I%20would%20like%20to%20avail%20the%20Early%20Bird%20Discount" target="_blank" class="btn btn-deal-book w-100 rounded-0 mt-auto" aria-label="Book the Early Bird Offer">GRAB IT NOW</a>
+                    </article>
+                </div>
+                            <div class="col-12 col-lg-4 deal-card " data-category="deal-pack-1">
+                    <article class="card h-100 border-0 shadow deals-card-wrapper d-flex flex-column">
+                        <img src="v2/assets/deal-1-seaway.webp" class="card-img-top deal-img" alt="Promotional image for Long Stay Offer" loading="lazy">
+                        <div class="card-body text-center d-flex flex-column justify-content-center py-4 px-3 flex-grow-1">
+                            <h3 class="card-title h4 fw-bold text-blue-grey mb-3">
+                                Long Stay Offer                            </h3>
+                            <div class="mb-3 d-flex align-items-baseline justify-content-center flex-wrap">
+                                <span class="deal-offer fw-bold">Enjoy any 3 Benefits as listed below</span>
+                            </div>
+                            <p class="small text-blue-grey opacity-75 mb-0 mx-auto text-start">
+                                ● Happy Hours Buy-One-Get-One Offer<br>
+                                ● 15% discount on Spa Rituals<br>
+                                ● Hi-Tea &amp; Snacks every evening<br>
+                                ● 15% discount on Food &amp; Soft beverages                            </p>
+                        </div>
+                        <a href="https://wa.me/918888848038?text=Hi%2C%20I%20would%20like%20to%20avail%20the%20Long%20Stay%20Offer" target="_blank" class="btn btn-deal-book w-100 rounded-0 mt-auto" aria-label="Book the Long Stay Offer">GRAB IT NOW</a>
+                    </article>
+                </div>
+                    </div>
+    </div>
+</section>  
+<section id="resortGallery" class="resort-gallery pt-0 pb-5 gallery-beachwalk" aria-labelledby="gallerySectionHeading">
+    <div class="container py-4">
+        <h2 id="gallerySectionHeading" class="text-center fw-bold text-blue-grey mb-4 section-heading">Gallery</h2>
+        <div class="filter-pills-wrapper reveal d-flex justify-content-lg-center gap-3 mb-5 px-3 px-lg-0" id="galleryFilters" role="group" aria-label="Gallery Filters">
+                            <button type="button" class="filter-pill gallery-filter-pill active" data-filter="exterior">EXTERIOR</button>
+                            <button type="button" class="filter-pill gallery-filter-pill " data-filter="rooms">ROOMS</button>
+                            <button type="button" class="filter-pill gallery-filter-pill " data-filter="restaurant">RESTAURANT</button>
+                            <button type="button" class="filter-pill gallery-filter-pill " data-filter="common-spaces">COMMON SPACES</button>
+                            <button type="button" class="filter-pill gallery-filter-pill " data-filter="amenities">AMENITIES</button>
+                    </div>
+        <div class="gallery-grid-container px-3 px-lg-0 reveal" id="galleryGrid">
+                            <a href="v2/assets/beachwalk/gallery/exterior/1.webp"
+                    class="gallery-item glightbox "
+                    data-category="exterior"
+                    data-gallery="gallery-exterior"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/exterior/1.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/exterior/2.webp"
+                    class="gallery-item glightbox "
+                    data-category="exterior"
+                    data-gallery="gallery-exterior"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/exterior/2.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/exterior/3.webp"
+                    class="gallery-item glightbox "
+                    data-category="exterior"
+                    data-gallery="gallery-exterior"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/exterior/3.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/exterior/4.webp"
+                    class="gallery-item glightbox "
+                    data-category="exterior"
+                    data-gallery="gallery-exterior"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/exterior/4.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/1.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/1.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/2.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/2.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/3.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/3.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/4.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/4.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/5.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/5.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/6.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/6.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/7.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/7.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/room/8.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="rooms"
+                    data-gallery="gallery-rooms"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/room/8.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/common-spaces/1.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="common-spaces"
+                    data-gallery="gallery-common-spaces"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/common-spaces/1.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/common-spaces/2.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="common-spaces"
+                    data-gallery="gallery-common-spaces"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/common-spaces/2.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/common-spaces/3.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="common-spaces"
+                    data-gallery="gallery-common-spaces"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/common-spaces/3.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/common-spaces/4.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="common-spaces"
+                    data-gallery="gallery-common-spaces"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/common-spaces/4.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/amenities/1.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="amenities"
+                    data-gallery="gallery-amenities"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/amenities/1.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                            <a href="v2/assets/beachwalk/gallery/amenities/2.webp"
+                    class="gallery-item glightbox d-none"
+                    data-category="amenities"
+                    data-gallery="gallery-amenities"
+                    aria-label="View larger image: ">
+                    <img src="v2/assets/beachwalk/gallery/amenities/2.webp"
+                        alt=""
+                        class="gallery-img placeholder-img"
+                        loading="lazy">
+                </a>
+                    </div>
+    </div>
+</section>  
+<section id="exploreRooms" class="explore-rooms-section py-5 bg-white position-relative" aria-labelledby="roomsSectionHeading">
+        <img src="v2/assets/coconut-2.webp" class="decor scale-decor explore-rooms-heading-decor" alt="" aria-hidden="true" loading="lazy">        <div class="container py-4 position-relative z-1">
+        <h2 id="roomsSectionHeading" class="text-center fw-bold text-blue-grey mb-5 pb-lg-3 reveal section-heading">Explore Your Rooms</h2>
+                                <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                                                <div class="col-lg-6 order-2 order-lg-1 pe-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Cozy Room</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg pe-lg-4">An intimate retreat designed for effortless comfort, the Cozy Room offers a warm, thoughtfully curated space ideal for short stays. While it does not feature a balcony or external view, its refined interiors, plush bedding, and calming palette create a serene escape after a day by the beach.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    2 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-window-maximize text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Fixed Frame Windows - No View                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King Size Bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/cozy-room.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Cozy Room">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <div class="room-image-composition position-relative ps-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="cozy-roomCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Cozy Room Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/cozy/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Cozy Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/cozy/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Cozy Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/cozy/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Cozy Room" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#cozy-roomCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="cozy-roomCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#cozy-roomCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="cozy-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#cozy-roomCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="cozy-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#cozy-roomCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="cozy-roomCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#cozy-roomCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="cozy-roomCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+                    <div class="hotel-section-divider reveal" aria-hidden="true"></div>            <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                                                <div class="col-lg-6 order-2 ps-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Horizon View Room</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg ">Designed without a balcony yet thoughtfully crafted for those who value natural light and openness, the Horizon View Room offers charming views of either the pool or lush gardens. Expansive windows beautifully frame the outdoors, inviting in a relaxed Goan vibe that blends seamlessly with its elegant, contemporary interiors.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Max 3 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-regular fa-window-maximize text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Fixed Frame Windows With View                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King size bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/horizon-view-room.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Horizon View Room">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1">
+                    <div class="room-image-composition position-relative pe-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="horizon-view-roomCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Horizon View Room Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/courtyard-view/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Horizon View Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/courtyard-view/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Horizon View Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/courtyard-view/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Horizon View Room" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#horizon-view-roomCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="horizon-view-roomCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#horizon-view-roomCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="horizon-view-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#horizon-view-roomCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="horizon-view-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#horizon-view-roomCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="horizon-view-roomCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#horizon-view-roomCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="horizon-view-roomCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+                    <div class="hotel-section-divider reveal" aria-hidden="true"></div>            <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                                        <img src="v2/assets/poolring.webp" class="decor scale-decor room-decor-2-3" alt="" aria-hidden="true" loading="lazy">                    <!---->
+                                                                <div class="col-lg-6 order-2 order-lg-1 pe-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Courtyard Premier Room</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg pe-lg-4">Opening out to a Balcony, these rooms are immersed in a tranquil garden setting that reflects the spirit of a boutique retreat. With soothing greens, contemporary design, and seamless indoor-outdoor flow, the Courtyard Premier rooms offer a perfect blend of comfort and understated luxury.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Max 3 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-door-open text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Spacious Balcony                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King Size Bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/courtyard-premier-room.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Courtyard Premier Room">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <div class="room-image-composition position-relative ps-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="courtyard-premier-roomCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Courtyard Premier Room Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/courtyard/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Courtyard Premier Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/courtyard/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Courtyard Premier Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/courtyard/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Courtyard Premier Room" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#courtyard-premier-roomCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="courtyard-premier-roomCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#courtyard-premier-roomCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="courtyard-premier-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#courtyard-premier-roomCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="courtyard-premier-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#courtyard-premier-roomCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="courtyard-premier-roomCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#courtyard-premier-roomCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="courtyard-premier-roomCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+                    <div class="hotel-section-divider reveal" aria-hidden="true"></div>            <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                                                <div class="col-lg-6 order-2 ps-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Poolside Sundowner Room</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg ">Set just steps away from the pool, these rooms are crafted for indulgent, laid-back living. Each features a private balcony overlooking the pool, making it the perfect setting to unwind with a sundowner as the sky transforms at dusk. A vibrant yet relaxed experience, ideal for guests seeking a social, resort-style stay.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Max 3 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-door-open text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Private Spacious Balcony                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King Size Bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/poolside-sundowner-room.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Poolside Sundowner Room">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1">
+                    <div class="room-image-composition position-relative pe-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="poolside-sundowner-roomCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Poolside Sundowner Room Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/pool/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Poolside Sundowner Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/pool/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Poolside Sundowner Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/pool/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Poolside Sundowner Room" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#poolside-sundowner-roomCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="poolside-sundowner-roomCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#poolside-sundowner-roomCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="poolside-sundowner-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#poolside-sundowner-roomCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="poolside-sundowner-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#poolside-sundowner-roomCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="poolside-sundowner-roomCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#poolside-sundowner-roomCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="poolside-sundowner-roomCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+                    <div class="hotel-section-divider reveal" aria-hidden="true"></div>            <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                <img src="v2/assets/umbrella.webp" class="decor scale-decor room-decor-5-6" alt="" aria-hidden="true" loading="lazy">                                <div class="col-lg-6 order-2 order-lg-1 pe-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Signature Garden Room</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg pe-lg-4">Exclusively located on the first floor, the Signature Garden Rooms redefine spacious luxury. Featuring expansive interiors and a large private balcony, these rooms are designed for guests who value both space and privacy. Thoughtful detailing, premium finishes, and an elevated vantage point create a refined, indulgent stay experience.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Max 3 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-door-open text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Private Spacious Balcony                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King Size Bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/signature-garden-room.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Signature Garden Room">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <div class="room-image-composition position-relative ps-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="signature-roomCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Signature Garden Room Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/garden/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Signature Garden Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/garden/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Signature Garden Room" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/garden/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Signature Garden Room" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#signature-roomCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="signature-roomCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#signature-roomCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="signature-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#signature-roomCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="signature-roomCarousel"></button>
+                                                                            <button type="button" data-bs-target="#signature-roomCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="signature-roomCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#signature-roomCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="signature-roomCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+                    <div class="hotel-section-divider reveal" aria-hidden="true"></div>            <article class="row align-items-center gy-4 gy-lg-5 mb-5 mb-lg-5 pb-3 room-row reveal position-relative">
+                                                                <div class="col-lg-6 order-2 ps-lg-5">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Private Garden Suite</h3>
+                    <p class="text-blue-grey opacity-75 mb-4 small fw-medium lh-lg ">A true highlight of the resort, the Private Garden Suite offer an exclusive ground-floor experience with a generous private garden and an expansive sit-out area. Perfect for slow mornings and intimate evenings, these suites blend privacy, space, and nature—delivering a distinctly luxurious, villa-style ambiance within a boutique setting.</p>
+                    <div class="row gy-3 mb-4 room-amenities">
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-user-group text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Max 3 Adults                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-door-open text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Private Spacious Balcony                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-bed text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    King Size Bed                                </span>
+                            </div>
+                                                    <div class="col-6 d-flex align-items-center gap-2">
+                                <i class="fa-solid fa-shower text-blue-grey opacity-50 small" aria-hidden="true"></i>
+                                <span class="fw-bold text-blue-grey opacity-75 small">
+                                    Shower Cubicle                                </span>
+                            </div>
+                                            </div>
+                    <div class="d-flex flex-wrap gap-3 mt-2">
+                        <button type="button" class="btn btn-beachwalk fw-bold px-4 py-2 small trigger-book-engine">BOOK NOW</button>
+                                                    <a href="https://acronhotelsgoa.com/beachwalk/private-garden-suite.php" class="btn btn-outline-room fw-bold px-4 py-2 small" aria-label="Learn more about the Private Garden Suite">LEARN MORE</a>
+                                            </div>
+                </div>
+                <div class="col-lg-6 order-1">
+                    <div class="room-image-composition position-relative pe-lg-4">
+                                                    <div class="mt-3 beachwalk-explore-carousel-strip d-lg-flex align-items-center justify-content-center">
+                                <span>Fresh new look - Coming soon!</span>
+                            </div>
+                                                <div id="private-garden-suiteCarousel" class="carousel slide room-carousel position-relative" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="hover" aria-label="Private Garden Suite Image Gallery">
+                            <div class="carousel-loader" aria-hidden="true">
+    <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" focusable="false"><circle class="loader-bg" cx="18" cy="18" r="16"></circle><circle class="loader-track" cx="18" cy="18" r="16"></circle></svg>
+</div>                            <div class="carousel-inner h-100 rounded-4 shadow-sm">
+                                                                    <div class="carousel-item active h-100"><img src="v2/assets/beachwalk/rooms/private-garden/1.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 1 of Private Garden Suite" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/private-garden/2.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 2 of Private Garden Suite" loading="lazy"></div>
+                                                                    <div class="carousel-item  h-100"><img src="v2/assets/beachwalk/rooms/private-garden/3.webp" class="d-block w-100 h-100 object-fit-cover placeholder-img" alt="View 3 of Private Garden Suite" loading="lazy"></div>
+                                                            </div>
+                            <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                            <div class="room-controls-wrapper d-flex align-items-center justify-content-center gap-4 position-absolute w-100 pb-3 z-3">
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#private-garden-suiteCarousel" data-bs-slide="prev" aria-label="Previous slide" aria-controls="private-garden-suiteCarousel"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+                                <div class="carousel-indicators promo-indicators position-static m-0">
+                                                                            <button type="button" data-bs-target="#private-garden-suiteCarousel" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true" aria-controls="private-garden-suiteCarousel"></button>
+                                                                            <button type="button" data-bs-target="#private-garden-suiteCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"  aria-controls="private-garden-suiteCarousel"></button>
+                                                                            <button type="button" data-bs-target="#private-garden-suiteCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"  aria-controls="private-garden-suiteCarousel"></button>
+                                                                    </div>
+                                <button class="promo-control-btn border-0 bg-transparent d-flex align-items-center" type="button" data-bs-target="#private-garden-suiteCarousel" data-bs-slide="next" aria-label="Next slide" aria-controls="private-garden-suiteCarousel"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            </div>
+    <div class="wave-divider-bottom" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
+                        <path fill="var(--light-blue)" d="M0,40 C480,120 960,-40 1440,40 L1440,100 L0,100 Z"></path>        </svg>
+    </div>
+        <img src="v2/assets/conch-shell.webp" class="decor scale-decor decorative-shell-2" alt="" aria-hidden="true" loading="lazy">    </section>  
+<section id="highlightAmenities" class="highlight-amenities-section py-5 position-relative" aria-labelledby="highlightsHeading">
+    <div class="container py-4 position-relative z-1">
+        <h2 id="highlightsHeading" class="text-center fw-bold text-blue-grey mb-5 reveal section-heading">Resort Highlights</h2>
+        <div class="row gy-5 justify-content-center">
+                            <article class="col-12 col-md-6
+                     col-lg-4                                             highlight-item reveal">
+                    <img src="v2/assets/beachwalk/amenities/2.webp" class="highlight-img placeholder-img mb-4 shadow-sm" alt="Cinnabar Cafe" loading="lazy">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Cinnabar Cafe</h3>
+                    <p class="text-blue-grey mb-0 small lh-lg opacity-85 fw-medium pe-lg-3">Relax in our cozy cafe space, savoring light bites and freshly brewed coffee and warm hot drink.</p>
+                </article>
+                            <article class="col-12 col-md-6
+                     col-lg-4                                             highlight-item reveal">
+                    <img src="v2/assets/beachwalk/benefits/2.webp" class="highlight-img placeholder-img mb-4 shadow-sm" alt="Outdoor Events" loading="lazy">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Outdoor Events</h3>
+                    <p class="text-blue-grey mb-0 small lh-lg opacity-85 fw-medium pe-lg-3">Rejuvenate your senses with professional treatments designed for ultimate relaxation.</p>
+                </article>
+                            <article class="col-12 col-md-6
+                     col-lg-4                                             highlight-item reveal">
+                    <img src="v2/assets/beachwalk/amenities/1.webp" class="highlight-img placeholder-img mb-4 shadow-sm" alt="Tranquil Pool" loading="lazy">
+                    <h3 class="fw-bold text-blue-grey mb-3 fs-3">Tranquil Pool</h3>
+                    <p class="text-blue-grey mb-0 small lh-lg opacity-85 fw-medium pe-lg-3">Just steps from your room, this pool is perfect for a quick dip or relaxed sun-soaked breaks.</p>
+                </article>
+                    </div>
+    </div>
+    <div class="wave-divider-bottom" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none"><path fill="var(--lightest-blue)" d="M0,40 C480,120 960,-40 1440,40 L1440,100 L0,100 Z"></path></svg></div>
+</section>  <section class="reviews-section py-5 bg-lightest-blue resort-reviews" aria-labelledby="reviewsHeading">
+    <div class="container py-4">
+      <h2 id="reviewsHeading" class="text-center fw-bold text-blue-grey mb-2 reveal section-heading">What Our Guests Say</h2>
+      <div class="review-summary-wrapper reveal">
+        <div class="tripadvisor-pill" aria-label="TripAdvisor Rating Summary">
+          <div class="ta-icon-circle" aria-hidden="true">
+            <img src="v2/assets/tripadvisor-120.webp" alt="" class="review-badge-icon">
+          </div>
+          <div class="ta-stats">
+            <span class="ta-rating">4.8 stars</span>
+            <span class="ta-count">from 2,379 reviews</span>
+          </div>
+        </div>
+        <img src="v2/assets/travellers-choice-200.webp" alt="TripAdvisor Travellers Choice 2024 Award" class="ta-badge-image shadow-sm" loading="lazy">
+      </div>
+    </div>
+    <div class="container-fluid px-0 reveal">
+    <div class="reviews-slider d-flex gap-4 px-3 px-lg-5 pb-4" role="region" aria-label="Guest Reviews Slider" tabindex="0">
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Ajmal M</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Perfect for a family!</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">A very clean, well maintained hotel located in the heart of Candolim. Good location as its nearby all the popular beaches, tourist spots and eateries of North Goa. The hotel staff were very polite and efficient. Their in home restaurant is located right next to the property. We only had breakfast there and I am very much satisfied with the offerings. Will choose this hotel again for my next visit.</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">rahul_agashe</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">A perfect place to stay with family and pets</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">This is our 2 nd time at Acron seaway. A very good maintained property with excellent service &amp; Variety of tasty food. Those who are with their pets must try this hotel. They should take a room with attached garden. We would like to specially mention Mr Gopal from front office and Mr Deepak from restaurant who are very cooperative and respectful..</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Venture64955209538</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Good</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">Good stay with clean rooms and tasty food. No improvement needed. Staff like Gopal and Priyanka were polite and helpful. Overall, very satisfied with the service and hospitality. Good stay with clean rooms and tasty food. No improvement needed. Staff like Gopal and Priyanka were polite and helpful. Overall, very satisfied with the service and hospitality.</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Sandeep A</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Stay at Acron Seaway resort</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">Very nice stay at Acron Seaway Resort. Staff is very friendly and go out of way to make your stay memorable. Gopal from frontdesk was very helpful in guiding us. Taking away very fond memories with me. Indian restaurant down below has also got plenty of options so a vegetarian like me had no issues.</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Arun Kutta</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Good Stay</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">Good Room It was nice to stay there and the staff was very good and adjustable. The staff mr Gopal was very polite and always available for help. The Room decoration was also good with full facilities. Rooms are highly furnished. A complete good stay , memorable moments . Thank you Acron seaway resort</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Traveler25085299267</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Excellent.. No words!!</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">We have no idea of the resort before.. We took winter package directly with hotel which includes both breakfast and dinner buffet.. This helped us a lot as we have 4yr kid.. The rooms and washrooms were so hygienic.. Food has a special place in our heart.. I recommend this resort to everyone who is visiting Goa with families</blockquote>
+            </article>
+                    <article class="review-card shadow bg-white">
+                <header class="d-flex align-items-center mb-3">
+                    <div class="review-avatar d-flex align-items-center justify-content-center me-3" aria-hidden="true"><i class="fa-solid fa-user"></i></div>
+                    <div>
+                        <h3 class="h6 mb-0 fw-bold text-blue-grey">Sherpa30749197891</h3>
+                        <div class="text-yellow small" aria-label="Rating: 5 out of 5 stars"><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i><i class="fa-solid fa-star" aria-hidden="true"></i></div>                    </div>
+                </header>
+                <h4 class="h6 fw-bold text-blue-grey text-uppercase mb-2">Great ambience, and politely staff ,nice food</h4>
+                <blockquote class="review-body text-blue-grey mb-0 small m-0">This place especially for family,food quality is to good, very nice place to enjoy here , I enjoyed here with my family, and also here service is very great. Staff is very politely, Specially I would like to thanks to restaurant manager Mr .Zishan, he is very cooperative and very politely. thanks to you, I will recommend to my friends visit here😍❤️😍❤️</blockquote>
+            </article>
+            </div>
+</div>  </section>
+  <section class="video-section py-5 bg-white yt-embed-beachwalk" aria-label="Video Gallery">
+  <div class="container py-4 reveal">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-12 position-relative">
+        <img src="v2/assets/scooter-beachwalk.webp" class="decor video-decor" alt="" aria-hidden="true" loading="lazy">
+        <div id="videoCarousel_6a5fa04eb3566" class="carousel slide" data-bs-ride="false" data-bs-interval="false" role="region" aria-label="Resort Video Carousel">
+            <div class="carousel-inner video-carousel-inner rounded-4 shadow-sm">
+                         <div class="carousel-item active"><div class="ratio ratio-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hR4be6mqJc0?si=BVdRi9CcmtEd3qd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+                          <div class="carousel-item "><div class="ratio ratio-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Vr4gmjShQXI?si=J2uUgBI6bhtCOdhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+                          <div class="carousel-item "><div class="ratio ratio-16x9"><iframe width="560" height="315" src="https://www.youtube.com/embed/zH0A_5SSxvw?si=nsDyrNouHLCBk0T2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+                      </div>
+          <div class="d-flex align-items-center justify-content-center gap-4 mt-4">
+            <button type="button" class="custom-video-control" data-bs-target="#videoCarousel_6a5fa04eb3566" data-bs-slide="prev" aria-label="Previous video"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+            <div class="carousel-indicators custom-video-indicators position-static m-0">
+                              <button type="button" data-bs-target="#videoCarousel_6a5fa04eb3566" data-bs-slide-to="0" class="active" aria-label="Slide 1" aria-current="true"></button>
+                              <button type="button" data-bs-target="#videoCarousel_6a5fa04eb3566" data-bs-slide-to="1" class="" aria-label="Slide 2" ></button>
+                              <button type="button" data-bs-target="#videoCarousel_6a5fa04eb3566" data-bs-slide-to="2" class="" aria-label="Slide 3" ></button>
+                          </div>
+            <button type="button" class="custom-video-control" data-bs-target="#videoCarousel_6a5fa04eb3566" data-bs-slide="next" aria-label="Next video"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>  
+<section class="image-head-body-section pt-5 position-relative reveal" aria-labelledby="image-head-body-Heading">
+    <img src="v2/assets/palm.webp" class="decor decor-t0-r0" alt="" aria-hidden="true" loading="lazy">
+    <div class="container pb-5 mb-lg-4">
+        <div class="row align-items-center gy-5">
+            <div class="col-lg-5">
+                <figure class="rounded-4 shadow overflow-hidden position-relative m-0">
+                    <img src="v2/assets/homes.webp" class="d-block w-100 promo-carousel-img" alt="Goa&#039;s Leading Real Estate Developer since 1988 Showcase" loading="lazy">
+                    <div class="carousel-gradient-overlay" aria-hidden="true"></div>
+                </figure>
+            </div>
+            <div class="col-lg-6 text-center px-lg-5 text-lg-start">
+                <header>
+                    <p class="promo-tagline fw-bold text-uppercase mb-2 text-blue-grey opacity-75">Acron Developers</p>
+                    <h2 id="image-head-body-Heading" class="promo-heading fw-bold text-blue-grey mb-4">Goa&#039;s Leading Real Estate Developer since 1988</h2>
+                </header>
+                <p class="promo-text text-blue-grey opacity-75 mb-0">With over 40+ developments, 1600 happy homeowners and over 4 million sqft developed in Western and Southern India, Acron continues to be Goa&#039;s trusted real estate leader for over 38 years. From luxury villas to thoughtfully designed communities, we build homes that offer comfort, style and long‑term value, bringing dreams to life with quality you can trust</p>
+            </div>
+        </div>
+    </div>
+    <div class="wave-divider-bottom" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none"><!-- <path fill="var(--lightest-blue)" d="M0,40 C480,120 960,-40 1440,40 L1440,100 L0,100 Z"></path> --></svg></div>
+</section>    <div class="modal fade modal-lap" id="customMapModal" tabindex="-1" aria-labelledby="customMapModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg px-4">
+        <div class="modal-content border-0 shadow-lg special-offers-card">
+            <div class="modal-header border-0 pb-0 d-flex align-items-center justify-content-between gap-3">
+                <button type="button" id="dynamicMapBackBtn" class="btn btn-yellow fw-bold px-4 py-2 d-inline-flex align-items-center justify-content-center gap-2 shadow-sm" aria-label="Back to resort map"><i class="fa-solid fa-arrow-left" aria-hidden="true"></i>BACK</button>
+                <button type="button" class="btn-close shadow-none" data-bs-dismiss="modal" aria-label="Close map"></button>
+            </div>
+            <div class="modal-body text-center pt-3 pb-4">
+                <img src="v2/assets/acron-map.webp" id="dynamicCustomMapImg" alt="Illustrated Map of Goa" class="img-fluid rounded-4 shadow-sm mb-4 w-100 object-fit-cover" style="max-height: 50vh;">
+                <div class="d-grid gap-3 d-md-flex justify-content-center">
+                    <a href="#" id="dynamicGoogleMapsBtn" target="_blank" rel="noopener noreferrer" class="btn btn-yellow fw-bold px-2 py-2 d-inline-flex align-items-center justify-content-center gap-2 shadow-sm flex-fill"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> VIEW ON GOOGLE MAPS</a>
+                    <button type="button" id="dynamicNearbyAttractionsBtn" class="btn btn-yellow fw-bold px-2 py-2 d-inline-flex align-items-center justify-content-center gap-2 shadow-sm flex-fill"><i class="fa-solid fa-map-location-dot" aria-hidden="true"></i> NEARBY ATTRACTIONS</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></main> <footer id="footer" class="footer pt-5" aria-labelledby="footerHeading">
+    <h2 id="footerHeading" class="visually-hidden">Site Footer</h2>
+    <div class="container pb-4">
+        <div class="row gy-5 align-items-start">
+            <div class="col-lg-4 col-md-12 text-center text-lg-start">
+                <a href="/" aria-label="Acron Group of Hotels Home"><img src="/v2/assets/acron-group-of-hotels-logo-main.webp" alt="Acron Group of Hotels Logo" class="footer-logo img-fluid" width="220" loading="lazy"></a>
+            </div>
+            <nav class="col-lg-2 col-md-4 col-6" aria-label="Sitemap">
+                <h3 class="h6 footer-heading text-uppercase fw-bold mb-4">Sitemap</h3>
+                <ul class="list-unstyled footer-links">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="https://acronhotelsgoa.com/about.php">About Us</a></li>
+                    <li><a href="https://acronhotelsgoa.com/contact.php">Contact Us</a></li>
+                    <!--<li><a href="blog.php">Blog</a></li>-->
+                    <!--<li><a href="careers.php">Careers</a></li>-->
+                </ul>
+            </nav>
+            <nav class="col-lg-3 col-md-4 col-6" aria-label="Our Hotels">
+                <h3 class="h6 footer-heading text-uppercase fw-bold mb-4">Our Hotels</h3>
+                <ul class="list-unstyled footer-links">
+                    <li><a href="/waterfront.php">The Waterfront Resort</a></li>
+                    <li><a href="/candolim-regina.php">The Regina Resort</a></li>
+                    <li><a href="/beachwalk.php">The Beachwalk Resort</a></li>
+                </ul>
+            </nav>
+            <nav class="col-lg-3 col-md-4 col-12" aria-label="Legal Information">
+                <h3 class="h6 footer-heading text-uppercase fw-bold mb-4">Terms & Policies</h3>
+                <ul class="list-unstyled footer-links">
+                    <li><a href="https://acronhotelsgoa.com/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="https://acronhotelsgoa.com/cancellation-policy.php">Cancellation Policy</a></li>
+                    <li><a href="https://acronhotelsgoa.com/terms-conditions.php">Terms & Conditions</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="footer-bottom py-3">
+        <div class="container-fluid px-lg-5">
+            <div class="row align-items-center gy-3">
+                <div class="col-md-6 text-center text-md-start">
+                    <div class="footer-social-icons d-flex justify-content-center justify-content-md-start gap-4" style="display:none!important;">
+                        <a href="#" aria-label="Visit our TripAdvisor page" class="social-link"><img src="/v2/assets/icon-tripadvisor.webp" alt="" aria-hidden="true" class="ta-custom-icon" loading="lazy"></a>
+                        <a href="#" aria-label="Visit our Google profile" class="social-link"><i class="fa-brands fa-google" aria-hidden="true"></i></a>
+                        <a href="#" aria-label="Visit our YouTube channel" class="social-link"><i class="fa-brands fa-youtube" aria-hidden="true"></i></a>
+                        <a href="#" aria-label="Visit our Instagram page" class="social-link"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+                        <a href="#" aria-label="Visit our Facebook page" class="social-link"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <p class="mb-0 credit-text text-uppercase fw-bold small ls-1"><a href="https://forwwward.co" class="forwwward-tag" aria-label="Website designed and developed by Forwwward" target="_blank" rel="nofollow noopener noreferrer">Powered by <span class="brand-forwwward">forwwward</span></a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center" aria-label="Scroll back to top"><i class="bi bi-arrow-up" aria-hidden="true"></i></a>
+<script src="/v2/js/script.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" defer></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>
+<script src="/assets/vendor/glightbox/js/glightbox.min.js" defer></script>
+<script src="/assets/vendor/purecounter/purecounter.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js" defer></script>
+<script type="text/javascript" src="https://web.mxradon.com/t/Tracker.js" defer></script>
+<script type="text/javascript">
+    // Ensures the tracker only fires after the external script has fully loaded
+    window.addEventListener('load', function() {
+        if (typeof pidTracker === 'function') {
+            pidTracker('3502');
+        }
+    });
+</script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=bbabf01e-171c-4a4e-ae43-c61e43968371" defer></script>
+</body>
+</html>

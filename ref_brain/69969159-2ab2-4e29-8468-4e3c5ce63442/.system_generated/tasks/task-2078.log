@@ -1,0 +1,4 @@
+D:\Travel.IO\ml-service\ml\image_scraper.py:23: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+Image Scraper Error: https://duckduckgo.com/i.js?o=json&q=mumbai&l=us-en&vqd=4-253632421416984006396880832036766643187&p=1&f=%2C%2C%2C%2C%2C 403 Ratelimit
+['https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80', 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80', 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80', 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80', 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80']

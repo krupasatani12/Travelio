@@ -1,0 +1,432 @@
+/* ================================================
+   Travel.IO — Landmark Scanner Premium UI Styles
+   ================================================ */
+
+.landmark-page {
+  padding: 1.5rem 1rem 3rem;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.landmark-page-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.landmark-page-header h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  margin-bottom: 0.6rem;
+}
+
+.landmark-page-header p {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+}
+
+/* ── Grid Layout ─────────────────────────────── */
+.landmark-grid {
+  display: grid;
+  grid-template-columns: 35% 1fr;
+  gap: 1.75rem;
+  align-items: stretch;
+}
+
+@media (max-width: 900px) {
+  .landmark-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Shared Card ─────────────────────────────── */
+.lm-card {
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  transition: box-shadow 0.3s ease;
+}
+
+.lm-card:hover {
+  box-shadow: 0 12px 40px rgba(99, 102, 241, 0.15);
+}
+
+.lm-card-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin-bottom: 1.25rem;
+}
+
+/* ── Upload Card ─────────────────────────────── */
+.lm-dropzone {
+  border: 2px dashed rgba(99, 102, 241, 0.4);
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  background: rgba(15, 23, 42, 0.4);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 210px;
+  flex-grow: 1;
+  margin-bottom: 1.25rem;
+  position: relative;
+}
+
+.lm-dropzone:hover,
+.lm-dropzone.dragging {
+  border-color: #a855f7;
+  background: rgba(168, 85, 247, 0.07);
+  transform: translateY(-2px);
+}
+
+.lm-dropzone-icon {
+  font-size: 2.75rem;
+  margin-bottom: 0.75rem;
+  opacity: 0.8;
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-6px); }
+}
+
+.lm-dropzone-text {
+  font-size: 0.95rem;
+  color: #64748b;
+  margin: 0;
+}
+
+.lm-dropzone-hint {
+  font-size: 0.8rem;
+  color: #475569;
+  margin-top: 0.35rem;
+}
+
+/* Image preview inside dropzone */
+.lm-preview-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.lm-preview-img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+.lm-clear-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  z-index: 2;
+}
+
+.lm-clear-btn:hover {
+  background: #ef4444;
+  border-color: #ef4444;
+}
+
+/* Scan Button */
+.btn-scan {
+  background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #10b981 100%);
+  color: #ffffff;
+  border: none;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.85rem 1.5rem;
+  border-radius: 14px;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  letter-spacing: 0.3px;
+}
+
+.btn-scan:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(168, 85, 247, 0.4);
+  filter: brightness(1.08);
+}
+
+.btn-scan:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+  transform: none;
+  filter: none;
+}
+
+/* ── Result Card States ──────────────────────── */
+.lm-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  text-align: center;
+  padding: 2rem;
+  color: #475569;
+  gap: 1rem;
+}
+
+.lm-empty-icon {
+  font-size: 3.5rem;
+  opacity: 0.5;
+}
+
+.lm-empty p {
+  font-size: 0.95rem;
+  margin: 0;
+  color: #64748b;
+}
+
+/* Loading state */
+.lm-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  padding: 2rem;
+  gap: 1.25rem;
+  text-align: center;
+}
+
+.lm-spinner {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 5px solid rgba(99, 102, 241, 0.15);
+  border-top-color: #6366f1;
+  border-right-color: #a855f7;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.lm-loading-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+}
+
+.lm-loading-steps {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.lm-loading-steps li {
+  font-size: 0.85rem;
+  color: #6b7280;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lm-loading-steps li.active-step {
+  color: #4f46e5;
+  font-weight: 600;
+}
+
+.lm-loading-steps li .step-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #d1d5db;
+  flex-shrink: 0;
+}
+
+.lm-loading-steps li.active-step .step-dot {
+  background: #6366f1;
+  box-shadow: 0 0 8px rgba(99, 102, 241, 0.6);
+  animation: pulse-dot 1s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50%       { transform: scale(1.4); opacity: 0.6; }
+}
+
+/* ── Result display ──────────────────────────── */
+.lm-result {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  animation: fadeInUp 0.5s ease;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.lm-result-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(135deg, rgba(79, 70, 229, 0.08), rgba(16, 185, 129, 0.08));
+  border: 1px solid rgba(79, 70, 229, 0.25);
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #4f46e5;
+  margin-bottom: 1.1rem;
+  width: fit-content;
+}
+
+.lm-landmark-name {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  font-weight: 800;
+  margin: 0 0 0.35rem 0;
+  line-height: 1.2;
+  color: #1f2937;
+}
+
+.lm-landmark-location {
+  font-size: 0.95rem;
+  color: #2563eb;
+  font-weight: 600;
+  margin: 0 0 1.25rem 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* Confidence meter */
+.lm-confidence {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.1rem;
+}
+
+.lm-confidence-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.lm-confidence-label {
+  font-size: 0.82rem;
+  color: #374151;
+  font-weight: 600;
+}
+
+.lm-confidence-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #10b981;
+}
+
+.lm-bar-bg {
+  height: 7px;
+  background: #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.lm-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #6366f1 0%, #10b981 100%);
+  border-radius: 4px;
+  transition: width 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Info blocks */
+.lm-info-block {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 13px;
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.lm-info-block h4 {
+  font-size: 0.72rem;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0 0 0.45rem 0;
+  font-weight: 700;
+}
+
+.lm-info-block p {
+  font-size: 0.93rem;
+  line-height: 1.7;
+  color: #374151;
+  margin: 0;
+}
+
+/* Error block */
+.lm-error {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: 13px;
+  padding: 1.25rem;
+  color: #b91c1c;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+/* Maps button */
+.lm-btn-maps {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #eff6ff;
+  color: #2563eb;
+  border: 1px solid #bfdbfe;
+  padding: 0.7rem 1.25rem;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  width: fit-content;
+}
+
+.lm-btn-maps:hover {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #fff;
+  transform: translateY(-1px);
+}

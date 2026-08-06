@@ -1,0 +1,18 @@
+[Seed] Connected to MongoDB
+[Seed] Parsing CSV...
+node:events:486
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ENOENT: no such file or directory, open 'D:\temp\flights.csv'
+Emitted 'error' event on ReadStream instance at:
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\temp\\flights.csv'
+}
+
+Node.js v24.6.0

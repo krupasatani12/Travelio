@@ -1,0 +1,733 @@
+<!Doctype html>
+
+<html lang="en">
+
+   <head>
+
+      <!-- Required meta tags -->
+
+      <meta charset="utf-8">
+      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+
+      <!-- Favicons Icon -->
+
+      <link rel="icon" href="https://www.hoteldekho.com/assets/images/favicon.ico" type="image/x-icon" />
+
+      <link rel="shortcut icon" type="image/x-icon" href="https://www.hoteldekho.com/assets/images/favicon.png" />
+
+
+
+      <title> Online Hotels Booking, Book Cheap, Budget and Luxury Hotels - Hoteldekho </title>
+
+      <meta name="csrf-token" content="9pU80yGfFh0ZxBPyhfVcn0ApMyiF1kOQ8xXEDnd1">
+
+      <meta name="keyword" content="online hotel booking, book hotels online, hotel booking site, cheap hotels, budget hotels, luxury hotels, star hotels, hotel booking , hotel reservation, hotel stay, hoteldekho hotels, best hotels, online cheap hotels, online budget hotels">
+
+      <meta name="description" content="Hoteldekho provides you online hotel bookings service in india. Book cheap, budget and luxury hotels with best hotel deals &amp; discounts.">
+
+      <meta name="author" content="Hoteldekho.com">
+
+      <link rel="canonical" href="https://www.hoteldekho.com/404"/>      
+
+      
+                    <meta name="robots" content="nofollow, noindex">
+      
+      <meta name="google-site-verification" content="N2bi0KDSHhtaCcziBdGJm_ci3YxmRM6yrKCRyHQ-a6c"/>
+
+      <meta name="msvalidate.01" content="27029836ACC0999C19C4B98D3A324821" />
+
+      <!-- Bootstrap CSS -->
+
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+
+	   <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">	
+         -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+      
+       <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/bootstrap.min.css"/>
+
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/style.css"/>
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/main.css"/>
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/responsive.css"/>  
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/new.css"/>            
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/mx.css"/>
+
+      <link type="text/css" rel="stylesheet" href="https://www.hoteldekho.com/assets/css/main-new.css"/>
+
+          
+
+      <!-- Optional JavaScript -->
+
+      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+      <!-- JavaScript  files ========================================= -->
+
+      <script type="text/javascript" src="https://twitter.github.io/typeahead.js/js/handlebars.js" ></script>
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/jquery-3.5.1.js"></script>      
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/popper.min.js"></script>
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/bootstrap.min.js" ></script>
+
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/readmore.min.js" ></script>      
+
+      <script src="https://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/lazysizes.min.js" ></script>
+
+      <script type="text/javascript" src="https://www.hoteldekho.com/assets/js/readmore.min.js"></script>
+
+
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66360500-1"></script>
+
+      <script>
+
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag(){dataLayer.push(arguments);}
+
+        gtag('js', new Date());
+
+
+
+        gtag('config', 'UA-66360500-1');
+
+      </script>
+
+            
+
+
+
+      
+
+      <!-- Bootstrap End -->     
+
+      
+   </head>
+
+   <body class="">
+        <!--Start of Tawk.to Script-->
+   <!-- <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/62ee0cfa37898912e961896d/1g9ou5dkr';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>-->
+<!--End of Tawk.to Script-->
+      <!-- Header Start -->
+   <header class="header-main navbar-new border-bottom">
+      <div class="container">
+         <nav class="navbar navbar-expand-xl p-0 navbar-dark borderr-0 bg-white m">
+            <div class="container px-0">
+               <a href="https://www.hoteldekho.com" aria-label="home" class="navbar-brand d-flex align-items-center justify-content-center" alt="logo">
+                  <img class="img-fluid m-0" alt="logo" src="https://www.hoteldekho.com/assets/images/logo.png" height="64" width:="212">
+               </a> 
+               <div class="d-xl-none d-md-flex d-none align-items-center gap-2">
+                  <div class="Support-main mt-0 d-block">
+                     <ul class="d-flex align-items-center">
+                         
+                        <li>
+                           <a href="https://www.hoteldekho.com/customer/login"> 
+                              <i class="fa fa-user" aria-hidden="true"></i> Log in
+                           </a> 
+                        </li>
+                        <li>
+                           /
+                        </li>
+                        <li>
+                           <button type="button" class="btn login btn-primary" data-toggle="modal" data-target="#exampleModa">
+                              Signup
+                           </button>
+                        </li>
+                                             </ul>
+                  </div>
+                  <div class="phone-bar ml-2 mt-0 d-block">
+                     <ul>
+                        <li class="p-0"><a href="#" class="d-flex align-items-center"> <img alt="support" src="https://www.hoteldekho.com/assets/images/support.png" height="27" width="27"> +91 9783240000 </a></li>
+                     </ul>
+                  </div>
+               </div>
+               <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler d-xl-none d-flex align-items-center justify-content-center rounded-circle m-0">
+               <i class="fas fa-bars"></i>
+               </button>
+               <div class="d-md-none d-flex w-100 border-top align-items-center justify-content-between gap-2 pt-2">
+                  <div class="Support-main mt-0 d-block">
+                     <ul class="d-flex align-items-center">
+                         
+                        <li class="d-flex">
+                           <a href="https://www.hoteldekho.com/customer/login"> 
+                              <i class="fa fa-user" aria-hidden="true"></i> Log in
+                           </a> 
+                        </li>
+                        <li>
+                           /
+                        </li>
+                        <li>
+                           <button type="button" class="btn login btn-primary" data-toggle="modal" data-target="#exampleModa">
+                              Signup
+                           </button>
+                        </li>
+                                             </ul>
+                  </div>
+                  <div class="phone-bar ml-2 mt-0 d-block">
+                     <ul>
+                        <li class="p-0"><a href="#" class="d-flex align-items-center"> <img alt="support" src="https://www.hoteldekho.com/assets/images/support.png" height="22" width="22"> +91 9783240000 </a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                  <ul class="navbar-nav ml-auto">
+                     <li class="nav-item active"><a href="https://www.hoteldekho.com" class="nav-link">
+                        <i class="fas fa-home" aria-hidden="true"></i> Home <span class="sr-only">(current)</span></a>
+                     </li>
+                     <li class="nav-item"><a href="https://www.hoteldekho.com/hotels" class="nav-link">Hotels</a></li>
+                     <li class="nav-item"><a href="https://www.hoteldekho.com/activities" class="nav-link">Activities</a></li>
+                     <li class="nav-item"><a href="https://www.hoteldekho.com/tours" class="nav-link">  Tours</a></li>
+                     <li class="nav-item"><a href="#" class="nav-link"> My trips</a></li>
+                        <li class="nav-item"><a href="https://www.hoteldekho.com/blog" class="nav-link"> Blog </a></li>
+                     </li>
+                  </ul>
+               </div>
+               <div class="d-xl-flex d-none align-items-center gap-2">
+                  <div class="Support-main mt-0 d-block">
+                     <ul class="d-flex align-items-center">
+                         
+                        <li>
+                           <a href="https://www.hoteldekho.com/customer/login"> 
+                              <i class="fa fa-user" aria-hidden="true"></i> Log in
+                           </a> 
+                        </li>
+                        <li>
+                           /
+                        </li>
+                        <li>
+                           <button type="button" class="btn login btn-primary" data-toggle="modal" data-target="#exampleModa">
+                              Signup
+                           </button>
+                        </li>
+                                             </ul>
+                  </div>
+                  <div class="phone-bar ml-2 mt-0 d-block">
+                     <ul>
+                        <li class="p-0"><a href="#" class="d-flex align-items-center"> <img alt="support" src="https://www.hoteldekho.com/assets/images/support.png" height="27" width="27"> +91 9783240000 </a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </nav>
+      </div>
+   </header>
+   <!-- Header End -->
+  
+   <!-- Modal -->
+   <div class="modal fade" id="example" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+         <div class="modal-content dialog">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+               <span class="colse-box" aria-hidden="true">&times;</span>
+            </button> 
+            <div class="modal-body">
+               <div class="intro-block bg-color-main text-center">
+                  <div class="container sign-page">
+                     <div class="row">
+                        <div class="col-md-12 col-sm-12 signin">
+                           <a href="index.html"><img src="../assets/images/logo.png" height="64" width:="212" class="logo img-responsive" alt="login-logo" ></a>
+                           <div class="clearfix"></div>
+                           <div class="form-section">
+                              <form id="login_form">
+                                 <div class="form_field">
+                                    <input type="email" placeholder="Email" class="form-control form__input1">
+                                    <span class="user-check"><i class="fa fa-user hidd" aria-hidden="true"></i></span>
+                                 </div>
+                                 <div class="form_field">
+                                    <input type="password" placeholder="Password" class="form-control form__input2">
+                                    <span class="user-check"><i class="fa fa-unlock-alt" aria-hidden="true"></i></span>
+                                 </div>
+                                 <button class="btn-radius sign-btn" type="submit"> Login </button>
+                                 <div class="forgot_pwd"><a href="forgot.html">Forgot password</a></div>
+                              </form>
+                           </div>
+                           <div class="clearfix"></div>
+                           <div class="sign_using have_n_account">Don't have an account yet?
+               <a href="#"><button type="button" class="btn login btn-primary" data-toggle="modal" data-target="#exampleModa-mt"class="close" data-dismiss="modal" aria-label="Close">
+               Signup
+               </button></a></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <div class="modal fade" id="exampleModa" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+         <div class="modal-content dialog">
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span class="colse-box" aria-hidden="true">&times;</span>
+            </button> 
+            <div class="modal-body">
+               <div class="intro-block bg-color-main text-center">
+                  <div class="container sign-page">
+                     <div class="row">
+                        <div class="col-md-12 col-sm-12 signin">
+                           <a href="index.html"><img src="../assets/images/logo.png" height="64" width:="212" class="logo img-responsive" alt="login-logo" ></a>
+                           <div class="clearfix"></div>
+                           <div class="form-section">
+                              <form id="customersignup">
+                                 <input type="hidden" name="_token" value="9pU80yGfFh0ZxBPyhfVcn0ApMyiF1kOQ8xXEDnd1">                                 <div class="form_field">
+                                    <input type="text" maxlength="55" id="name" placeholder="Name" class="form-control" name="name">
+                                 </div>
+                                 <div class="form_field">
+                                    <input type="email" id="email" class="form-control" placeholder="Email" name="email">
+                                 </div>
+                  <div class="form_field">
+                                    <input type="phone" id="phone" class="form-control" placeholder="Phone" name="phone">
+                                 </div>
+                                 <div class="form_field">
+                                    <input type="password" id="password" placeholder="Password" class="form-control" name="password">
+                                 </div>
+                                 <div class="form_field">
+                                    <input type="password" id="confirm_password" placeholder="Password Confirm" class="form-control" name="confirm_password">
+                                 </div>
+                                 
+                                 <button class="btn-radius sign-btn" type="button" id="customersubmit">Sign up</button>
+                              </form>
+                           </div>
+                           <div class="clearfix"></div>
+                           <div class="sign_using have_n_account">Don't have an account yet? <a href="#"> <button type="button" class="btn login btn-primary" data-toggle="modal" data-target="#exampleModalCenter"class="close" data-dismiss="modal" aria-label="Close">
+                  Log in
+               </button> </a></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+         <div class="modal-content dialog">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+               <span class="colse-box" aria-hidden="true">&times;</span>
+            </button> 
+            <div class="modal-body">
+               <div class="intro-block bg-color-main text-center">
+                  <div class="container sign-page">
+                     <div class="row">
+                        <div class="col-md-12 col-sm-12 signin">
+                           <a href="index.html"><img src="../assets/images/logo.png" class="logo img-responsive" alt="login-logo" height="64" width:="212"></a>
+                           <div class="clearfix"></div>
+                           <div class="form-section">
+                              <form id="login_form">
+                                 <div class="form_field">
+                                    <input type="email" placeholder="Email" class="form-control form__input1">
+                                    <span class="user-check"><i class="fa fa-user hidd" aria-hidden="true"></i></span>
+                                 </div>
+                                 <div class="form_field">
+                                    <input type="password" placeholder="Password" class="form-control form__input2">
+                                    <span class="user-check"><i class="fa fa-unlock-alt" aria-hidden="true"></i></span>
+                                 </div>
+                                 <button class="btn-radius sign-btn" type="submit"> Login </button>
+                                 <div class="forgot_pwd"><a href="forgot.html">Forgot password</a></div>
+                              </form>
+                           </div>
+                           <div class="clearfix"></div>
+                           <div class="sign_using have_n_account">Don't have an account yet? <a href="#">  <button type="button " class="btn login btn-primary" data-toggle="modal" data-target="#exampleModa"class="close" data-dismiss="modal" aria-label="Close">
+               Signup
+               </button></a></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+
+      <!-- Header End -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css" integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <script type="text/javascript">
+   $.ajaxSetup({
+      headers: {
+         'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+      }
+   });
+
+    $('#customersubmit').on('click', function(e) {
+                    e.preventDefault();
+                    $.ajax({
+                        type:'POST',
+                        url: '/customer/signup',
+                        data:{
+                           name:$("#name").val(),
+                           email:$("#email").val(),
+                           phone:$("#phone").val(),
+                           password:$("#password").val(),
+                           confirm_password:$("#confirm_password").val(),
+                           },
+                           success: function (data) {
+                              if(data.success=='true'){
+                                 $('.error.text-danger').remove();
+                                 toastr.success('Your Account Is Successfully Registered');
+                                 window.location.reload();
+                              }					
+                           },
+                           error: function (err) {
+                                    if (err.status == 422) {
+										         $('.action-icon').show();
+										         $(".post-btn .btn").attr("disabled", false);
+                                       $('.error.text-danger').remove();
+                                       $.each(err.responseJSON.errors, function (i, error) {
+											         $('#loader').hide();
+                                          var el = $(document).find('[name="'+i+'"]');
+                                          el.after($('<p class="error text-danger">'+error[0]+'</p>'));
+											         var el = $(document).find('[id="'+i+'"]');
+                                       });
+                                    }
+                           }
+                    });
+        	});
+
+</script> 
+
+           
+
+        
+      <section>
+         <div class="404-error-main-section">
+         <div class="container">
+            <div class="error-block-content">
+               <div class="row">
+                  <div class="col-md-6">
+                     <div class="mainbox">
+                        <div class="htt-main">
+                           <div class="err">4</div>
+                           <i class="far fh fa-question-circle fa-spin"></i>
+                           <div class="err2">4</div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 aside ">
+                     <div class="content-404-part">
+                        <h1 class="main">Sorry!</h1>
+                        <p> May this page moved? Got deleted? Never existed? You Mistyped Or the page is playing Hide and Seek?
+                        </p>
+                        <form id="subscribeForm" class="subscribe-form_input">
+                           <input type="text" name="subscribe_email" id="subscribe_email ad" class="subscribe_for_with_hoteldekho_right_input" placeholder="Search...">
+                           <input id="subscribe_email_butn" type="button" class="subscribe_for_with_hoteldekho_right_input45" value="Search">
+                        </form>
+                        <button class="btn mt green">Home</button>
+                        <button class="btn mt green">Contact  </button>
+                     </div>
+                  </div>
+               </div>
+               </main>
+            </div>
+         </div>
+      </section>
+
+
+
+         
+
+         
+
+            <div class="footer-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 incity">
+                <div class="footer-nav">
+                    <h2> Hot Cities </h2>
+                    <hr>
+                    <div class="row">
+					   <div class="col-md-4">
+					     <div class="footer-cont">
+                        <ul>
+                        <!--<li><a href="https://www.hoteldekho.com/hotels/hotels-in-india"> <i class="fa fa-circle" aria-hidden="true"></i> Hotels in India</a></li>-->
+						<li><a href="https://www.hoteldekho.com/hotels"> <i class="fa fa-circle" aria-hidden="true"></i> Hotels in India</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-goa">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Goa </a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-kolkata">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Kolkata</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-delhi">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Delhi </a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-mumbai">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Mumbai</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-bangalore">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Bangalore </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-hyderabad">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Hyderabad </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-tirupati">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels In Tirupati </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-agra">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Agra </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-alwar">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Alwar</a></li>
+                    </ul>
+                    </div>
+					   </div>
+					   	   <div class="col-md-4">
+					     <div class="footer-cont">
+                        <ul>
+                         <li><a href="https://www.hoteldekho.com/hotels/hotels-in-jaipur">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Jaipur</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-jaisalmer">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in jaisalmer </a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-ahmedabad">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Ahmedabad </a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-ooty">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Ooty </a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-mahabaleshwar">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Mahabaleshwar</a></li>
+						<li><a href="https://www.hoteldekho.com/hotels/hotels-in-shimla">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Shimla </a></li>
+						<li><a href="https://www.hoteldekho.com/hotels/hotels-in-manali">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Manali </a></li>
+						<li><a href="https://www.hoteldekho.com/hotels/hotels-in-udaipur">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Udaipur</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-varanasi">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Varanasi</a></li>
+						<li><a href="https://www.hoteldekho.com/hotels/hotels-in-pushkar">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Pushkar </a></li>
+                    </ul>
+                    </div>
+					   </div>
+					   	   <div class="col-md-4">
+					     <div class="footer-cont">
+                        <ul>
+                         <li><a href="https://www.hoteldekho.com/hotels/hotels-in-leh-ladakh">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Leh ladakh </a></li>
+                       <li><a href="https://www.hoteldekho.com/hotels/hotels-in-haridwar">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels In Haridwar</a></li>
+                        <li><a href="https://www.hoteldekho.com/hotels/hotels-in-jammu">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in jammu </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-amritsar">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Amritsar </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-mangalore">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Mangalore </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-khajuraho">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Khajuraho </a></li>
+						 <li><a href="https://www.hoteldekho.com/hotels/hotels-in-ranthambore">  <i class="fa fa-circle" aria-hidden="true"></i> Hotels in Ranthambore </a></li>
+						 
+                    </ul>
+                    </div>
+					   </div>
+					 </div>
+                </div>
+            </div>
+				<div class="col-md-6 terms_mt">
+		          <div class="row">
+				    	 <div class="col-md-3 circle_mt">
+                <div class="footer-nav mt-nav22 guide_mt">
+                    <h2> Company </h2>
+                    <hr>
+                    <ul>
+                        <li><a href="https://www.hoteldekho.com/about-us">About Us </a></li>
+                        <li><a href="https://www.hoteldekho.com/contact-us">Contact us </a></li>
+                        <li><a href="https://www.hoteldekho.com/terms-conditions">Terms & Conditions</a></li>
+                        <li><a href="https://www.hoteldekho.com/privacy-policy">Privacy Policy</a></li>
+						<li><a href=" https://www.hoteldekho.com/travel-guide">Travel Guide</a></li>
+						<li><a href="https://www.hoteldekho.com/attractions">Attractions</a></li>
+						<li><a href="https://www.hoteldekho.com/activities">Activities</a></li>
+						<li><a href="https://www.hoteldekho.com/blog"> Blog </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-5 subsc-mt">
+                <div class="footer-nav mt-nav22">
+                    <h2> Join Us </h2>
+                    <hr>
+                    <p class="Subscribe">Subscribe For The Best Deals</p>
+                    <form id="subscribeForm" class="subscribe-form_input">
+                        <input type="text" name="subscribe_email" id="subscribe_email" class="subscribe_for_with_hoteldekho_right_input" placeholder="Email">
+                        <input id="subscribe_email_butn" type="button" class="subscribe_for_with_hoteldekho_right_input1" value="Subscribe">
+                        <div class="social-app-icn">
+                            <ul>
+                                <li>
+                                    <a href="#" target="_blank"><img src="https://www.hoteldekho.com/assets/images/iosicon.png" loading="lazy" width="95" height="32" alt="ios icon"></a>
+                                </li>
+                                <li><a href="# " target="_blank "><img src="https://www.hoteldekho.com/assets/images/andoridicon.png " loading="lazy" width="95" height="32" alt="Andorid icon "></a></li>
+                           </ul>
+                        </div>
+                     </form>
+                     <div class="scial-icon mu ">
+                        <p> Social Links </p>
+                        <ul>
+                           <li><a href="https://www.facebook.com/HotelDekho/" target="_blank " aria-label="facebook"><i class="fab fa-facebook "></i></a></li>
+                           <li><a href="https://twitter.com/hotel_dekho " target="_blank " aria-label="twitter"><i class="fab fa-twitter "></i></a></li>
+                           <li><a href="https://www.youtube.com/channel/UC6Ep75MqUIQV0oJ6Sb39DVA " target="_blank " aria-label="youtube"><i class="fab fa-youtube "></i></a></i></a></li>
+                           <li><a href="https://www.linkedin.com/company/hoteldekho.com" target="_blank" aria-label="linkedin"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                <li><a href="https://www.instagram.com/hotel_dekho/" target="_blank" aria-label="instagram"><i class="fab fa-instagram"></i></a></li>
+								 <li><a href="https://in.pinterest.com/hoteldekho/_created/" target="_blank" aria-label="pinterest"><i class="fab fa-pinterest"></i></a></li>
+                            </ul>
+                        </div>
+                </div>
+            </div>
+            <div class="col-md-4 quriy-mt">
+                <div class="footer-nav mt-nav22">
+                    <h2> Happy To Help </h2>
+                    <hr>
+                    <div class="address-main">
+                       <p>You Can Always Reach Us At : <span class="number"><a href="tel:+91 9783240000"> +91 9783240000 </a></span></p>
+                        <p>General Inquiry <span>Email : <a href="/cdn-cgi/l/email-protection#b4dddad2dbf4dcdbc0d1d8d0d1dfdcdb9ad7dbd9"> <span class="__cf_email__" data-cfemail="4f262129200f27203b2a232b2a242720612c2022">[email&#160;protected]</span></a></span></p>
+                    </div>
+                </div>
+            </div>
+				   </div>
+			 </div>
+		</div>
+    </div>
+ </div>
+<div class="copy-right">
+    <div class="container">
+        <div class="row">
+            <p> Copyright © 2022  <a class="footer-nav" href="#"> Hoteldekho.com </a> Private Limited. All Rights Reserved </p>
+        </div>
+    </div>
+</div>
+
+ <a href="#" class="scroll_To_Top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+ 
+ 
+       <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+         $(document).ready(function(){
+         	
+         	$(window).scroll(function(){
+         		if ($(this).scrollTop() > 100) 
+         		{
+         			$('.scroll_To_Top').fadeIn();
+         		} 
+         		else 
+         		{
+         			$('.scroll_To_Top').fadeOut();
+         		}
+         	});
+         	
+         
+         	$('.scroll_To_Top').click(function(){
+         		$('html, body').animate({scrollTop : 0},700);
+         		return false;
+         	});
+         	
+         });
+      </script>
+
+
+         
+
+         
+
+      
+
+
+      
+   <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1ec47bcee727ac6',t:'MTc4NDY1ODY2MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+   <script>
+
+         $('.js-anchor-link').click(function(e){
+
+         e.preventDefault();
+
+         var target = $($(this).attr('href'));
+
+         if(target.length){
+
+         var scrollTo = target.offset().top;
+
+         $('body, html').animate({scrollTop: scrollTo+'px'}, 800);
+
+         }
+
+         });
+
+         
+
+
+
+      $('.readbox').readmore({
+
+         speed: 75,
+
+         collapsedHeight:110,
+
+         lessLink: '<a class="readbtn" href="#">Read less</a>',
+
+         moreLink: '<a class="readbtn" href="#">Read more</a>'
+
+      });
+
+
+
+      $('.sf').readmore({
+
+         speed: 75,
+
+         collapsedHeight:53,
+
+         lessLink: '<a class="readbtn" href="#">Read less</a>',
+
+         moreLink: '<a class="readbtn" href="#">Read more</a>'
+
+      });
+
+
+
+      $('.enbox').readmore({
+
+         speed: 75,
+
+         collapsedHeight:0,
+
+         lessLink: '<a class="readbtn" href="#">Read less</a>',
+
+         moreLink: '<a class="readbtn" href="#">Read more</a>'
+
+      });
+
+
+
+      
+
+   </script>
+
+   <script type="text/javascript">
+
+      window.lazySizesConfig = window.lazySizesConfig || {};
+
+      lazySizesConfig.loadMode = 1;
+
+      window.lazySizesConfig.init = false;
+
+      lazySizes.init();
+
+   </script>
+
+
+
+   <style type="text/css">
+
+      .readbox, .enbox, .city-description, .hashimn, .sf {
+
+          position: relative;
+
+          overflow: hidden;
+
+      }
+
+      .safety-content a.readbtn, .hotel-ratting_sec a.readbtn{ float: right; }
+
+      .hotel-ratting_sec{ padding-bottom: 40px; }
+
+   </style>
+
+</html>
+

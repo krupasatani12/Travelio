@@ -1,0 +1,326 @@
+State,City,Destination,Category,Rating,Best Time to visit,Category_Code,State_Code
+Delhi,Delhi,India Gate,War Memorial,4.6,Evening,74,7
+Delhi,Delhi,Humayun's Tomb,Tomb,4.5,Afternoon,65,7
+Delhi,Delhi,Akshardham Temple,Temple,4.6,Afternoon,62,7
+Delhi,Delhi,Waste to Wonder Park,Theme Park,4.1,Evening,64,7
+Delhi,Delhi,Jantar Mantar,Observatory,4.2,Morning,38,7
+Delhi,Delhi,Chandni Chowk,Market,4.2,Afternoon,28,7
+Delhi,Delhi,Lotus Temple,Temple,4.5,Evening,62,7
+Delhi,Delhi,Red Fort,Fort,4.5,Afternoon,17,7
+Delhi,Delhi,Agrasen ki Baoli,Stepwell,4.2,Afternoon,58,7
+Delhi,Delhi,Sunder Nursery,Park,4.6,Afternoon,41,7
+Delhi,Delhi,Garden of Five Senses,Park,4.1,Morning,41,7
+Delhi,Delhi,Lodhi Garden,Park,4.5,All,41,7
+Delhi,Delhi,National Gallery of Modern Art,Museum,4.5,All,35,7
+Delhi,Delhi,National Zoological Park ,Zoo,4.1,All,77,7
+Delhi,Delhi,Qutub Minar,Monument,4.5,Afternoon,32,7
+Delhi,Delhi,National Science Centre,Science,4.4,All,52,7
+Maharastra,Mumbai,Marine Drive,Promenade,4.5,Evening,43,19
+Maharastra,Mumbai,Gateway of India,Monument,4.6,All,32,19
+Maharastra,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,4.6,All,35,19
+Maharastra,Mumbai,Sanjay Gandhi National Park,National Park,4.3,All,36,19
+Maharastra,Mumbai,Siddhivinayak Temple,Temple,4.8,All,62,19
+Maharastra,Mumbai,Mahalaxmi Temple,Temple,4.7,All,62,19
+Maharastra,Mumbai,Haji Ali Dargah,Religious Shrine,4.4,All,46,19
+Maharastra,Mumbai,Chowpatty Beach,Beach,4.3,Evening,3,19
+Maharastra,Mumbai,Essel World,Amusement Park,4.3,All,1,19
+Maharastra,Mumbai,Elephanta Caves,Monument,4.3,All ,32,19
+Maharastra,Lonavala,Imagicaa,Amusement Park,1.4,All,1,19
+Karnataka,Bangalore,Bangalore Palace,Palace,4.2,Morning,40,14
+Karnataka,Bangalore,Lalbagh Botanical Garden,Botanical Garden,4.4,Evening,6,14
+Karnataka,Bangalore,Cubbon Park,Park,4.4,Morning,41,14
+Karnataka,Bangalore,Vidhana Soudha,Government Building,4.6,Morning,19,14
+Karnataka,Bangalore,ISKCON Temple Bangalore,Temple,4.6,Evening,62,14
+Telangana,Hyderabad,Charminar,Landmark,4.5,Morning,26,28
+Telangana,Hyderabad,Golconda Fort,Fort,4.4,Morning,17,28
+Telangana,Hyderabad,Hussain Sagar Lake,Lake,4.3,Evening,25,28
+Telangana,Hyderabad,Ramoji Film City,Film Studio,4.4,All,16,28
+Telangana,Hyderabad,Salar Jung Museum,Museum,4.4,All,35,28
+Telangana,Hyderabad,Qutb Shahi Tombs,Tombs,4.4,Morning,66,28
+Telangana,Hyderabad,Birla Mandir,Temple,4.7,All,62,28
+Telangana,Hyderabad,Chowmahalla Palace,Palace,4.4,Morning,40,28
+Telangana,Hyderabad,Nehru Zoological Park,Zoo,4.2,Morning,77,28
+Telangana,Hyderabad,Lumbini Park,Park,4.1,Evening,41,28
+West Bengal,Kolkata,Victoria Memorial,Museum,4.6,Morning,35,32
+West Bengal,Kolkata,Howrah Bridge,Bridge,4.6,Anytime,7,32
+West Bengal,Kolkata,Indian Museum,Museum,4.6,Morning,35,32
+West Bengal,Kolkata,Dakshineswar Kali Temple,Temple,4.7,Morning,62,32
+West Bengal,Kolkata,Kalighat Kali Temple,Temple,4.4,Morning,62,32
+West Bengal,Kolkata,Eden Gardens,Cricket Ground,4.1,All,12,32
+West Bengal,Kolkata,Alipore Zoological Gardens,Zoo,4.3,Afternoon,77,32
+West Bengal,Kolkata,Science City Kolkata,Science,4.4,All,52,32
+West Bengal,Kolkata,Belur Math,Site,4.7,Morning,55,32
+West Bengal,Kolkata,Marble Palace,Palace,4.4,Afternoon,40,32
+Goa,Goa,Calangute Beach,Beach,4.4,Evening,3,8
+Goa,Goa,Basilica of Bom Jesus,Church,4.5,Afternoon,9,8
+Goa,Goa,Fort Aguada,Fort,4.2,Morning,17,8
+Goa,Goa,Dudhsagar Falls,Waterfall,4.6,Afternoon,75,8
+Goa,Goa,Anjuna Beach,Beach,4.4,Evening,3,8
+Goa,Goa,Chapora Fort,Fort,4.2,Evening,17,8
+Goa,Goa,Se Cathedral,Church,4.5,Afternoon,9,8
+Goa,Goa,Baga Beach,Beach,4.5,Evening,3,8
+Goa,Goa,Arambol Beach,Beach,4.6,Evening,3,8
+Goa,Goa,Palolem Beach,Beach,4.6,Evening,3,8
+Goa,Goa,Colva Beach,Beach,4.3,Evening,3,8
+Goa,Goa,Miramar Beach,Beach,4.2,Evening,3,8
+Goa,Goa,Aguada Beach,Beach,4.5,Evening,3,8
+Goa,Goa,Dr. Salim Ali Bird Santuary,Bird Sanctuary,3.9,Afternoon,4,8
+Gujarat,Ahmedabad,Sabarmati Ashram,Historical,4.6,Morning,23,9
+Gujarat,Dwarka,Dwarkadhish Temple,Temple,4.7,Evening,62,9
+Gujarat,Junagadh,Gir National Park,National Park,4.5,Morning,36,9
+Gujarat,Bhuj,White Desert,Site,4.6,Evening,55,9
+Gujarat,Vadodara,Laxmi Vilas Palace,Palace,4.4,Afternoon,40,9
+Gujarat,Somnath,Somnath Temple,Temple,4.8,Morning,62,9
+Gujarat,Rann of Kutch,Rann Utsav,Cultural,4.9,Evening,13,9
+Gujarat,Kevadia,Statue of Unity,Monument,4.6,All,32,9
+Gujarat,Gandhinagar,Dandi Kutir,Museum,4.5,All,35,9
+Gujarat,Ahmedabad,Sabarmati Riverfront,Urban Development Project,4.6,Evening,69,9
+Gujarat,Ahmedabad,Manek Chowk,Market,4.4,Night,28,9
+Gujarat,Ahmedabad,Kankaria Lake,Lake,4.5,Afternoon,25,9
+Gujarat,Ahmedabad,Science City,Science,4.4,All,52,9
+Rajasthan,Jaipur,Hawa Mahal,Palace,4.4,Morning,40,25
+Rajasthan,Udaipur,City Palace,Palace,4.4,All,40,25
+Rajasthan,Jaisalmer,Jaisalmer Fort,Fort,4.4,All,17,25
+Rajasthan,Sawai Madhopur,Ranthambore National Park,Wildlife Sanctuary,4.6,All,76,25
+Rajasthan,Pushkar,Pushkar Lake,Temple,4.4,All,62,25
+Rajasthan,Ajmer,Ajmer Sharif Dargah,Shrine,4.6,All,54,25
+Rajasthan,Jodhpur,Mehrangarh Fort,Fort,4.6,All,17,25
+Rajasthan,Chittorgarh,Chittorgarh Fort,Fort,4.6,All,17,25
+Rajasthan,Mount Abu,Dilwara Temples,Temple,4.6,All,62,25
+Rajasthan,Bikaner,Junagarh Fort,Fort,4.5,All,17,25
+Rajasthan,Jaipur,Amber Fort,Fort,4.6,All,17,25
+Rajasthan,Jaipur,Jaigarh Fort,Fort,4.5,All,17,25
+Rajasthan,Udaipur,Lake Pichola,Lake,4.6,All,25,25
+Punjab,Amritsar,Golden Temple (Harmandir Sahib),Religious Site,4.9,All,47,24
+Punjab,Amritsar,Jallianwala Bagh,Memorial,4.8,Afternoon,30,24
+Punjab,Amritsar,Wagah Border,Border Crossing,4.8,Evening,5,24
+Punjab,Chandigarh,Rock Garden,Sculpture Garden,4.5,All,53,24
+Kerala,Alappuzha,Alappuzha Beach,Beach,4.5,All,3,15
+Kerala,Munnar,Munnar Tea Gardens,Scenic Area,4.3,All,50,15
+Kerala,Kochi,Fort Kochi,Site,4.4,All,55,15
+Kerala,Thiruvananthapuram,Padmanabhaswamy Temple,Temple,4.7,All,62,15
+Kerala,Kozhikode,Kozhikode Beach,Beach,3.9,All,3,15
+Kerala,Wayanad,Wayanad Wildlife Sanctuary,Wildlife Sanctuary,4.5,All,76,15
+Kerala,Thekkady,Periyar National Park,National Park,4.3,All,36,15
+Kerala,Kumarakom,Kumarakom Bird Sanctuary,Bird Sanctuary,3.8,All,4,15
+Kerala,Varkala,Varkala Beach,Beach,4.6,All,3,15
+Kerala,Bekal,Bekal Fort,Fort,4.5,All,17,15
+Kerala,Kovalam,Kovalam Beach,Beach,4.4,All,3,15
+Kerala,Kannur,St. Angelo Fort,Fort,4.4,All,17,15
+Kerala,Nelliyampathy,Seethargundu Viewpoint,Viewpoint,4.5,Morning,71,15
+Kerala,Kochi,Kerala Folklore Museum,Cultural,4.4,All,13,15
+Kerala,Kochi,Wonderla Amusement Park,Amusement Park,4.6,All,1,15
+Karnataka,Mysore,Mysore Palace,Palace,4.6,All,40,14
+Karnataka,Hampi,Hampi Archaeological Ruins,Site,4.7,All,55,14
+Karnataka,Coorg,Abbey Falls,Waterfall,4.1,Morning,75,14
+Karnataka,Gokarna,Om Beach,Beach,4.5,All,3,14
+Karnataka,Chikmagalur,Mullayanagiri,Mountain Peak,4.5,All,34,14
+Karnataka,Badami,Badami Cave Temples,Cave,4.6,All,8,14
+Karnataka,Shivamogga,Jog Falls,Waterfall,4.6,Morning,75,14
+Karnataka,Mangalore,Panambur Beach,Beach,4.5,All,3,14
+Karnataka,Murudeshwar,Murudeshwar Temple,Temple,4.7,All,62,14
+Karnataka,Bijapur,Gol Gumbaz,Mausoleum,4.5,All,29,14
+Karnataka,Bandipur,Bandipur National Park,National Park,4.4,Morning,36,14
+Karnataka,Halebidu,Halebidu Hoysaleswara Temple,Temple,4.7,All,62,14
+Maharastra,Pune,Shaniwar Wada,Fort,4.4,All,17,19
+Maharastra,Aurangabad,Ajanta Caves,Cave,4.6,Afternoon,8,19
+Maharastra,Nashik,Sula Vineyards,Vineyard,4.1,Afternoon,73,19
+Maharastra,Shirdi,Sai Baba Temple,Temple,4.7,All,62,19
+Maharastra,Alibaug,Alibaug Beach,Beach,4.2,Evening,3,19
+Maharastra,Ratnagiri,Ganapatipule Temple,Temple,4.7,All,62,19
+Maharastra,Nagpur,Deekshabhoomi,Monument,4.5,Afternoon,32,19
+Maharastra,Kolhapur,Mahalakshmi Temple,Temple,4.8,All,62,19
+Maharastra,Lonavala,Karla Caves,Cave,4.4,Afternoon,8,19
+Maharashtra,Tarkarli,Tarkarli Beach,Beach,4.6,Evening,3,18
+Maharashtra,Satara,Kaas Plateau,Valley,4.4,Afternoon,70,18
+Maharashtra,Matheran,Echo Point,Viewpoint,4.4,Morning,71,18
+Maharashtra,Ajanta,Ellora Caves,Cave,4.7,Afternoon,8,18
+Madhya Pradesh,Khajuraho,Khajuraho Group of Monuments,Temples,4.7,Afternoon,63,17
+Madhya Pradesh,Bhopal,Sanchi Stupa,Monument,4.7,Afternoon,32,17
+Madhya Pradesh,Indore,Rajwada Palace,Palace,4.4,Afternoon,40,17
+Madhya Pradesh,Gwalior,Gwalior Fort,Fort,4.5,Morning,17,17
+Madhya Pradesh,Ujjain,Mahakaleshwar Jyotirlinga,Temple,4.8,All,62,17
+Madhya Pradesh,Jabalpur,Dhuandhar Falls,Waterfall,4.5,Morning,75,17
+Madhya Pradesh,Pachmarhi,Bee Falls,Waterfall,4.6,Morning,75,17
+Madhya Pradesh,Kanha,Kanha National Park,Wildlife Sanctuary,4.5,Morning,76,17
+Madhya Pradesh,Bandhavgarh,Bandhavgarh National Park,National Park,4.5,Morning,36,17
+Madhya Pradesh,Orchha,Orchha Fort,Fort,4.8,Afternoon,17,17
+Madhya Pradesh,Mandu,Jahaz Mahal,Site,3.9,Afternoon,55,17
+Madhya Pradesh,Bhimbetka,Bhimbetka Rock Shelters,Prehistoric Site,4.6,Afternoon,42,17
+Madhya Pradesh,Amarkantak,Narmada Udgam Temple,Temple,4.4,All,62,17
+Madhya Pradesh,Chitrakoot,Chitrakoot Falls,Waterfall,4.4,Morning,75,17
+Himachal Pradesh,Shimla,The Ridge,Scenic Point,4.7,Morning,51,11
+Himachal Pradesh,Manali,Solang Valley,Valley,4.1,Morning,70,11
+Himachal Pradesh,dalhousie,Dalai Lama Temple,Temple,4.7,All,62,11
+Himachal Pradesh,Dalhousie,Khajjiar Lake,Lake,4.5,Morning,25,11
+Himachal Pradesh,Spiti Valley,Key Monastery,Monastery,4.8,Morning,31,11
+Himachal Pradesh,Kullu,Great Himalayan National Park,National Park,4.5,All,36,11
+Himachal Pradesh,Chamba,Chamera Lake,Lake,4.4,Morning,25,11
+Himachal Pradesh,Kinnaur,Sangla Valley,Valley,4.5,Morning,70,11
+Himachal Pradesh,Kangra,Kangra Fort,Fort,4.4,All,17,11
+Himachal Pradesh,Palampur,Tea Gardens,Tea Plantation,4.6,Morning,61,11
+Himachal Pradesh,Mandi,Prashar Lake,Lake,4.6,Morning,25,11
+Himachal Pradesh,Bir Billing,Paragliding Site,Adventure Sport,4.8,All,0,11
+Himachal Pradesh,McLeod Ganj,Triund Trek,Trekking,4.8,Morning,68,11
+Himachal Pradesh,Manikaran,Manikaran Sahib,Gurudwara,4.6,Morning,21,11
+Himachal Pradesh,Narkanda,Hatu Peak,Viewpoint,4.5,All,71,11
+Himachal Pradesh,Barot,Barot Valley,Valley,4.7,Morning,70,11
+Himachal Pradesh,Shoja,Serolsar Lake,Lake,4.4,Morning,25,11
+Himachal Pradesh,Kufri,Kufri Fun World,Ski Resort,3.8,All,56,11
+Uttarakhand,Nainital,Naini Lake,Lake,4.2,Morning,25,31
+Uttarakhand,Rishikesh,Laxman Jhula,Suspension Bridge,4.4,Morning,60,31
+Uttarakhand,Haridwar,Har Ki Pauri,Ghat,4.5,All,18,31
+Uttarakhand,Dehradun,Robber's Cave,Cave,4.5,Morning,8,31
+Uttarakhand,Mussoorie,Kempty Falls,Waterfall,4.2,Morning,75,31
+Uttarakhand,Auli,Auli Ski Resort,Ski Resort,4.5,Morning,56,31
+Uttarakhand,Badrinath,Badrinath Temple,Temple,4.8,All,62,31
+Uttarakhand,Almora,Binsar Wildlife Sanctuary,Wildlife Sanctuary,4.3,All,76,31
+Uttarakhand,Ranikhet,Chaubatia Gardens,Orchard,4.0,All,39,31
+Uttarakhand,Jim Corbett,Jim Corbett National Park,National Park,4.4,All,36,31
+Uttarakhand,Uttarkashi,Gangotri Temple,Temple,4.8,All,62,31
+Uttarakhand,Chopta,Tungnath Temple,Temple,4.8,All,62,31
+Uttarakhand,Joshimath,Valley of Flowers,National Park,4.7,Morning,36,31
+Uttar Pradesh,Agra,Taj Mahal,Mausoleum,4.6,Morning,29,30
+Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,Temple,4.7,All,62,30
+Uttar Pradesh,Lucknow,Bara Imambara,Monument,4.4,All,32,30
+Uttar Pradesh,Mathura,Krishna Janmabhoomi,Temple,4.7,All,62,30
+Uttar Pradesh,Ayodhya,Ram Janmabhoomi,Religious Site,4.8,All,47,30
+Uttar Pradesh,Vrindavan,Banke Bihari Temple,Temple,4.8,All,62,30
+Uttar Pradesh,Allahabad,Triveni Sangam,Confluence,4.5,Morning,11,30
+Uttar Pradesh,Jhansi,Jhansi Fort,Fort,4.4,All,17,30
+Uttar Pradesh,Sarnath,Dhamek Stupa,Monument,4.6,All,32,30
+Uttar Pradesh,Fatehpur Sikri,Buland Darwaza,Monument,4.4,Afternoon,32,30
+Uttar Pradesh,Noida,Okhla Bird Sanctuary,Bird Sanctuary,4.3,All,4,30
+Uttar Pradesh,Aligarh,Aligarh Fort,Fort,4.1,Afternoon,17,30
+Uttar Pradesh,Meerut,Augarnath Temple,Temple,4.8,All,62,30
+Uttar Pradesh,Kanpur,Allen Forest Zoo,Zoo,4.2,All,77,30
+Jammu and Kashmir,Srinagar,Dal Lake,Lake,4.6,Morning,25,12
+Ladakh,Leh,Pangong Tso,Lake,4.9,Morning,25,16
+Jammu and Kashmir,Pahalgam,Betaab Valley,Valley,4.6,All,70,12
+Jammu and Kashmir,Jammu,Vaishno Devi,Temple,4.7,All,62,12
+Jammu and Kashmir,Udhampur,Patnitop Height,Hill,4.1,All,22,12
+Jammu and Kashmir,Anantnag,Amarnath Cave,Temple,4.5,All,62,12
+Ladakh,Leh,Thiksey Monastery,Monastery,4.7,All,31,16
+Ladakh,Nubra Valley,Nubra Valley,Valley,4.5,All,70,16
+Ladakh,Kargil,Kargil War Memorial,War Memorial,4.8,All,74,16
+Ladakh,Diskit,Diskit Monastery,Monastery,4.7,Morning,31,16
+Jammu and Kashmir,Kishtwar,Kishtwar National Park,National Park,4.3,All,36,12
+Ladakh,Hemis,Hemis National Park,National Park,4.4,All,36,16
+Ladakh,Dras,Dras War Memorial,War Memorial,4.8,All,74,16
+Ladakh,Leh,Magnetic Hill,Gravity Hill,3.7,All,20,16
+Ladakh,Leh,Khardung La Pass,Hill,4.5,Afternoon,22,16
+Ladakh,Leh,Thiksey Monastery,Monastery,4.7,All,31,16
+Uttar Pradesh,Vrindavan,Prem Mandir,Temple,4.8,Evening,62,30
+Uttar Pradesh,Porbandar,Kirti Mandir,Memorial,4.8,Morning,30,30
+Uttar Pradesh,Mathura,Nand Gaon,Village,4.1,Morning,72,30
+Uttar Pradesh,Mathura,Barsana Mandir,Temple,4.8,Morning,62,30
+West Bengal,Darjeeling,Tiger Hill,Sunrise Point,4.5,All,59,32
+West Bengal,Siliguri,Jaldapara National Park,Wildlife Sanctuary,4.4,All,76,32
+West Bengal,Sundarbans,Sundarbans National Park,National Park,4.4,All,36,32
+West Bengal,Digha,Digha Beach,Beach,4.5,Morning,3,32
+West Bengal,Murshidabad,Hazarduari Palace,Palace,4.5,Morning,40,32
+West Bengal,Bolpur,Kankalitala Temple,Temple,4.7,All,62,32
+West Bengal,Hooghly,Hangseswari Temple,Temple,4.6,All,62,32
+West Bengal,Jalpaiguri,Gorumara National Park,National Park,4.4,All,36,32
+West Bengal,Cooch Behar,Cooch Behar Palace,Palace,4.5,All,40,32
+West Bengal,Purulia,Ayodhya Hills,Hill,4.5,All,22,32
+Odisha,Puri,Jagannath Temple,Temple,4.7,All,62,22
+Odisha,Konark,Sun Temple,Temple,4.7,All,62,22
+Odisha,Bhubaneswar,Lingaraj Temple,Temple,4.6,All,62,22
+Odisha,Rourkela,Khandadhar Waterfall,Waterfall,4.5,All,75,22
+Odisha,Cuttack,Barabati Fort,Fort,4.5,All,17,22
+Odisha,Sambalpur,Hirakud Dam,Dam,4.5,All,14,22
+Odisha,Chilika,Chilika Lake,Lake,3.9,Morning,25,22
+Odisha,Berhampur,Tara Tarini Temple,Temple,4.6,All,62,22
+Odisha,Keonjhar,Badaghagara Waterfall,Waterfall,4.3,Morning,75,22
+Odisha,Balasore,Chandipur Beach,Beach,4.2,Morning,3,22
+Odisha,Kendujhar,Sanaghagara Waterfall,Waterfall,4.4,All,75,22
+Tamil Nadu,Chennai,Marina Beach,Beach,3.9,Morning,3,27
+Tamil Nadu,Madurai,Meenakshi Amman Temple,Temple,4.7,All,62,27
+Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,4.6,All,62,27
+Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,Memorial,4.6,Morning,30,27
+Tamil Nadu,Ooty,Ooty Lake,Lake,4.1,Morning,25,27
+Tamil Nadu,Coimbatore,Marudamalai Temple,Temple,4.7,All,62,27
+Tamil Nadu,Kodaikanal,Kodaikanal Lake,Lake,3.9,Morning,25,27
+Tamil Nadu,Thanjavur,Brihadeeswarar Temple,Temple,4.8,All,62,27
+Tamil Nadu,Mahabalipuram,Shore Temple,Temple,4.6,All,62,27
+Tamil Nadu,Yercaud,Yercaud Lake,Lake,4.2,Morning,25,27
+Tamil Nadu,Tirunelveli,Nellaiappar Temple,Temple,4.6,All,62,27
+Tamil Nadu,Chidambaram,Nataraja Temple,Temple,4.7,All,62,27
+Andhra Pradesh,Vijayawada,Kanaka Durga Temple,Temple,4.7,All,62,1
+Andhra Pradesh,Visakhapatnam,Rishikonda Beach,Beach,4.5,Morning,3,1
+Andhra Pradesh,Srisailam,Mallikarjuna Swamy Temple,Temple,4.7,All,62,1
+Andhra Pradesh,Rajahmundry,Papikondalu,Hill,4.3,All,22,1
+Andhra Pradesh,Anantapur,Lepakshi,Site,4.6,All,55,1
+Andhra Pradesh,Kurnool,Belum Caves,Cave,4.4,Afternoon,8,1
+Andhra Pradesh,Amravati,Amaravathi Temple,Temple,4.7,All,62,1
+Andhra Pradesh,Guntur,Uppalapadu Bird Sanctuary,Bird Sanctuary,4.4,All,4,1
+Andhra Pradesh,Kadapa,Gandikota Fort,Fort,4.5,Morning,17,1
+Andhra Pradesh,Puttaparthi,Prasanthi Nilayam,Spiritual Center,4.7,All,57,1
+Andhra Pradesh,Vizianagaram,Simhachalam Temple,Temple,4.7,All,62,1
+Andhra Pradesh,Visakhapatnam,Kailasagiri,Hill,4.5,All,22,1
+Andhra Pradesh,Visakhapatnam,Submarine Museum,Museum,4.6,All,35,1
+Andhra Pradesh,Visakhapatnam,Borra Caves,Cave,4.5,Afternoon,8,1
+Andhra Pradesh,Visakhapatnam,War Memorial,War Memorial,4.6,All,74,1
+Andhra Pradesh,Visakhapatnam,Indira Gandhi Zoological Park,Zoo,4.1,Afternoon,77,1
+Andhra Pradesh,Visakhapatnam,Matsyadarshini Aquarium,Aquarium,3.8,All,2,1
+Andhra Pradesh,Visakhapatnam,Visakha Museum,Museum,4.3,All,35,1
+Sikkim,Gangtok,Nathula Pass,Hill,4.3,Afternoon,22,26
+Sikkim,Pelling,Pemayangtse Monastery,Monastery,4.6,Morning,31,26
+Sikkim,Namchi,Char Dham,Religious Complex,4.7,All,45,26
+Sikkim,Gangtok,Rumtek Monastery,Monastery,4.6,Morning,31,26
+Sikkim,Ravangla,Buddha Park,Park,4.8,All,41,26
+Sikkim,Gangtok,Baba Harbhajan Singh Temple,Temple,4.7,All,62,26
+Sikkim,Gangtok,Tsomgo Lake,Lake,4.5,Morning,25,26
+Assam,Guwahati,Kamakhya Temple,Temple,4.6,All,62,3
+Assam,Kaziranga,Kaziranga National Park,National Park,4.5,Morning,36,3
+Assam,Guwahati,Umananda Island,Island,4.1,Morning,24,3
+Assam,Sivasagar,Sivasagar Sivadol,Temple,4.7,All,62,3
+Assam,Majuli,Majuli Island,River Island,4.7,Morning,48,3
+Assam,Manas,Manas National Park,National Park,4.6,Morning,36,3
+Assam,Hajo,Hayagriva Madhava Temple,Temple,4.5,All,62,3
+Assam,Guwahati,Pobitora Wildlife Sanctuary,Wildlife Sanctuary,4.4,All,76,3
+Arunachal Pradesh,Tawang,Tawang Monastery,Monastery,4.7,Morning,31,2
+Tripura,Agartala,Ujjayanta Palace,Palace,4.5,All,40,29
+Tripura,Dumboor,Dumboor Lake,Lake,4.5,Morning,25,29
+Tripura,Unakoti,Unakoti Rock Carvings,Rock Carvings,4.5,Morning,49,29
+Chhattisgarh,Bastar,Chitrakote Falls,Waterfall,4.6,Morning,75,5
+Nagaland,DzÃ¼kou Valley,DzÃ¼kou Valley,Valley,4.7,Afternoon,70,21
+Puducherry,Puducherry,Promenade Beach,Beach,4.5,Morning,3,23
+Puducherry,Auroville,Auroville,Township,4.1,All,67,23
+Puducherry,Puducherry,Paradise Beach,Beach,4.5,Morning,3,23
+Andaman and Nicobar Islands,Port Blair,Cellular Jail,Landmark,4.7,Afternoon,26,0
+Andaman and Nicobar Islands,Havelock Island,Radhanagar Beach,Beach,4.8,Morning,3,0
+Andaman and Nicobar Islands,Neil Island,Bharatpur Beach,Beach,4.5,Morning,3,0
+Andaman and Nicobar Islands,Baratang Island,Limestone Caves,Natural Feature,4.4,Morning,37,0
+Daman and Diu,Diu,Naida Caves,Cave,4.5,Afternoon,8,6
+Daman and Diu,Diu,Diu Fort,Fort,4.6,Afternoon,17,6
+Jharkhand,Deoghar,Baba Baidyanath Temple,Temple,4.7,All,62,13
+Jharkhand,Ranchi,Pahari Mandir,Temple,4.6,All,62,13
+Bihar,Bodh Gaya,Mahabodhi Temple,Temple,4.7,All,62,4
+Bihar,Patna,Sanjay Gandhi Biological Park,Zoo,4.3,All,77,4
+Bihar,Patna,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,4.7,All,21,4
+Bihar,Patna,Budhha Smriti Park,Park,4.4,All,41,4
+Haryana,Gurugram,Kingdom of Dreams,Entertainment,4.4,Afternoon,15,10
+Haryana,Gurugram,Ambience Mall,Mall,4.6,Afternoon,27,10
+Haryana,Gurugram,DLF CyberHub,Commercial Complex,4.7,Afternoon,10,10
+Delhi,New Delhi,Gurudwara Bangla Sahib,Gurudwara,4.8,All,21,7
+Uttarakhand,Kedarnath,Kedarnath,Temple,4.8,All,62,31
+Uttar Pradesh,Noida,DLF Mall of India,Mall,4.6,All,27,30
+Uttar Pradesh,Greater Noida,The Grand Venice Mall,Mall,4.2,All,27,30
+Karnataka,Bengaluru,Wonderla Amusement Park,Amusement Park,4.5,All,1,14
+Odisha,Bhubaneswar,Nandankanan Zoological Park,Zoo,4.4,Afternoon,77,22
+Karnataka,Bengaluru,Orion Mall,Mall,4.5,All,27,14
+Telangana,Hyderabad,Inorbit Mall Cyberabad,Mall,4.5,All,27,28
+Delhi,New Delhi,Jama Masjid,Mosque,4.5,All,33,7
+Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,4.7,All,62,27
+Uttar Pradesh,Greater Noida,Buddh International Circuit,Race Track,4.6,All,44,30
+Uttar Pradesh,Lucknow,Phoenix Palassio,Mall,4.6,All,27,30
+Kerala,Kochi,LuLu International Shopping Mall,Mall,4.6,All,27,15
+Delhi,New Delhi,Rail Museum,Museum,4.4,Morning,35,7
+Meghalaya,Cherrapunji,Living Root Bridge,Natural Feature,4.6,Morning,37,20
+Gujarat,Gandhinagar,Akshardham,Temple,4.6,All,62,9
+Uttar Pradesh,Agra,Agra Fort,Fort,4.5,Afternoon,17,30
+Madhya Pradesh,Bhopal,Madhya Pradesh Tribal Museum,Museum,4.7,All,35,17
+Rajasthan,Jaipur,City Palace,Palace,4.4,Morning,40,25
+Rajasthan,Jaipur,Albert Hall Museum,Museum,4.5,All,35,25

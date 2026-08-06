@@ -1,0 +1,21 @@
+Name: sentence-transformers
+Version: 2.2.2
+Summary: Multilingual text embeddings
+Home-page: https://github.com/UKPLab/sentence-transformers
+Author: Nils Reimers
+Author-email: info@nils-reimers.de
+License: Apache License 2.0
+Location: C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages
+Requires: huggingface-hub, nltk, numpy, scikit-learn, scipy, sentencepiece, torch, torchvision, tqdm, transformers
+Required-by: 
+---
+Name: huggingface-hub
+Version: 0.34.4
+Summary: Client library to download and publish models, datasets and other repos on the huggingface.co hub
+Home-page: https://github.com/huggingface/huggingface_hub
+Author: Hugging Face, Inc.
+Author-email: julien@huggingface.co
+License: Apache
+Location: C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages
+Requires: filelock, fsspec, packaging, pyyaml, requests, tqdm, typing-extensions
+Required-by: datasets, sentence-transformers, tokenizers, transformers

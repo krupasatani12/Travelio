@@ -1,0 +1,7 @@
+Get-ChildItem : A positional parameter cannot be found that accepts argument 'cache_all_places.py'.
+At line:1 char:1
++ dir /s /b cache_all_places.py
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.GetChildItemCommand
+ 

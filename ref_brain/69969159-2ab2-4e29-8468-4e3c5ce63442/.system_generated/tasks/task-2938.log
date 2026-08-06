@@ -1,0 +1,13 @@
+  File "<string>", line 1
+    import sqlite3; conn = sqlite3.connect('db.sqlite3'); cur = conn.cursor(); cur.execute(" SELECT name FROM sqlite_master WHERE type=table
+                                                                                           ^
+SyntaxError: unterminated string literal (detected at line 1)
+\); print(cur.fetchall()) : The term '\); print(cur.fetchall())' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:151
++ ... ame FROM sqlite_master WHERE type='table';\"); print(cur.fetchall())"
++                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\); print(cur.fetchall()):String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

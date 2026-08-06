@@ -1,0 +1,100 @@
+server\models\Journal.js
+server\models\User.js
+server\routes
+server\routes\admin.routes.js
+server\routes\auth.routes.js
+server\routes\budget.routes.js
+server\routes\chatbot.routes.js
+server\routes\email.routes.js
+server\routes\favorites.routes.js
+server\routes\journal.routes.js
+server\routes\landmark.routes.js
+server\routes\news.routes.js
+server\routes\routeGraph.routes.js
+server\routes\safety.routes.js
+server\routes\trip.routes.js
+server\services
+server\services\emailService.js
+server\services\geminiService.js
+server\services\mlProxy.js
+server\uploads
+server\uploads\journals
+server\views
+server\views\admin.ejs
+server\.env
+server\package-lock.json
+server\package.json
+server\server.js
+temp
+temp\airlines
+temp\airlines\airlines_flights_data.csv
+temp\Indian-monuments
+temp\Indian-monuments\images
+temp\Indian-monuments\images\test
+temp\Indian-monuments\images\test\Ajanta Caves
+temp\Indian-monuments\images\test\Ajanta Caves\1.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\10.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\11.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\12.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\13.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\14.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\15.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\16.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\17.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\18.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\19.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\2.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\20.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\21.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\22.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\23.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\24.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\25.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\26.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\27.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\28.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\29.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\3.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\30.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\31.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\4.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\5.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\6.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\7.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\8.jpg
+temp\Indian-monuments\images\test\Ajanta Caves\9.jpg
+temp\Indian-monuments\images\test\alai_darwaza
+temp\Indian-monuments\images\test\alai_darwaza\img175.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img180.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img194.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img195.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img205.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img220.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img226.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img228.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img230.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img232.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img234.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img238.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img254.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img256.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img260.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img262.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img269.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img287.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img293.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img318.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img335.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img381.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img445.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img566.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img572.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img580.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img583.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img584.jpeg
+temp\Indian-monuments\images\test\alai_darwaza\img585.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img590.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img593.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img594.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img601.jpg
+temp\Indian-monuments\images\test\alai_darwaza\img605.jpg

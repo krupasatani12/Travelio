@@ -1,0 +1,10 @@
+Name: pymongo
+Version: 4.17.0
+Summary: PyMongo - the Official MongoDB Python driver
+Home-page: https://www.mongodb.org
+Author: The MongoDB Python Team
+Author-email: 
+License-Expression: Apache-2.0
+Location: C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages
+Requires: dnspython
+Required-by: 

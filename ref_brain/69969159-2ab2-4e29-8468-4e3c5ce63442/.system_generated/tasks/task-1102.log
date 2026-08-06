@@ -1,0 +1,15 @@
+TOP shape: (325, 16)
+TOP cols: ['Unnamed: 0', 'Zone', 'State', 'City', 'Name', 'Type', 'Establishment Year', 'time needed to visit in hrs', 'Google review rating', 'Entrance Fee in INR', 'Airport with 50km Radius', 'Weekly Off', 'Significance', 'DSLR Allowed', 'Number of google review in lakhs', 'Best Time to visit']
+
+TOP sample:
+   State   City                  Name          Type  Google review rating  Number of google review in lakhs
+0  Delhi  Delhi            India Gate  War Memorial                   4.6                              2.60
+1  Delhi  Delhi        Humayun's Tomb          Tomb                   4.5                              0.40
+2  Delhi  Delhi     Akshardham Temple        Temple                   4.6                              0.40
+3  Delhi  Delhi  Waste to Wonder Park    Theme Park                   4.1                              0.27
+4  Delhi  Delhi         Jantar Mantar   Observatory                   4.2                              0.31
+5  Delhi  Delhi         Chandni Chowk        Market                   4.2                              0.25
+6  Delhi  Delhi          Lotus Temple        Temple                   4.5                              0.59
+7  Delhi  Delhi              Red Fort          Fort                   4.5                              1.50
+8  Delhi  Delhi      Agrasen ki Baoli      Stepwell                   4.2                              0.41
+9  Delhi  Delhi        Sunder Nursery          Park                   4.6                              0.16

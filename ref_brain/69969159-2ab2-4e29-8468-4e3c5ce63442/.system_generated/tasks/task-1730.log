@@ -1,0 +1,24 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v8.1.4  ready in 1458 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+5:40:59 pm [vite] (client) [console.error] Auth fetch error: AxiosError: Network Error
+    at XMLHttpRequest.handleError (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2260:16)
+5:40:59 pm [vite] (client) [console.error] Auth fetch error: AxiosError: Network Error
+    at XMLHttpRequest.handleError (http://localhost:5173/node_modules/.vite/deps/axios.js?v=80a477aa:2260:16)
+5:40:59 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+6:26:47 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+6:35:13 pm [vite] (client) hmr update /src/pages/PlaceDetail.css
+6:36:01 pm [vite] (client) hmr update /src/App.jsx
+6:36:59 pm [vite] (client) hmr update /src/pages/Places.jsx
+6:37:13 pm [vite] (client) hmr update /src/pages/Dashboard.jsx
+6:37:46 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+6:39:36 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+6:39:40 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+6:39:42 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+6:39:55 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.

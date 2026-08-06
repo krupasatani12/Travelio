@@ -1,0 +1,19 @@
+
+> client@0.0.0 dev
+> vite
+
+10:14:43 pm [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v8.1.4  ready in 1104 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+10:14:44 pm [vite] (client) [optimizer] bundling dependencies...
+10:22:35 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+10:42:42 pm [vite] (client) [console.warn] No routes matched location "/places/1" 
+10:42:42 pm [vite] (client) [console.warn] No routes matched location "/places/1" 
+10:42:55 pm [vite] (client) [console.warn] No routes matched location "/places/1" 
+10:42:55 pm [vite] (client) [console.warn] No routes matched location "/places/1" 
+10:48:53 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+10:49:25 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+10:49:27 pm [vite] (client) [console.error] Encountered two children with the same key, `delhi`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.

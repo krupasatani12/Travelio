@@ -1,0 +1,20 @@
+[Seed] Connected to MongoDB
+[Seed] Parsing CSV...
+[Seed] Successfully parsed 15000 rows.
+[Seed] Inserting into MongoDB in batches...
+[Seed] Inserted 1000 / 15000
+[Seed] Inserted 2000 / 15000
+[Seed] Inserted 3000 / 15000
+[Seed] Inserted 4000 / 15000
+[Seed] Inserted 5000 / 15000
+[Seed] Inserted 6000 / 15000
+[Seed] Inserted 7000 / 15000
+[Seed] Inserted 8000 / 15000
+[Seed] Inserted 9000 / 15000
+[Seed] Inserted 10000 / 15000
+[Seed] Inserted 11000 / 15000
+[Seed] Inserted 12000 / 15000
+[Seed] Inserted 13000 / 15000
+[Seed] Inserted 14000 / 15000
+[Seed] Inserted 15000 / 15000
+[Seed] Done!

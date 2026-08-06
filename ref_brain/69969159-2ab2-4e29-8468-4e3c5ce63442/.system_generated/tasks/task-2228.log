@@ -1,0 +1,23 @@
+
+
+    Directory: D:\Travel.IO\server\routes
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        11-07-2026     00:16           1317 admin.routes.js                                                      
+-a----        19-07-2026     14:21           2196 analytics.routes.js                                                  
+-a----        13-07-2026     00:41           3552 auth.routes.js                                                       
+-a----        13-07-2026     00:15            764 budget.routes.js                                                     
+-a----        20-07-2026     13:17           1152 chatbot.routes.js                                                    
+-a----        11-07-2026     00:16            585 email.routes.js                                                      
+-a----        20-07-2026     18:26           2275 favorites.routes.js                                                  
+-a----        20-07-2026     21:44           8223 journal.routes.js                                                    
+-a----        20-07-2026     13:17           1963 landmark.routes.js                                                   
+-a----        20-07-2026     18:25           2953 locations.routes.js                                                  
+-a----        11-07-2026     00:16            690 news.routes.js                                                       
+-a----        11-07-2026     00:16            602 routeGraph.routes.js                                                 
+-a----        11-07-2026     00:15            409 safety.routes.js                                                     
+-a----        19-07-2026     14:20           2660 trip.routes.js                                                       
+
+

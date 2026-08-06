@@ -1,0 +1,52 @@
+{
+  results: [
+    {
+      id: 1354,
+      score: 0.41173171570881023,
+      name: 'Tirupathur',
+      state: 'Tamil Nadu',
+      heroImage: 'https://media.istockphoto.com/id/1126939587/photo/the-holy-mountain-arunachala-is-referred-to-in-the-ancient-scriptures-as-the-oldest-mountain.webp?a=1&b=1&s=612x612&w=0&k=20&c=79JaE689Sr1rWZGtwq_m6IcOtxFRKIprCkwqnUFvT6I=',
+      teaserText: 'A beautiful destination matching your description.'
+    },
+    {
+      id: 758,
+      score: 0.3670262612235678,
+      name: 'Nainital',
+      state: 'Uttarakhand',
+      heroImage: 'https://plus.unsplash.com/premium_photo-1733266854371-99095bebc7d4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TmFpbml0YWwlMjBVdHRhcmFraGFuZHxlbnwwfHwwfHx8MA%3D%3D',
+      teaserText: '\n' +
+        '\n' +
+        'Nainital (Kumaoni: Naintāl; .mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%}pronounced [nɛnːtaːl]), formerly anglicized as Naini Tal, is a town and ...'
+    },
+    {
+      id: 733,
+      score: 0.34842868856360787,
+      name: 'Mussoorie',
+      state: 'Uttarakhand',
+      heroImage: 'https://plus.unsplash.com/premium_photo-1692299547339-2ac3e5592099?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TXVzc29vcmllJTIwVXR0YXJha2hhbmR8ZW58MHx8MHx8fDA%3D',
+      teaserText: '\n' +
+        '\n' +
+        'Mussoorie (.mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%}Hindi: [məsuːɾiː]) is a hill station and a municipal board, in Dehradun city in the Dehra...'
+    },
+    {
+      id: 1425,
+      score: 0.328848808966571,
+      name: 'Vatakara',
+      state: 'Kerala',
+      heroImage: 'https://media.istockphoto.com/id/1496683964/photo/view-to-the-area-around-the-at-peruvannamuzhi-dam-kuttyady-kerala-india.webp?a=1&b=1&s=612x612&w=0&k=20&c=inHCo483qWoeBL0l8KGMFyZpkZZv8OKAtDgjVAugDYg=',
+      teaserText: 'A beautiful destination matching your description.'
+    },
+    {
+      id: 148,
+      score: 0.3247440043795565,
+      name: 'Darjeeling',
+      state: 'WestBengal',
+      heroImage: 'https://plus.unsplash.com/premium_photo-1697730303782-6679b6bec202?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGFyamVlbGluZ3xlbnwwfHwwfHx8MA%3D%3D',
+      teaserText: 'This is an accepted version of this page\n' +
+        '\n' +
+        '\n' +
+        '\n' +
+        'Darjeeling (/dɑːrˈdʒiːlɪŋ/,[14] .mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%}Nepali: [ˈdard͡ziliŋ], Ben...'
+    }
+  ]
+}

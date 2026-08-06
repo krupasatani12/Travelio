@@ -1,0 +1,9 @@
+import React from 'react';
+
+const PaperPlane = () => {
+  return (
+    <div dangerouslySetInnerHTML={{ __html: \$svgContent\ }} />
+  );
+};
+
+export default PaperPlane;

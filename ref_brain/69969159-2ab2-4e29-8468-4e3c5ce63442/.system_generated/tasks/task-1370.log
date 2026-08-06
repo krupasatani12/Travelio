@@ -1,0 +1,355 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v8.1.4  ready in 1601 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+12:23:14 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+12:26:31 pm [vite] (client) [console.warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+12:53:03 pm [vite] (client) hmr update /src/pages/ChatbotPage.jsx
+12:53:03 pm [vite] (client) hmr update /src/pages/ChatbotPage.jsx
+12:53:03 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:03 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+12:53:03 pm [vite] (client) [console.error] [vite] Failed to reload /src/pages/ChatbotPage.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+12:53:04 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+12:53:04 pm [vite] (client) [console.error] [vite] Failed to reload /src/pages/ChatbotPage.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+12:53:04 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:04 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:04 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:21 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:21 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:21 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:21 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:22 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+12:53:22 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:22 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:22 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:50 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:53:50 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+12:54:09 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:09 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:20 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+12:54:20 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:20 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:37 pm [vite] Internal server error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 3)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+      at async viteTransformMiddleware (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:24559:20)
+12:54:38 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:38 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";
+12:54:38 pm [vite] (client) Pre-transform error: Failed to resolve import "react-markdown" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:4:26
+  2  |  import { motion } from "framer-motion";
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+     |                             ^
+  5  |  import { AuthContext } from "../context/AuthContext";
+  6  |  import api from "../utils/api";

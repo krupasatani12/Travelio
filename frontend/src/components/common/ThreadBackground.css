@@ -1,0 +1,27 @@
+.thread-bg-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.thread-path {
+  /* Initial state before JS takes over */
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+}
+
+.thread-loop {
+  animation: wave 10s infinite alternate ease-in-out;
+  transform-origin: center;
+}
+
+/* Add slight subtle movement to the paths */
+@keyframes wave {
+  0% { transform: scale(1) translateY(0); }
+  100% { transform: scale(1.05) translateY(20px); }
+}

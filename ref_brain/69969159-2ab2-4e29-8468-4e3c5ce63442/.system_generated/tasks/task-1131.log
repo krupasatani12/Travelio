@@ -1,0 +1,97 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 18, 2026 - 22:14:31
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784393328.306522   20868 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+D:\Travel.IO\ml-service\ml\city_index.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 18, 2026 - 22:19:14
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784393385.684787    6320 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784393402.825489    6320 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Initializing Semantic Search Index... (This might take a moment)
+[18/Jul/2026 22:23:55] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18330
+[18/Jul/2026 22:23:58] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18330
+Found 1167 valid embeddings out of 1167 rows. Parsing...
+Success: Loaded 1167 location embeddings into memory.
+[18/Jul/2026 22:24:05] "GET /api/cities/?page=1&limit=5 HTTP/1.1" 200 1803
+[18/Jul/2026 22:25:18] "GET /api/news/alerts/?destinations=surat HTTP/1.1" 200 59
+[18/Jul/2026 22:25:33] "GET /api/cities/Delhi/places/?page=1&limit=5&sort=highest_rated HTTP/1.1" 200 2002
+[18/Jul/2026 22:26:38] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:26:39] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:27:17] "GET /api/cities/Ahemdabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1113
+[18/Jul/2026 22:27:31] "GET /api/cities/Agartala/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 3425
+[18/Jul/2026 22:27:47] "GET /api/cities/Alappuzha/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 3460
+[18/Jul/2026 22:28:22] "GET /api/cities/?page=2&limit=20&sort=alpha HTTP/1.1" 200 5183
+[18/Jul/2026 22:28:39] "GET /api/cities/?page=3&limit=20&sort=alpha HTTP/1.1" 200 5093
+[18/Jul/2026 22:28:58] "GET /api/cities/Chitrakoot/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 422
+[18/Jul/2026 22:29:04] "GET /api/cities/Chikmagalur/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 754
+[18/Jul/2026 22:29:14] "GET /api/cities/?page=4&limit=20&sort=alpha HTTP/1.1" 200 5384
+[18/Jul/2026 22:29:49] "GET /api/cities/?page=5&limit=20&sort=alpha HTTP/1.1" 200 5581
+[18/Jul/2026 22:30:07] "GET /api/cities/Haridwar/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 4108
+[18/Jul/2026 22:30:14] "GET /api/cities/Haridwar/places/?page=2&limit=10&sort=alpha HTTP/1.1" 200 518
+[18/Jul/2026 22:31:38] "GET /api/cities/?page=6&limit=20&sort=alpha HTTP/1.1" 200 5301
+[18/Jul/2026 22:31:43] "GET /api/cities/?page=7&limit=20&sort=alpha HTTP/1.1" 200 5462
+[18/Jul/2026 22:31:59] "GET /api/cities/?page=8&limit=20&sort=alpha HTTP/1.1" 200 5360
+[18/Jul/2026 22:31:59] "GET /api/cities/?page=9&limit=20&sort=alpha HTTP/1.1" 200 5579
+[18/Jul/2026 22:32:23] "GET /api/cities/?page=10&limit=20&sort=alpha HTTP/1.1" 200 5787
+[18/Jul/2026 22:32:27] "GET /api/cities/?page=11&limit=20&sort=alpha HTTP/1.1" 200 5675
+[18/Jul/2026 22:32:33] "GET /api/cities/?page=12&limit=20&sort=alpha HTTP/1.1" 200 6013
+[18/Jul/2026 22:32:46] "GET /api/cities/?page=13&limit=20&sort=alpha HTTP/1.1" 200 760
+[18/Jul/2026 22:42:09] "GET /api/cities/?page=12&limit=20&sort=alpha HTTP/1.1" 200 6013
+[18/Jul/2026 22:42:14] "GET /api/cities/Thekkady/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 409
+[18/Jul/2026 22:43:02] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:43:02] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:43:17] "POST /api/search/semantic/ HTTP/1.1" 200 1702
+[18/Jul/2026 22:43:17] "POST /api/search/semantic/ HTTP/1.1" 200 1989
+[18/Jul/2026 22:43:17] "POST /api/search/semantic/ HTTP/1.1" 200 3015
+[18/Jul/2026 22:43:18] "POST /api/search/semantic/ HTTP/1.1" 200 1668
+[18/Jul/2026 22:43:18] "POST /api/search/semantic/ HTTP/1.1" 200 2428
+[18/Jul/2026 22:43:18] "POST /api/search/semantic/ HTTP/1.1" 200 2724
+[18/Jul/2026 22:43:20] "POST /api/search/semantic/ HTTP/1.1" 200 2927
+[18/Jul/2026 22:43:22] "POST /api/search/semantic/ HTTP/1.1" 200 2724
+[18/Jul/2026 22:43:25] "POST /api/search/semantic/ HTTP/1.1" 200 2927
+[18/Jul/2026 22:43:29] "POST /api/search/semantic/ HTTP/1.1" 200 2428
+[18/Jul/2026 22:43:30] "POST /api/search/semantic/ HTTP/1.1" 200 1946
+[18/Jul/2026 22:43:34] "POST /api/search/semantic/ HTTP/1.1" 200 1638
+[18/Jul/2026 22:43:35] "POST /api/search/semantic/ HTTP/1.1" 200 1667
+[18/Jul/2026 22:43:35] "POST /api/search/semantic/ HTTP/1.1" 200 1638
+[18/Jul/2026 22:43:40] "POST /api/search/semantic/ HTTP/1.1" 200 2927
+[18/Jul/2026 22:43:45] "POST /api/search/semantic/ HTTP/1.1" 200 2955
+[18/Jul/2026 22:45:23] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:45:23] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[18/Jul/2026 22:48:53] "POST /api/recommend/ HTTP/1.1" 200 1375
+[18/Jul/2026 22:49:27] "GET /api/safety/Port%20Blair/ HTTP/1.1" 200 188
+[18/Jul/2026 22:49:27] "POST /api/budget/predict/ HTTP/1.1" 200 226

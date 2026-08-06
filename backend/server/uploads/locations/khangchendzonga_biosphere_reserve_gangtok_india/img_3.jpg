@@ -1,0 +1,474 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Lora|PT+Serif:400,700&display=swap" rel="stylesheet">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Home | AlightIndia</title>
+    <meta property="og:title" content="Home | AlightIndia" />
+    <meta name="og:description" content="" />
+    <meta description="" />
+    <meta name="classification" content="Alightindia" />
+    <link rel="canonical" href="https://www.alightindia.com/post/notfound?404;https://www.alightindia.com:443/cdn/uploads/postimages/ORIGINAL/Khangchendzonga+National+Park+Alliance--10ec7b.jpg" />
+    <meta name="robots" content="follow, index, all" />
+    <meta name="robots" content="noodp,noydir">
+    <meta name="revisit-after" content="2 days" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="expires" content="never" />
+    <meta http-equiv="language" content="English" />
+    <meta name="document-type" content="public" />
+    <meta name="author" content="Alightindia" />
+    <meta keywords="" />
+    <link href="/favicon.png" rel="shortcut icon" type="image/x-icon">
+    <link href="/CDN/new/css/jquery.typeahead.min.css" rel="stylesheet" />
+    <script src="/CDN/new/js/jQuery-2.1.4.min.js"></script>
+    <style type="text/css">
+        button:focus, button:visited {
+            outline: 0
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        body {
+            font-family: Lora,serif;
+            font-weight: 400;
+            letter-spacing: .03em;
+            margin: 0
+        }
+
+        .h-100 {
+            height: 100%;
+        }
+
+        .fa, .fab, .fas, .homepage_container {
+            background-size: cover;
+            background-repeat: no-repeat
+        }
+
+        .homepage_container, .input-group, .input-group-append, footer, footer .nav {
+            display: -ms-flexbox !important;
+            display: flex !important
+        }
+
+            .input-group, footer .nav {
+                -ms-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                flex-wrap: wrap
+            }
+
+            #searchform .btn:before, .fa, .fab, .fas, .homepage_container:before, .typeahead.dropdown-menu {
+                position: absolute
+            }
+
+            #searchform .btn:before, .fa, .fab, .fas, .homepage_container:before {
+                content: ""
+            }
+
+            .fa, .fab, .fas, .homepage_container:before {
+                top: 0
+            }
+
+            .fa, .fab, .fas, .homepage_container:before, footer {
+                left: 0
+            }
+
+                #searchform .btn, .homepage_container, .homepage_container .search_widget_container, .homepage_container_body, .input-group, footer .nav .nav-item {
+                    position: relative
+                }
+
+                    #searchform .btn, .logo_section, footer .nav .nav-item a {
+                        text-transform: capitalize
+                    }
+
+                    #searchform .btn, .logo_section, .typeahead.dropdown-menu .dropdown-item:hover, .typeahead.dropdown-menu li.active.active .dropdown-item, footer .nav .nav-item a {
+                        color: #fff
+                    }
+
+                    .fa, .fab, .fas, .homepage_container, .homepage_container:before, .input-group, .typeahead.dropdown-menu, .typeahead.dropdown-menu .dropdown-item {
+                        width: 100%
+                    }
+
+                        #searchform .btn, .typeahead.dropdown-menu .dropdown-item:hover, .typeahead.dropdown-menu li.active.active .dropdown-item {
+                            background-color: #ef7f1a
+                        }
+
+        .homepage_container {
+            background-image: url(/cdn/new/images/banner/jodhpur.jpg) !important;
+            background-position: center;
+            height: 100vh;
+            -ms-flex-align: center !important;
+            align-items: center !important;
+            -ms-flex-pack: center !important;
+            justify-content: center !important
+        }
+
+            .homepage_container:before {
+                background-color: rgba(0,0,0,.7);
+                height: 100%
+            }
+
+        .homepage_container_body {
+            width: 1140px;
+            margin: auto
+        }
+
+        .text-center {
+            text-align: center
+        }
+
+        .text-primary {
+            color: #ef7f1a !important
+        }
+
+        .text-green {
+            color: #009846 !important
+        }
+
+        .logo_section {
+            font-size: 42px;
+            font-family: 'Titillium Web',sans-serif;
+            margin-bottom: 25px
+        }
+
+        .widget_box_container {
+            max-width: 66.666667%;
+            margin: auto;
+            padding-right: 15px;
+            padding-left: 15px
+        }
+
+        .homepage_container .search_widget_container {
+            padding: 15px;
+            background: rgba(255,255,255,.2);
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+            border-radius: 10px;
+            -moz-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset,0 1px 0 rgba(255,255,255,.2);
+            -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.4) inset,0 1px 0 rgba(255,255,255,.2);
+            box-shadow: 0 1px 1px rgba(0,0,0,.4) inset,0 1px 0 rgba(255,255,255,.2)
+        }
+
+        .input-group {
+            -ms-flex-align: stretch;
+            align-items: stretch
+        }
+
+            .input-group .form-control {
+                background-color: #fff;
+                height: 52px;
+                -ms-flex: 1 1 auto;
+                -webkit-flex: 1 1 auto;
+                flex: 1 1 auto;
+                padding: .375rem .75rem;
+                width: 1%;
+                font-size: 16px;
+                border: 0;
+                border-radius: 0;
+                letter-spacing: .03em;
+                line-height: 1.42857143;
+                color: #555
+            }
+
+        .input-group-append {
+            margin-left: -1px
+        }
+
+        #searchform .btn {
+            -moz-border-radius: 0 3px 3px 0;
+            -webkit-border-radius: 0 3px 3px 0;
+            border-radius: 0 3px 3px 0;
+            font-size: 16px;
+            text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+            border-color: #ef7f1a;
+            border: 0;
+            padding: 0 25px;
+            cursor: pointer
+        }
+
+            #searchform .btn:before {
+                border-width: 8px 8px 8px 0;
+                border-style: solid solid solid none;
+                border-color: transparent #ef7f1a transparent;
+                top: 38%;
+                left: -6px
+            }
+
+        footer {
+            padding: 10px 20px;
+            bottom: 0;
+            position: fixed;
+            right: 0;
+            justify-content: space-around !important;
+            z-index: 1
+        }
+
+        .fa, .fab, .fas {
+            width: 16px;
+            height: 16px;
+            right: 0;
+            margin: auto;
+            bottom: 0
+        }
+
+        .fa-search {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        .fa-instagram {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        .fa-pinterest {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 384 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M204 6.5C101.4 6.5 0 74.9 0 185.6 0 256 39.6 296 63.6 296c9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8C384 71.3 298.2 6.5 204 6.5z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E ");
+        }
+
+        .fa-facebook-f {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        .fa-twitter {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        .fa-linkedin-in {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M100.3 448H7.4V148.9h92.9V448zM53.8 108.1C24.1 108.1 0 83.5 0 53.8S24.1 0 53.8 0s53.8 24.1 53.8 53.8-24.1 54.3-53.8 54.3zM448 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448h-.1z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        .fa-map-marker-alt {
+            background-image: url("data:image/svg+xml,%3Csvg  width='25' height='25' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z' fill='%23fff' fill-rule='nonzero'/%3E%3C/svg%3E")
+        }
+
+        footer .nav {
+            padding-left: 0;
+            margin-bottom: 0;
+            list-style: none;
+            margin: 0;
+            padding: 0
+        }
+
+            footer .nav .nav-item {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                font-size: .9em
+            }
+
+                footer .nav .nav-item a {
+                    font-size: 12px;
+                    font-weight: 600;
+                    font-family: 'PT Serif',serif;
+                    padding: 0 20px
+                }
+
+            footer .nav.with_seperator .nav-item a {
+                border-right: 1px solid #fff
+            }
+
+            footer .nav.with_seperator .nav-item:last-of-type a {
+                border-right: 0
+            }
+
+        .typeahead.dropdown-menu {
+            min-width: 10rem;
+            font-size: 1rem;
+            list-style: none;
+            background-color: #fff;
+            margin-top: -1px;
+            padding: 0;
+            border-top: 1px solid #eee;
+            border-bottom-right-radius: .25rem;
+            border-bottom-left-radius: .25rem;
+            max-height: 250px;
+            overflow: hidden;
+            overflow-y: auto;
+            z-index: 1100
+        }
+
+            .typeahead.dropdown-menu .dropdown-item {
+                padding: 10px 15px;
+                display: block;
+                white-space: nowrap;
+                font-weight: 400;
+                color: #212529;
+                font-size: 17px
+            }
+
+        .not_found_box {
+            text-align: center;
+            color: #fff;
+            font-size: 22px;
+        }
+
+            .not_found_box h1 {
+                font-size: 60px;
+                letter-spacing: 1px;
+                margin: 0;
+            }
+
+                .not_found_box h1.smaller-text {
+                    font-size: 30px;
+                }
+
+        @media only screen and (max-width: 520px) {
+            .widget_box_container {
+                max-width: 100%;
+            }
+
+            .input-group .form-control {
+                height: 30px;
+            }
+
+            .homepage_container .search_widget_container {
+                padding: 8px;
+                border-radius: 0;
+            }
+
+            .not_found_box h1 {
+                font-size: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="homepage_container" id="main_container" style="">
+        <div class="homepage_container_body">
+            <div class="widget_box_container">
+                <div class="logo_section text-center">
+                    <span class="text-primary">a</span>light <span class="text-green">I</span>ndia
+                </div>
+                <div class="search_widget_container">
+                    <style type="text/css">
+    .typeahead__result .typeahead__list {
+        padding: 0;
+        max-height: 200px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        font-family: 'Lora', serif;
+    }
+
+    .typeahead__filter, .typeahead__button {
+        z-index: 9;
+    }
+
+    .typeahead__container button.btn-primary {
+        background-color: #ef7f1a;
+        color: #fff;
+    }
+
+    .typeahead__list .typeahead__item {
+        text-transform: lowercase;
+        border: 0;
+    }
+
+    .typeahead__item.typeahead__group-article.active a {
+        background-color: #ef7f1a !important;
+        color: #fff !important;
+    }
+</style>
+<div class="searchwidget">
+    <form class="search__form" action="#" id="searchform">
+        <div class="typeahead__container">
+            <div class="typeahead__field">
+                <div class="typeahead__query input-group">
+                    <input id="searchbox" data-val="q" name="q" type="text" placeholder="browse mesmerizing India..." class="form-control" autocomplete="off">
+                </div>
+                <div class="typeahead__button">
+                    <button name="search" type="submit" class="h-100 btn btn-primary">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+                </div>
+                <div class="not_found_box d-flex justify-content-center">
+                    <div class="notfound-404">
+                        <h1><span class="text-primary">4</span>0<span class="text-green">4</span></h1>
+                        <p>Oops! Page Not Found</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <ul class="nav footer_quicklink with_seperator">
+                <li class="nav-item"><a class="nav-link" target="_blank" href="/about">About</a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="/feedback">Feedback</a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="/sitemap">Site Map</a></li>
+            </ul>
+            <ul class="nav footer_social_media">
+                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.facebook.com/alightindia2015"><i class="fab fa-facebook-f"></i></a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="https://twitter.com/AlightIndia"><i class="fab fa-twitter"></i></a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.linkedin.com/company/alightindia"><i class="fab fa-linkedin-in"></i></a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="https://in.pinterest.com/AlightIndia/"><i class="fa-pinterest fab"></i></a></li>
+                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.instagram.com/letsalightindia/"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="/CDN/new/js/jquery.typeahead.min.js"></script>
+
+    <script>
+        function IsNullOrEmpty(elmVal) {
+            elmVal = $.trim(elmVal);
+            if (elmVal == null || elmVal == "")
+                return true;
+            else
+                return false;
+        }
+        $('#searchform').on('submit', function (e) {
+            e.preventDefault();
+            var val = $("#searchform #searchbox").val();
+            if (!IsNullOrEmpty(val)) {
+                if (val.length > 2)
+                    window.location.href = "/search/?q=" + val;
+            }
+        });
+        function submitform() {
+            $('#searchform').trigger('submit');
+        }
+        $('#searchbox').typeahead({
+            minLength: 3,
+            maxItem: 20,
+            order: "asc",
+            dynamic: true,
+            emptyTemplate: "no result for {{query}}",
+            source: {
+                article: {
+                    display: "Keyword",
+                    ajax: function (query) {
+                        return {
+                            type: "GET",
+                            url: "/search/getdata?q={{query}}"
+                        }
+                    }
+                },
+            },
+            callback: {
+                onClickAfter: submitform,
+                onNavigateAfter: function (node, lis, a, item, query, event) {
+                    if (~[38, 40].indexOf(event.keyCode)) {
+                        var resultList = node.closest("form").find("ul.typeahead__list"),
+                            activeLi = lis.filter("li.active"),
+                            offsetTop = activeLi[0] && activeLi[0].offsetTop - (resultList.height() / 2) || 0;
+
+                        resultList.scrollTop(offsetTop);
+                    }
+
+                },
+            }
+        });
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-79783611-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+</html>

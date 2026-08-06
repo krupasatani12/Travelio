@@ -1,0 +1,10 @@
+[22/Jul/2026 00:13:22] "GET /api/cities/pune/places/?page=1 HTTP/1.1" 200 7338
+[22/Jul/2026 00:14:22] "GET /api/cities/puri/places/?page=1 HTTP/1.1" 200 3503
+[22/Jul/2026 00:14:35] "GET /api/cities/purulia/places/?page=1 HTTP/1.1" 200 961
+[22/Jul/2026 00:14:57] "GET /api/cities/pushkar/places/?page=1 HTTP/1.1" 200 813
+[22/Jul/2026 00:15:08] "GET /api/cities/puttaparthi/places/?page=1 HTTP/1.1" 200 981
+[22/Jul/2026 00:15:46] "GET /api/cities/raipur/places/?page=1 HTTP/1.1" 200 3605
+[22/Jul/2026 00:16:05] "GET /api/cities/rajahmundry/places/?page=1 HTTP/1.1" 200 846
+[22/Jul/2026 00:18:08] "GET /api/cities/rameswaram/places/?page=1 HTTP/1.1" 200 8231
+Image Scraper Error: error sending request for url (https://www.bing.com/images/async?q=Dassam+falls++Ranchi+india&async=1&first=1&count=35) > operation timed out
+[22/Jul/2026 00:19:41] "GET /api/cities/ranchi/places/?page=1 HTTP/1.1" 200 7003

@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "D:\Travel.IO\ml-service\training\train_budget.py", line 105, in <module>
+    train_budget_forecaster()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Travel.IO\ml-service\training\train_budget.py", line 17, in train_budget_forecaster
+    print("\U0001f680 Starting Budget Forecaster V2 Training...")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>

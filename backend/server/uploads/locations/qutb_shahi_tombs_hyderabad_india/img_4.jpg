@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- Google Analytics — replace G-XXXXXXXXXX with your GA4 ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6849862116057516" crossorigin="anonymous"></script>
+    <script type="module" crossorigin src="/assets/index-BvwuIj2I.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-DmG4ozLZ.js">
+    <link rel="modulepreload" crossorigin href="/assets/query-z8MIDBu6.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-CEtsV7W0.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

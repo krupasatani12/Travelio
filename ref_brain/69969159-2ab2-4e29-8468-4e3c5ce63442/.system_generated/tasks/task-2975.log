@@ -1,0 +1,9 @@
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.append('d:/Travel.IO/ml-service'); from ml.city_index import city_index; num_cities = len(city_index.cities); num_places = sum(len(c['places']) for c in city_index.cities.values()); print(f'Cities: {num_cities}, Places: {num_places}, Total: {num_cities + num_places}')
+                                                                                                                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'CityIndex' object has no attribute 'cities'
+CityIndex: loading places data...
+  CityIndex: 1135 places across 241 cities in 37 states.

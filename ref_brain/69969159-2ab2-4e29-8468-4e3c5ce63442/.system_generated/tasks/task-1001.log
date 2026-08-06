@@ -1,0 +1,9 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-07-13T01:05:45+05:30
+Prompt: Check if task-995 has completed and verify the endpoint works.
+
+[2026-07-13T01:05:10+05:30] Still waiting. Remaining time: 35s
+[2026-07-13T01:05:20+05:30] Still waiting. Remaining time: 25s
+[2026-07-13T01:05:30+05:30] Still waiting. Remaining time: 15s
+[2026-07-13T01:05:40+05:30] Still waiting. Remaining time: 5s
+[2026-07-13T01:05:43+05:30] Timer cancelled: agent received a message during wait.

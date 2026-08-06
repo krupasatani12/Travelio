@@ -1,0 +1,5 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-07-20T14:37:16+05:30
+Prompt: Wait for the python script to run
+
+[2026-07-20T14:37:16+05:30] Timer fired.

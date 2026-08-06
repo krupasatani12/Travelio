@@ -1,0 +1,40 @@
+
+> client@0.0.0 dev
+> vite
+
+12:55:10 pm [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v8.1.4  ready in 883 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+12:55:12 pm [vite] (client) [optimizer] bundling dependencies...
+12:57:15 pm [vite] (client) hmr update /src/pages/ChatbotPage.jsx
+12:57:15 pm [vite] (client) Pre-transform error: Failed to resolve import "remark-gfm" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:5:22
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+  5  |  import remarkGfm from "remark-gfm";
+     |                         ^
+  6  |  import { AuthContext } from "../context/AuthContext";
+  7  |  import api from "../utils/api";
+12:57:15 pm [vite] Internal server error: Failed to resolve import "remark-gfm" from "src/pages/ChatbotPage.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: D:/Travel.IO/client/src/pages/ChatbotPage.jsx:5:22
+  3  |  import { FiSend, FiTrash2, FiMapPin, FiDollarSign, FiShield } from "react-icons/fi";
+  4  |  import ReactMarkdown from "react-markdown";
+  5  |  import remarkGfm from "remark-gfm";
+     |                         ^
+  6  |  import { AuthContext } from "../context/AuthContext";
+  7  |  import api from "../utils/api";
+      at TransformPluginContext._formatLog (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30366:39)
+      at TransformPluginContext.error (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30363:14)
+      at normalizeUrl (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27393:18)
+      at async file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27456:30
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:27424:4)
+      at async EnvironmentPluginContainer.transform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:30151:14)
+      at async loadAndTransform (file:///D:/Travel.IO/client/node_modules/vite/dist/node/chunks/node.js:20098:26)
+12:57:15 pm [vite] (client) [console.error] [vite] Failed to reload /src/pages/ChatbotPage.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+12:57:26 pm [vite] (client) hmr update /src/pages/ChatbotPage.css

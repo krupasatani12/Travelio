@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import pandas as pd; print('Top:', pd.read_csv('Top Indian Places to Visit.csv').columns.tolist()); print('Places:', pd.read_csv('places.csv').columns.tolist())
+                                                                                                                         ~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "parsers.pyx", line 574, in pandas._libs.parsers.TextReader.__cinit__
+  File "parsers.pyx", line 663, in pandas._libs.parsers.TextReader._get_header
+  File "parsers.pyx", line 874, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "parsers.pyx", line 891, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File "parsers.pyx", line 2053, in pandas._libs.parsers.raise_parser_error
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 3195: invalid start byte
+Top: ['Unnamed: 0', 'Zone', 'State', 'City', 'Name', 'Type', 'Establishment Year', 'time needed to visit in hrs', 'Google review rating', 'Entrance Fee in INR', 'Airport with 50km Radius', 'Weekly Off', 'Significance', 'DSLR Allowed', 'Number of google review in lakhs', 'Best Time to visit']

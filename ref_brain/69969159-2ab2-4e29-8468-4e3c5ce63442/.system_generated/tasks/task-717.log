@@ -1,0 +1,6 @@
+Loading dataset...
+Initial rows: 21000
+Training model...
+R2 Score: 0.6545
+MAE: 4068.07
+Model and encoders saved to Module directory!

@@ -1,0 +1,37 @@
+.cursor-tags-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.cursor-tag-vehicle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* Removed will-change: transform to prevent conflicting with JS inline styles */
+  animation: vehicle-fade-in 1.5s forwards;
+  opacity: 0;
+  filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.3));
+  transition: filter 0.3s ease;
+  /* Add explicit size to ensure SVGs don't collapse */
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 
+  CRITICAL FIX: Removed transform from CSS animation.
+  If CSS animates transform, it will override the JS inline style.transform 
+  which makes the SVGs get stuck at top:0 left:0 and never follow the cursor!
+*/
+@keyframes vehicle-fade-in {
+  from { opacity: 0; }
+  to { opacity: 0.8; }
+}

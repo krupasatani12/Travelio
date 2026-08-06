@@ -1,0 +1,16 @@
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+MongoNetworkError: connection 1 to [64:ff9b::9f29:b555]:27017 closed
+    at Connection.onClose (D:\Travel.IO\server\node_modules\mongodb\lib\cmap\connection.js:120:22)
+    at TLSSocket.emit (node:events:520:35)
+    at node:net:346:12
+    at TCP.done (node:_tls_wrap:649:7) {
+  errorLabelSet: Set(2) { 'HandshakeError', 'ResetPool' },
+  beforeHandshake: false,
+  connectionGeneration: 0,
+  [cause]: undefined
+}
+
+Node.js v24.6.0

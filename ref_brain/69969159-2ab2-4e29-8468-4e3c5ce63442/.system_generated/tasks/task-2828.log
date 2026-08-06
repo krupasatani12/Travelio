@@ -1,0 +1,8 @@
+Stop-Process : Cannot bind argument to parameter 'Id' because it is null.
+At line:1 char:17
++ kill -Force -Id (Get-Process grep -ErrorAction SilentlyContinue).Id
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidData: (:) [Stop-Process], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.StopProcess 
+   Command
+ 

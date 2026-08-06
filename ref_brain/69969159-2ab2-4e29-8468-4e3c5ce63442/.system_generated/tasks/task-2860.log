@@ -1,0 +1,9 @@
+Get-Content : Cannot find path 'C:\Users\KAVYA\.gemini\antigravity-ide\brain\69969159-2ab2-4e29-8468-4e3c5ce63442\.syst
+em_generated\tasks\task-2776.log' because it does not exist.
+At line:1 char:1
++ Get-Content -Tail 10 C:\Users\KAVYA\.gemini\antigravity-ide\brain\699 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KAVYA\...s\task-2776.log:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 

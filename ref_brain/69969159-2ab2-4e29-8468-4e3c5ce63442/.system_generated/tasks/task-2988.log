@@ -1,0 +1,11 @@
+
+> client@0.0.0 dev
+> vite
+
+9:54:20 pm [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v8.1.4  ready in 850 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+9:54:21 pm [vite] (client) [optimizer] bundling dependencies...

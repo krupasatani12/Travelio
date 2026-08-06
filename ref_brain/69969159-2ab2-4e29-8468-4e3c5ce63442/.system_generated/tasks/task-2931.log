@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sqlite3; conn = sqlite3.connect('db.sqlite3'); cur = conn.cursor(); cur.execute('SELECT COUNT(*) FROM travelio_place'); print(cur.fetchone()[0])
+                                                                               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: travelio_place

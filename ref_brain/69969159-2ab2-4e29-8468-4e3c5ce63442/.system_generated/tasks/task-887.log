@@ -1,0 +1,44 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sentence-transformers in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (2.2.2)
+Collecting sentence-transformers
+  Downloading sentence_transformers-5.6.0-py3-none-any.whl.metadata (18 kB)
+Requirement already satisfied: transformers<6.0.0,>=4.41.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (4.56.1)
+Requirement already satisfied: huggingface-hub>=0.23.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (0.34.4)
+Requirement already satisfied: torch>=1.11.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (2.8.0)
+Requirement already satisfied: numpy>=1.20.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (2.3.3)
+Requirement already satisfied: scikit-learn>=0.22.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (1.6.0)
+Requirement already satisfied: scipy>=1.0.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (1.16.2)
+Requirement already satisfied: typing_extensions>=4.5.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (4.15.0)
+Requirement already satisfied: tqdm>=4.0.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sentence-transformers) (4.67.1)
+Requirement already satisfied: filelock in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (3.19.1)
+Requirement already satisfied: packaging>=20.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (25.0)
+Requirement already satisfied: pyyaml>=5.1 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (2025.9.1)
+Requirement already satisfied: requests in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (2.32.5)
+Requirement already satisfied: tokenizers<=0.23.0,>=0.22.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (0.22.0)
+Requirement already satisfied: safetensors>=0.4.3 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from transformers<6.0.0,>=4.41.0->sentence-transformers) (0.6.2)
+Requirement already satisfied: fsspec>=2023.5.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from huggingface-hub>=0.23.0->sentence-transformers) (2025.9.0)
+Requirement already satisfied: joblib>=1.2.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from scikit-learn>=0.22.0->sentence-transformers) (1.4.2)
+Requirement already satisfied: threadpoolctl>=3.1.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from scikit-learn>=0.22.0->sentence-transformers) (3.6.0)
+Requirement already satisfied: sympy>=1.13.3 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from torch>=1.11.0->sentence-transformers) (1.14.0)
+Requirement already satisfied: networkx in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from torch>=1.11.0->sentence-transformers) (3.5)
+Requirement already satisfied: jinja2 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from torch>=1.11.0->sentence-transformers) (3.1.6)
+Requirement already satisfied: setuptools in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from torch>=1.11.0->sentence-transformers) (82.0.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from sympy>=1.13.3->torch>=1.11.0->sentence-transformers) (1.3.0)
+Requirement already satisfied: colorama in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from tqdm>=4.0.0->sentence-transformers) (0.4.6)
+Requirement already satisfied: MarkupSafe>=2.0 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from jinja2->torch>=1.11.0->sentence-transformers) (3.0.2)
+Requirement already satisfied: charset_normalizer<4,>=2 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from requests->transformers<6.0.0,>=4.41.0->sentence-transformers) (3.4.3)
+Requirement already satisfied: idna<4,>=2.5 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from requests->transformers<6.0.0,>=4.41.0->sentence-transformers) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from requests->transformers<6.0.0,>=4.41.0->sentence-transformers) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages (from requests->transformers<6.0.0,>=4.41.0->sentence-transformers) (2025.8.3)
+Downloading sentence_transformers-5.6.0-py3-none-any.whl (596 kB)
+   ---------------------------------------- 596.4/596.4 kB 3.1 MB/s  0:00:00
+Installing collected packages: sentence-transformers
+  Attempting uninstall: sentence-transformers
+    Found existing installation: sentence-transformers 2.2.2
+    Uninstalling sentence-transformers-2.2.2:
+      Successfully uninstalled sentence-transformers-2.2.2
+Successfully installed sentence-transformers-5.6.0
+
+[notice] A new release of pip is available: 26.0.1 -> 26.1.2
+[notice] To update, run: python.exe -m pip install --upgrade pip

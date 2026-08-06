@@ -1,0 +1,1731 @@
+{
+    "Manali": {
+        "google_rating": 4.5,
+        "google_review_count": 12500,
+        "entry_fee": 0,
+        "price_level": 2
+    },
+    "Jaipur": {
+        "google_rating": 4.6,
+        "google_review_count": 25000,
+        "entry_fee": 500,
+        "price_level": 3
+    },
+    "Goa": {
+        "google_rating": 4.7,
+        "google_review_count": 45000,
+        "entry_fee": 0,
+        "price_level": 3
+    },
+    "Varanasi": {
+        "google_rating": 4.4,
+        "google_review_count": 18000,
+        "entry_fee": 0,
+        "price_level": 1
+    },
+    "default": {
+        "google_rating": 4.3,
+        "google_review_count": 5000,
+        "price_level": 2
+    },
+    "Statue of Unity": {
+        "google_rating": 4.1,
+        "google_review_count": 16540,
+        "price_level": 2
+    },
+    "Buddha temple": {
+        "google_rating": 4.2,
+        "google_review_count": 4809,
+        "price_level": 2
+    },
+    "Chittagong hills": {
+        "google_rating": 4.2,
+        "google_review_count": 18765,
+        "price_level": 2
+    },
+    "Gondacherra wildlife sanctuary": {
+        "google_rating": 4.7,
+        "google_review_count": 3670,
+        "price_level": 2
+    },
+    "Neermahal": {
+        "google_rating": 4.6,
+        "google_review_count": 1869,
+        "price_level": 2
+    },
+    "Raima valley ": {
+        "google_rating": 4.5,
+        "google_review_count": 2396,
+        "price_level": 2
+    },
+    "Sepahijala wildlife sanctuary": {
+        "google_rating": 4.1,
+        "google_review_count": 15894,
+        "price_level": 2
+    },
+    "Ujjayanta Palace": {
+        "google_rating": 4.2,
+        "google_review_count": 2946,
+        "price_level": 2
+    },
+    "Ummaneshwar temple": {
+        "google_rating": 4.6,
+        "google_review_count": 9776,
+        "price_level": 2
+    },
+    "Unakoti Rock Carvings": {
+        "google_rating": 4.1,
+        "google_review_count": 3969,
+        "price_level": 2
+    },
+    "Rann Utsav": {
+        "google_rating": 3.9,
+        "google_review_count": 8525,
+        "price_level": 2
+    },
+    "Auroville": {
+        "google_rating": 4.2,
+        "google_review_count": 1665,
+        "price_level": 2
+    },
+    "Casablanca mall": {
+        "google_rating": 4.0,
+        "google_review_count": 14426,
+        "price_level": 2
+    },
+    "Chunnambar boat house": {
+        "google_rating": 4.5,
+        "google_review_count": 18746,
+        "price_level": 2
+    },
+    "Heritage walk by White town": {
+        "google_rating": 4.4,
+        "google_review_count": 15910,
+        "price_level": 2
+    },
+    "Manakula Vinayagar temple": {
+        "google_rating": 4.1,
+        "google_review_count": 5001,
+        "price_level": 2
+    },
+    "Paradise Beach": {
+        "google_rating": 4.3,
+        "google_review_count": 18750,
+        "price_level": 2
+    },
+    "Paradise beach and island": {
+        "google_rating": 4.5,
+        "google_review_count": 18027,
+        "price_level": 2
+    },
+    "Pondicherry botanical garden": {
+        "google_rating": 4.5,
+        "google_review_count": 11616,
+        "price_level": 2
+    },
+    "Pondicherry museum": {
+        "google_rating": 3.9,
+        "google_review_count": 9086,
+        "price_level": 2
+    },
+    "Promenade Beach": {
+        "google_rating": 4.8,
+        "google_review_count": 10293,
+        "price_level": 2
+    },
+    "Saram China market ": {
+        "google_rating": 4.7,
+        "google_review_count": 4539,
+        "price_level": 2
+    },
+    "Sightseeing at Green Quarter": {
+        "google_rating": 4.1,
+        "google_review_count": 14363,
+        "price_level": 2
+    },
+    "Temple Adventures centre-Scuba diving": {
+        "google_rating": 4.9,
+        "google_review_count": 16373,
+        "price_level": 2
+    },
+    "Birla Mandir": {
+        "google_rating": 4.4,
+        "google_review_count": 12086,
+        "price_level": 2
+    },
+    "Charminar": {
+        "google_rating": 4.7,
+        "google_review_count": 15713,
+        "price_level": 2
+    },
+    "Chowmahalla Palace": {
+        "google_rating": 4.6,
+        "google_review_count": 9512,
+        "price_level": 2
+    },
+    "Golconda Fort": {
+        "google_rating": 4.6,
+        "google_review_count": 3684,
+        "price_level": 2
+    },
+    "Hussain Sagar Lake": {
+        "google_rating": 4.2,
+        "google_review_count": 19671,
+        "price_level": 2
+    },
+    "Infinite adventure club": {
+        "google_rating": 4.1,
+        "google_review_count": 19773,
+        "price_level": 2
+    },
+    "Inorbit Mall Cyberabad": {
+        "google_rating": 4.1,
+        "google_review_count": 19711,
+        "price_level": 2
+    },
+    "Lad Bazaar ": {
+        "google_rating": 4.3,
+        "google_review_count": 11045,
+        "price_level": 2
+    },
+    "Lumbini Park": {
+        "google_rating": 4.5,
+        "google_review_count": 11020,
+        "price_level": 2
+    },
+    "Nehru Zoological Park": {
+        "google_rating": 3.8,
+        "google_review_count": 14946,
+        "price_level": 2
+    },
+    "Qutb Shahi Tombs": {
+        "google_rating": 4.0,
+        "google_review_count": 18363,
+        "price_level": 2
+    },
+    "Ramoji Film City": {
+        "google_rating": 4.5,
+        "google_review_count": 12100,
+        "price_level": 2
+    },
+    "Auto World Vintage Car Museum": {
+        "google_rating": 4.5,
+        "google_review_count": 8658,
+        "price_level": 2
+    },
+    "Jhulta Minara": {
+        "google_rating": 4.6,
+        "google_review_count": 1608,
+        "price_level": 2
+    },
+    "Kankaria Lake": {
+        "google_rating": 4.0,
+        "google_review_count": 5078,
+        "price_level": 2
+    },
+    "Manek Chowk": {
+        "google_rating": 4.0,
+        "google_review_count": 7430,
+        "price_level": 2
+    },
+    "Sabarmati Ashram": {
+        "google_rating": 4.4,
+        "google_review_count": 10943,
+        "price_level": 2
+    },
+    "Sabarmati Riverfront": {
+        "google_rating": 4.2,
+        "google_review_count": 14323,
+        "price_level": 2
+    },
+    "Science City": {
+        "google_rating": 4.4,
+        "google_review_count": 2299,
+        "price_level": 2
+    },
+    "Agra Fort": {
+        "google_rating": 3.8,
+        "google_review_count": 15430,
+        "price_level": 2
+    },
+    "Fatehpur Sikri": {
+        "google_rating": 4.5,
+        "google_review_count": 11223,
+        "price_level": 2
+    },
+    "Humayun's Mosque": {
+        "google_rating": 4.7,
+        "google_review_count": 7229,
+        "price_level": 2
+    },
+    "Jahangir Mahal": {
+        "google_rating": 3.9,
+        "google_review_count": 13383,
+        "price_level": 2
+    },
+    "Jama Masjid": {
+        "google_rating": 3.9,
+        "google_review_count": 6555,
+        "price_level": 2
+    },
+    "Kinari bazar": {
+        "google_rating": 4.8,
+        "google_review_count": 12172,
+        "price_level": 2
+    },
+    "Sadar bazaar": {
+        "google_rating": 4.5,
+        "google_review_count": 14063,
+        "price_level": 2
+    },
+    "Shah market": {
+        "google_rating": 3.8,
+        "google_review_count": 19839,
+        "price_level": 2
+    },
+    "Sheesh Mahal": {
+        "google_rating": 4.8,
+        "google_review_count": 1884,
+        "price_level": 2
+    },
+    "Subhash bazzar": {
+        "google_rating": 4.1,
+        "google_review_count": 12557,
+        "price_level": 2
+    },
+    "TDI mall": {
+        "google_rating": 4.8,
+        "google_review_count": 10030,
+        "price_level": 2
+    },
+    "Taj Mahal": {
+        "google_rating": 4.6,
+        "google_review_count": 16735,
+        "price_level": 2
+    },
+    "Alibaug Beach": {
+        "google_rating": 4.6,
+        "google_review_count": 3983,
+        "price_level": 2
+    },
+    "Kolaba Fort": {
+        "google_rating": 4.4,
+        "google_review_count": 3202,
+        "price_level": 2
+    },
+    "Water Sports in Alibaug": {
+        "google_rating": 4.1,
+        "google_review_count": 18174,
+        "price_level": 2
+    },
+    "Adlabs Imagica": {
+        "google_rating": 4.8,
+        "google_review_count": 16290,
+        "price_level": 2
+    },
+    "Bhushi dam": {
+        "google_rating": 4.5,
+        "google_review_count": 19348,
+        "price_level": 2
+    },
+    "Duke's nose trail": {
+        "google_rating": 4.2,
+        "google_review_count": 14988,
+        "price_level": 2
+    },
+    "Ekvira Devi Temple": {
+        "google_rating": 4.4,
+        "google_review_count": 16954,
+        "price_level": 2
+    },
+    "Imagicaa": {
+        "google_rating": 4.1,
+        "google_review_count": 1716,
+        "price_level": 2
+    },
+    "Imagicaa amusement park": {
+        "google_rating": 4.8,
+        "google_review_count": 19882,
+        "price_level": 2
+    },
+    "Karla Caves": {
+        "google_rating": 4.7,
+        "google_review_count": 5456,
+        "price_level": 2
+    },
+    "Lions Point ": {
+        "google_rating": 4.7,
+        "google_review_count": 17856,
+        "price_level": 2
+    },
+    "Sunset at Lion's point": {
+        "google_rating": 4.1,
+        "google_review_count": 17943,
+        "price_level": 2
+    },
+    "Tiger\u2019s Leap cliff top": {
+        "google_rating": 4.6,
+        "google_review_count": 11786,
+        "price_level": 2
+    },
+    "Sai Baba Temple": {
+        "google_rating": 4.1,
+        "google_review_count": 9297,
+        "price_level": 2
+    },
+    " Dagadusheth Halwai Ganapati temple": {
+        "google_rating": 4.0,
+        "google_review_count": 1057,
+        "price_level": 2
+    },
+    "Chatushrungi Devi Temple": {
+        "google_rating": 4.2,
+        "google_review_count": 12134,
+        "price_level": 2
+    },
+    "Phoenix Marketcity Pune": {
+        "google_rating": 4.3,
+        "google_review_count": 15281,
+        "price_level": 2
+    },
+    "Pune-Okayama Friendship Garden": {
+        "google_rating": 4.5,
+        "google_review_count": 18640,
+        "price_level": 2
+    },
+    "Raja Dinkar Kelkar Museum": {
+        "google_rating": 4.1,
+        "google_review_count": 13594,
+        "price_level": 2
+    },
+    "Rajiv Gandhi zoo": {
+        "google_rating": 4.2,
+        "google_review_count": 4044,
+        "price_level": 2
+    },
+    "Shaniwar Wada": {
+        "google_rating": 4.6,
+        "google_review_count": 16306,
+        "price_level": 2
+    },
+    "Sinhagad Fort": {
+        "google_rating": 4.4,
+        "google_review_count": 2715,
+        "price_level": 2
+    },
+    "Agrasen ki Baoli": {
+        "google_rating": 4.1,
+        "google_review_count": 19143,
+        "price_level": 2
+    },
+    "Akshardham Temple": {
+        "google_rating": 4.8,
+        "google_review_count": 11299,
+        "price_level": 2
+    },
+    "Chandni Chowk": {
+        "google_rating": 4.1,
+        "google_review_count": 15388,
+        "price_level": 2
+    },
+    "Garden of Five Senses": {
+        "google_rating": 3.9,
+        "google_review_count": 12687,
+        "price_level": 2
+    },
+    "Humayun's Tomb": {
+        "google_rating": 3.9,
+        "google_review_count": 14787,
+        "price_level": 2
+    },
+    "India Gate": {
+        "google_rating": 4.3,
+        "google_review_count": 14598,
+        "price_level": 2
+    },
+    "Jantar Mantar": {
+        "google_rating": 4.5,
+        "google_review_count": 15425,
+        "price_level": 2
+    },
+    "Lodhi Garden": {
+        "google_rating": 4.8,
+        "google_review_count": 15174,
+        "price_level": 2
+    },
+    "Lotus Temple": {
+        "google_rating": 4.0,
+        "google_review_count": 19805,
+        "price_level": 2
+    },
+    "National Gallery of Modern Art": {
+        "google_rating": 4.6,
+        "google_review_count": 19932,
+        "price_level": 2
+    },
+    "National Science Centre": {
+        "google_rating": 4.8,
+        "google_review_count": 3386,
+        "price_level": 2
+    },
+    "National Zoological Park ": {
+        "google_rating": 4.1,
+        "google_review_count": 1018,
+        "price_level": 2
+    },
+    "Gobind Garh Fort": {
+        "google_rating": 4.6,
+        "google_review_count": 5256,
+        "price_level": 2
+    },
+    "Golden Temple (Harmandir Sahib)": {
+        "google_rating": 4.7,
+        "google_review_count": 7771,
+        "price_level": 2
+    },
+    "Jallianwala Bagh": {
+        "google_rating": 4.5,
+        "google_review_count": 17404,
+        "price_level": 2
+    },
+    "Sadda Pind": {
+        "google_rating": 3.8,
+        "google_review_count": 8588,
+        "price_level": 2
+    },
+    "Shree Harminder Sahib Gurudwara": {
+        "google_rating": 4.8,
+        "google_review_count": 6332,
+        "price_level": 2
+    },
+    "Shri Durgiana Temple": {
+        "google_rating": 4.2,
+        "google_review_count": 14626,
+        "price_level": 2
+    },
+    "The Partition Museum": {
+        "google_rating": 4.5,
+        "google_review_count": 3068,
+        "price_level": 2
+    },
+    "Wagah Border": {
+        "google_rating": 4.3,
+        "google_review_count": 5465,
+        "price_level": 2
+    },
+    "Narmada Udgam Temple": {
+        "google_rating": 4.4,
+        "google_review_count": 6815,
+        "price_level": 2
+    },
+    "Orchha Fort": {
+        "google_rating": 4.6,
+        "google_review_count": 12557,
+        "price_level": 2
+    },
+    "Chitrakoot Falls": {
+        "google_rating": 4.5,
+        "google_review_count": 4900,
+        "price_level": 2
+    },
+    "Bhimbetka rock shelters": {
+        "google_rating": 4.5,
+        "google_review_count": 15999,
+        "price_level": 2
+    },
+    "Bhojeshwar Mahadev temple": {
+        "google_rating": 4.0,
+        "google_review_count": 11162,
+        "price_level": 2
+    },
+    "DB City Mall": {
+        "google_rating": 4.6,
+        "google_review_count": 17621,
+        "price_level": 2
+    },
+    "Madhya Pradesh Tribal Museum": {
+        "google_rating": 4.1,
+        "google_review_count": 12317,
+        "price_level": 2
+    },
+    "Sanchi Stupa": {
+        "google_rating": 3.9,
+        "google_review_count": 7665,
+        "price_level": 2
+    },
+    "Tribal museum": {
+        "google_rating": 4.1,
+        "google_review_count": 12780,
+        "price_level": 2
+    },
+    "Van Vihar National park": {
+        "google_rating": 4.5,
+        "google_review_count": 1922,
+        "price_level": 2
+    },
+    "Alappuzha Beach": {
+        "google_rating": 4.2,
+        "google_review_count": 7909,
+        "price_level": 2
+    },
+    "Alleppey Backwater": {
+        "google_rating": 4.8,
+        "google_review_count": 3504,
+        "price_level": 2
+    },
+    "Chakkulathukavu Sree Bhagwathi Temple": {
+        "google_rating": 4.7,
+        "google_review_count": 2768,
+        "price_level": 2
+    },
+    "International Coi Museum": {
+        "google_rating": 3.9,
+        "google_review_count": 11782,
+        "price_level": 2
+    },
+    "Mannarasala Sree Nagaraja Temple": {
+        "google_rating": 3.9,
+        "google_review_count": 15168,
+        "price_level": 2
+    },
+    "Marari Beach": {
+        "google_rating": 4.3,
+        "google_review_count": 19298,
+        "price_level": 2
+    },
+    "Shree Krishna Swamy Temple": {
+        "google_rating": 4.2,
+        "google_review_count": 17715,
+        "price_level": 2
+    },
+    "St.Andrew's Basilica": {
+        "google_rating": 4.3,
+        "google_review_count": 14003,
+        "price_level": 2
+    },
+    "Borra Caves": {
+        "google_rating": 4.7,
+        "google_review_count": 1812,
+        "price_level": 2
+    },
+    "CMR Shopping Mall": {
+        "google_rating": 4.4,
+        "google_review_count": 4934,
+        "price_level": 2
+    },
+    "Indira Gandhi Zoological Park": {
+        "google_rating": 4.7,
+        "google_review_count": 17513,
+        "price_level": 2
+    },
+    "Kailasagiri": {
+        "google_rating": 4.4,
+        "google_review_count": 7435,
+        "price_level": 2
+    },
+    "Lepakshi Handicrafts Emporium": {
+        "google_rating": 4.5,
+        "google_review_count": 2617,
+        "price_level": 2
+    },
+    "Matsyadarshini Aquarium": {
+        "google_rating": 4.5,
+        "google_review_count": 19134,
+        "price_level": 2
+    },
+    "Old Book market by Purna Market": {
+        "google_rating": 4.9,
+        "google_review_count": 7955,
+        "price_level": 2
+    },
+    "Rishikonda Beach": {
+        "google_rating": 4.1,
+        "google_review_count": 19719,
+        "price_level": 2
+    },
+    "Submarine Museum": {
+        "google_rating": 4.1,
+        "google_review_count": 9230,
+        "price_level": 2
+    },
+    "Visakha Museum": {
+        "google_rating": 4.5,
+        "google_review_count": 17710,
+        "price_level": 2
+    },
+    "Lepakshi": {
+        "google_rating": 4.5,
+        "google_review_count": 11139,
+        "price_level": 2
+    },
+    "War Memorial": {
+        "google_rating": 4.4,
+        "google_review_count": 1591,
+        "price_level": 2
+    },
+    "Gurudwara Bangla Sahib": {
+        "google_rating": 3.8,
+        "google_review_count": 13787,
+        "price_level": 2
+    },
+    "Rail Museum": {
+        "google_rating": 4.6,
+        "google_review_count": 7224,
+        "price_level": 2
+    },
+    "Qutub Minar": {
+        "google_rating": 3.9,
+        "google_review_count": 12648,
+        "price_level": 2
+    },
+    "Red Fort": {
+        "google_rating": 4.9,
+        "google_review_count": 1440,
+        "price_level": 2
+    },
+    "Shopping at Sarojini Nagar": {
+        "google_rating": 4.7,
+        "google_review_count": 6067,
+        "price_level": 2
+    },
+    "Sunder Nursery": {
+        "google_rating": 4.5,
+        "google_review_count": 4338,
+        "price_level": 2
+    },
+    "Waste to Wonder Park": {
+        "google_rating": 4.2,
+        "google_review_count": 14318,
+        "price_level": 2
+    },
+    "Dwarka Beach & Lighthouse": {
+        "google_rating": 4.3,
+        "google_review_count": 5689,
+        "price_level": 2
+    },
+    "Dwarkadhish Temple": {
+        "google_rating": 4.0,
+        "google_review_count": 14646,
+        "price_level": 2
+    },
+    "Rukmini Devi Mandir": {
+        "google_rating": 4.4,
+        "google_review_count": 2157,
+        "price_level": 2
+    },
+    "Shri Nageshwar Jyotirling": {
+        "google_rating": 3.8,
+        "google_review_count": 2649,
+        "price_level": 2
+    },
+    "Bapu museum": {
+        "google_rating": 4.9,
+        "google_review_count": 8033,
+        "price_level": 2
+    },
+    "Bhavani island": {
+        "google_rating": 3.9,
+        "google_review_count": 8820,
+        "price_level": 2
+    },
+    "Kanaka Durga Temple": {
+        "google_rating": 3.8,
+        "google_review_count": 12520,
+        "price_level": 2
+    },
+    "Kondapalli Fort": {
+        "google_rating": 4.1,
+        "google_review_count": 8471,
+        "price_level": 2
+    },
+    "Mogalarajapuram caves": {
+        "google_rating": 3.9,
+        "google_review_count": 11320,
+        "price_level": 2
+    },
+    "Shopping at Besant road": {
+        "google_rating": 4.7,
+        "google_review_count": 7132,
+        "price_level": 2
+    },
+    "Shopping at Kalanikethan ": {
+        "google_rating": 4.1,
+        "google_review_count": 18549,
+        "price_level": 2
+    },
+    "Undavalli caves": {
+        "google_rating": 4.8,
+        "google_review_count": 18917,
+        "price_level": 2
+    },
+    "Chamundi Betta": {
+        "google_rating": 4.5,
+        "google_review_count": 5723,
+        "price_level": 2
+    },
+    "Karanji Lake, boating, bird sanctuary": {
+        "google_rating": 4.6,
+        "google_review_count": 13106,
+        "price_level": 2
+    },
+    "Lokaranjan Aqua World Underwater zoo": {
+        "google_rating": 4.1,
+        "google_review_count": 2536,
+        "price_level": 2
+    },
+    "Mysore Palace": {
+        "google_rating": 3.9,
+        "google_review_count": 19910,
+        "price_level": 2
+    },
+    "Mysuru Railway museum": {
+        "google_rating": 4.6,
+        "google_review_count": 6556,
+        "price_level": 2
+    },
+    "Shri Chamundeshwari Temple": {
+        "google_rating": 4.7,
+        "google_review_count": 10684,
+        "price_level": 2
+    },
+    "Basilica of Bom Jesus Church": {
+        "google_rating": 4.2,
+        "google_review_count": 6137,
+        "price_level": 2
+    },
+    "DMC market": {
+        "google_rating": 4.4,
+        "google_review_count": 16541,
+        "price_level": 2
+    },
+    "Diu Fort": {
+        "google_rating": 4.4,
+        "google_review_count": 12863,
+        "price_level": 2
+    },
+    "Diu museum": {
+        "google_rating": 4.0,
+        "google_review_count": 3180,
+        "price_level": 2
+    },
+    "Jampore beach": {
+        "google_rating": 4.2,
+        "google_review_count": 17640,
+        "price_level": 2
+    },
+    "Naida Caves": {
+        "google_rating": 4.9,
+        "google_review_count": 6690,
+        "price_level": 2
+    },
+    "Bhadraj Temple trek": {
+        "google_rating": 4.4,
+        "google_review_count": 2891,
+        "price_level": 2
+    },
+    "Camel's back road": {
+        "google_rating": 3.9,
+        "google_review_count": 4849,
+        "price_level": 2
+    },
+    "Classic Emporium": {
+        "google_rating": 4.7,
+        "google_review_count": 6674,
+        "price_level": 2
+    },
+    "Disco Skating Rink": {
+        "google_rating": 3.9,
+        "google_review_count": 19347,
+        "price_level": 2
+    },
+    "Dodital trek": {
+        "google_rating": 4.4,
+        "google_review_count": 13348,
+        "price_level": 2
+    },
+    "Har ki dun trek": {
+        "google_rating": 3.9,
+        "google_review_count": 12378,
+        "price_level": 2
+    },
+    "Jabarkhet nature reserve": {
+        "google_rating": 4.7,
+        "google_review_count": 9944,
+        "price_level": 2
+    },
+    "Kempty Falls": {
+        "google_rating": 4.2,
+        "google_review_count": 6205,
+        "price_level": 2
+    },
+    "Kulri Bazaar": {
+        "google_rating": 4.2,
+        "google_review_count": 4104,
+        "price_level": 2
+    },
+    "Library Bazaar": {
+        "google_rating": 4.1,
+        "google_review_count": 11465,
+        "price_level": 2
+    },
+    "Adhai Din ka Jhopra": {
+        "google_rating": 4.5,
+        "google_review_count": 2484,
+        "price_level": 2
+    },
+    "Ajmer Sharif Dargah": {
+        "google_rating": 4.0,
+        "google_review_count": 1255,
+        "price_level": 2
+    },
+    "Anasagar Lake": {
+        "google_rating": 4.9,
+        "google_review_count": 2128,
+        "price_level": 2
+    },
+    "Khwaja Gharib Nawaz Dargah ": {
+        "google_rating": 4.5,
+        "google_review_count": 1566,
+        "price_level": 2
+    },
+    "Ajanta Caves": {
+        "google_rating": 3.9,
+        "google_review_count": 11275,
+        "price_level": 2
+    },
+    "Bibi ka Maqbara ": {
+        "google_rating": 4.5,
+        "google_review_count": 11251,
+        "price_level": 2
+    },
+    "Daulatabad Fort": {
+        "google_rating": 4.4,
+        "google_review_count": 15938,
+        "price_level": 2
+    },
+    "Ellora Caves": {
+        "google_rating": 4.5,
+        "google_review_count": 18319,
+        "price_level": 2
+    },
+    "Prozone Mall": {
+        "google_rating": 4.8,
+        "google_review_count": 18906,
+        "price_level": 2
+    },
+    "Triund Trek": {
+        "google_rating": 4.3,
+        "google_review_count": 4102,
+        "price_level": 2
+    },
+    " Kanak Bhawan ": {
+        "google_rating": 4.2,
+        "google_review_count": 15811,
+        "price_level": 2
+    },
+    " Nageshwarnath Temple": {
+        "google_rating": 4.6,
+        "google_review_count": 10748,
+        "price_level": 2
+    },
+    "Gulab bari": {
+        "google_rating": 4.8,
+        "google_review_count": 2735,
+        "price_level": 2
+    },
+    "Hanuman Garhi": {
+        "google_rating": 4.7,
+        "google_review_count": 3133,
+        "price_level": 2
+    },
+    "Ram Janmabhoomi": {
+        "google_rating": 4.5,
+        "google_review_count": 9140,
+        "price_level": 2
+    },
+    "Sita ki rasoi": {
+        "google_rating": 4.1,
+        "google_review_count": 6698,
+        "price_level": 2
+    },
+    "Treta-ke-Thakur": {
+        "google_rating": 4.8,
+        "google_review_count": 9219,
+        "price_level": 2
+    },
+    "Hatu Peak": {
+        "google_rating": 4.3,
+        "google_review_count": 7239,
+        "price_level": 2
+    },
+    "Manikaran Sahib": {
+        "google_rating": 4.0,
+        "google_review_count": 15964,
+        "price_level": 2
+    },
+    "Borong Hot springs": {
+        "google_rating": 3.9,
+        "google_review_count": 8583,
+        "price_level": 2
+    },
+    "Buddha Park": {
+        "google_rating": 4.5,
+        "google_review_count": 8955,
+        "price_level": 2
+    },
+    "Doling Gompa ": {
+        "google_rating": 4.0,
+        "google_review_count": 15530,
+        "price_level": 2
+    },
+    "Kheunpheling Carpet centre": {
+        "google_rating": 4.6,
+        "google_review_count": 5722,
+        "price_level": 2
+    },
+    "Maenam hill": {
+        "google_rating": 4.8,
+        "google_review_count": 7355,
+        "price_level": 2
+    },
+    "Ralang monastery": {
+        "google_rating": 4.5,
+        "google_review_count": 19645,
+        "price_level": 2
+    },
+    "Rayong sunrise point": {
+        "google_rating": 4.5,
+        "google_review_count": 8040,
+        "price_level": 2
+    },
+    "Temi tea garden": {
+        "google_rating": 4.3,
+        "google_review_count": 4225,
+        "price_level": 2
+    },
+    "Paragliding Site": {
+        "google_rating": 4.7,
+        "google_review_count": 6226,
+        "price_level": 2
+    },
+    "Gir National Park": {
+        "google_rating": 4.1,
+        "google_review_count": 3253,
+        "price_level": 2
+    },
+    "Mahabat Maqbara Palace": {
+        "google_rating": 4.5,
+        "google_review_count": 4863,
+        "price_level": 2
+    },
+    "Sakkarbaug Zoological Park": {
+        "google_rating": 4.3,
+        "google_review_count": 18992,
+        "price_level": 2
+    },
+    "Uparkot Fort": {
+        "google_rating": 4.7,
+        "google_review_count": 4915,
+        "price_level": 2
+    },
+    "Drass Valley": {
+        "google_rating": 4.0,
+        "google_review_count": 8442,
+        "price_level": 2
+    },
+    "Kargil War Memorial": {
+        "google_rating": 4.7,
+        "google_review_count": 7134,
+        "price_level": 2
+    },
+    "Kirti Mandir": {
+        "google_rating": 4.6,
+        "google_review_count": 11614,
+        "price_level": 2
+    },
+    "Aguada Beach": {
+        "google_rating": 4.7,
+        "google_review_count": 1491,
+        "price_level": 2
+    },
+    "Anjuna Beach": {
+        "google_rating": 4.6,
+        "google_review_count": 12002,
+        "price_level": 2
+    },
+    "Arambol Beach": {
+        "google_rating": 4.0,
+        "google_review_count": 9334,
+        "price_level": 2
+    },
+    "Baga Beach": {
+        "google_rating": 4.7,
+        "google_review_count": 18022,
+        "price_level": 2
+    },
+    "Basilica of Bom Jesus": {
+        "google_rating": 4.4,
+        "google_review_count": 18930,
+        "price_level": 2
+    },
+    "Calangute Beach": {
+        "google_rating": 4.2,
+        "google_review_count": 12119,
+        "price_level": 2
+    },
+    "Candolim Beach": {
+        "google_rating": 4.8,
+        "google_review_count": 14542,
+        "price_level": 2
+    },
+    "Chapora Fort": {
+        "google_rating": 3.9,
+        "google_review_count": 15940,
+        "price_level": 2
+    },
+    "Colva Beach": {
+        "google_rating": 4.6,
+        "google_review_count": 1322,
+        "price_level": 2
+    },
+    "Dr. Salim Ali Bird Santuary": {
+        "google_rating": 4.7,
+        "google_review_count": 9092,
+        "price_level": 2
+    },
+    "Dudhsagar Falls": {
+        "google_rating": 4.1,
+        "google_review_count": 10093,
+        "price_level": 2
+    },
+    "Fort Aguada": {
+        "google_rating": 4.5,
+        "google_review_count": 19236,
+        "price_level": 2
+    },
+    "Miramar Beach": {
+        "google_rating": 4.4,
+        "google_review_count": 16382,
+        "price_level": 2
+    },
+    "Old Goa": {
+        "google_rating": 4.6,
+        "google_review_count": 18134,
+        "price_level": 2
+    },
+    "Palolem Beach": {
+        "google_rating": 4.6,
+        "google_review_count": 7076,
+        "price_level": 2
+    },
+    "Se Cathedral": {
+        "google_rating": 4.3,
+        "google_review_count": 10806,
+        "price_level": 2
+    },
+    "Fontainhas colony": {
+        "google_rating": 3.9,
+        "google_review_count": 19032,
+        "price_level": 2
+    },
+    "Gallery Gitanjali": {
+        "google_rating": 3.9,
+        "google_review_count": 16183,
+        "price_level": 2
+    },
+    "Our Lady of Immaculate Conception Church": {
+        "google_rating": 4.0,
+        "google_review_count": 13247,
+        "price_level": 2
+    },
+    "Shopping at M.G.Road": {
+        "google_rating": 4.4,
+        "google_review_count": 10095,
+        "price_level": 2
+    },
+    "Ranthambore National Park": {
+        "google_rating": 4.0,
+        "google_review_count": 3601,
+        "price_level": 2
+    },
+    "Ranthambore Fort": {
+        "google_rating": 4.9,
+        "google_review_count": 13162,
+        "price_level": 2
+    },
+    "Trinetra Ganesh Temple": {
+        "google_rating": 4.6,
+        "google_review_count": 9394,
+        "price_level": 2
+    },
+    "Chilika lake": {
+        "google_rating": 4.7,
+        "google_review_count": 18538,
+        "price_level": 2
+    },
+    "Jagannath Temple": {
+        "google_rating": 4.4,
+        "google_review_count": 11807,
+        "price_level": 2
+    },
+    "Puri beach": {
+        "google_rating": 4.3,
+        "google_review_count": 12323,
+        "price_level": 2
+    },
+    "Raghurajpur Artist village": {
+        "google_rating": 4.9,
+        "google_review_count": 19028,
+        "price_level": 2
+    },
+    "Dilwara Temples": {
+        "google_rating": 4.1,
+        "google_review_count": 8407,
+        "price_level": 2
+    },
+    "Nakki Lake": {
+        "google_rating": 4.1,
+        "google_review_count": 16140,
+        "price_level": 2
+    },
+    "Sunset Point": {
+        "google_rating": 4.3,
+        "google_review_count": 8239,
+        "price_level": 2
+    },
+    "Gadisar Lake": {
+        "google_rating": 4.1,
+        "google_review_count": 4574,
+        "price_level": 2
+    },
+    "Jaisalmer Fort": {
+        "google_rating": 4.2,
+        "google_review_count": 5577,
+        "price_level": 2
+    },
+    "Longewala War memorial": {
+        "google_rating": 4.3,
+        "google_review_count": 4564,
+        "price_level": 2
+    },
+    "Patwa Haweli": {
+        "google_rating": 3.9,
+        "google_review_count": 4471,
+        "price_level": 2
+    },
+    "Pushkar Lake": {
+        "google_rating": 4.4,
+        "google_review_count": 7599,
+        "price_level": 2
+    },
+    "Jaswant Thada": {
+        "google_rating": 4.0,
+        "google_review_count": 9482,
+        "price_level": 2
+    },
+    "Mehrangarh Fort": {
+        "google_rating": 4.3,
+        "google_review_count": 7194,
+        "price_level": 2
+    },
+    "Umaid Bhawan Palace": {
+        "google_rating": 4.9,
+        "google_review_count": 11876,
+        "price_level": 2
+    },
+    "Chittorgarh Fort": {
+        "google_rating": 4.4,
+        "google_review_count": 4538,
+        "price_level": 2
+    },
+    "Abbey Falls": {
+        "google_rating": 4.2,
+        "google_review_count": 3462,
+        "price_level": 2
+    },
+    "Brahmagiri Wildlife Sanctuary": {
+        "google_rating": 4.1,
+        "google_review_count": 19630,
+        "price_level": 2
+    },
+    "Coorg river rafting Barapole": {
+        "google_rating": 4.7,
+        "google_review_count": 4172,
+        "price_level": 2
+    },
+    "Dubare Elephant camp and bathing spot": {
+        "google_rating": 4.4,
+        "google_review_count": 4749,
+        "price_level": 2
+    },
+    "Iruppu Falls-Brahmagiri": {
+        "google_rating": 4.6,
+        "google_review_count": 2817,
+        "price_level": 2
+    },
+    "Mallalli Falls": {
+        "google_rating": 4.0,
+        "google_review_count": 9154,
+        "price_level": 2
+    },
+    "Nagarhole Tiger Reserve": {
+        "google_rating": 4.7,
+        "google_review_count": 8276,
+        "price_level": 2
+    },
+    "Namdroling Monastery": {
+        "google_rating": 4.8,
+        "google_review_count": 9588,
+        "price_level": 2
+    },
+    "Raja's Seat garden": {
+        "google_rating": 4.0,
+        "google_review_count": 12066,
+        "price_level": 2
+    },
+    "Barren island volcano": {
+        "google_rating": 4.8,
+        "google_review_count": 16061,
+        "price_level": 2
+    },
+    "Cellular Jail": {
+        "google_rating": 4.5,
+        "google_review_count": 10380,
+        "price_level": 2
+    },
+    "Jolly Buoy island": {
+        "google_rating": 4.8,
+        "google_review_count": 3419,
+        "price_level": 2
+    },
+    "Kala Pani Cellular Jail": {
+        "google_rating": 4.1,
+        "google_review_count": 10358,
+        "price_level": 2
+    },
+    "Mahatma Gandhi National Park": {
+        "google_rating": 4.1,
+        "google_review_count": 8908,
+        "price_level": 2
+    },
+    "Mount Harriet National park": {
+        "google_rating": 3.8,
+        "google_review_count": 11373,
+        "price_level": 2
+    },
+    "Ross island": {
+        "google_rating": 4.8,
+        "google_review_count": 4674,
+        "price_level": 2
+    },
+    "Underwater Sea walk": {
+        "google_rating": 4.8,
+        "google_review_count": 2858,
+        "price_level": 2
+    },
+    "Elephant beach": {
+        "google_rating": 4.8,
+        "google_review_count": 16231,
+        "price_level": 2
+    },
+    "Long island": {
+        "google_rating": 4.0,
+        "google_review_count": 14390,
+        "price_level": 2
+    },
+    "Radhanagar Beach": {
+        "google_rating": 4.1,
+        "google_review_count": 7975,
+        "price_level": 2
+    },
+    "Snorkelling at Kalapathar beach": {
+        "google_rating": 4.5,
+        "google_review_count": 12648,
+        "price_level": 2
+    },
+    "Gorichen Peak hike": {
+        "google_rating": 4.8,
+        "google_review_count": 1931,
+        "price_level": 2
+    },
+    "Jaswant Garh war memorial": {
+        "google_rating": 4.0,
+        "google_review_count": 15815,
+        "price_level": 2
+    },
+    "Madhuri lake": {
+        "google_rating": 3.9,
+        "google_review_count": 4581,
+        "price_level": 2
+    },
+    "Nuranang waterfalls": {
+        "google_rating": 4.0,
+        "google_review_count": 1292,
+        "price_level": 2
+    },
+    "Sela pass": {
+        "google_rating": 4.1,
+        "google_review_count": 7554,
+        "price_level": 2
+    },
+    "Shonga Tser Lake": {
+        "google_rating": 4.0,
+        "google_review_count": 9847,
+        "price_level": 2
+    },
+    "Taktsang Gompa monastery": {
+        "google_rating": 3.9,
+        "google_review_count": 5435,
+        "price_level": 2
+    },
+    "Tawang Monastery": {
+        "google_rating": 4.6,
+        "google_review_count": 7905,
+        "price_level": 2
+    },
+    "Tibetan Settlement market": {
+        "google_rating": 4.9,
+        "google_review_count": 2901,
+        "price_level": 2
+    },
+    "Ajanadri Hills": {
+        "google_rating": 4.7,
+        "google_review_count": 1084,
+        "price_level": 2
+    },
+    "Group of monuments at Hampi": {
+        "google_rating": 4.4,
+        "google_review_count": 5205,
+        "price_level": 2
+    },
+    "Hampi Archaeological Ruins": {
+        "google_rating": 4.7,
+        "google_review_count": 11994,
+        "price_level": 2
+    },
+    "Lotus Mahal": {
+        "google_rating": 4.0,
+        "google_review_count": 12751,
+        "price_level": 2
+    },
+    "Mathanga Hill": {
+        "google_rating": 4.4,
+        "google_review_count": 17617,
+        "price_level": 2
+    },
+    "Shree Vijaya Vitthala Temple": {
+        "google_rating": 3.8,
+        "google_review_count": 1442,
+        "price_level": 2
+    },
+    "Stone Chariot": {
+        "google_rating": 4.4,
+        "google_review_count": 14526,
+        "price_level": 2
+    },
+    "Virupaksha Temple": {
+        "google_rating": 4.2,
+        "google_review_count": 4823,
+        "price_level": 2
+    },
+    "Murudeshwar Temple": {
+        "google_rating": 4.9,
+        "google_review_count": 16178,
+        "price_level": 2
+    },
+    "Dras War Memorial": {
+        "google_rating": 4.0,
+        "google_review_count": 4775,
+        "price_level": 2
+    },
+    "Amaravathi Temple": {
+        "google_rating": 4.0,
+        "google_review_count": 11595,
+        "price_level": 2
+    },
+    "Prasanthi Nilayam": {
+        "google_rating": 4.1,
+        "google_review_count": 9124,
+        "price_level": 2
+    },
+    "Chenchu Lakshmi Tribal Museum": {
+        "google_rating": 4.4,
+        "google_review_count": 5412,
+        "price_level": 2
+    },
+    "Aina Mahal Palace": {
+        "google_rating": 4.5,
+        "google_review_count": 19109,
+        "price_level": 2
+    },
+    "Bhuj Mandir": {
+        "google_rating": 3.9,
+        "google_review_count": 11430,
+        "price_level": 2
+    },
+    "Chhatardi Bhuj": {
+        "google_rating": 4.5,
+        "google_review_count": 16636,
+        "price_level": 2
+    },
+    "Vande Mataram Memorial": {
+        "google_rating": 4.6,
+        "google_review_count": 6328,
+        "price_level": 2
+    },
+    "White Desert": {
+        "google_rating": 3.8,
+        "google_review_count": 4249,
+        "price_level": 2
+    },
+    "Statue Of Unity": {
+        "google_rating": 4.5,
+        "google_review_count": 10699,
+        "price_level": 2
+    },
+    "Uppalapadu Bird Sanctuary": {
+        "google_rating": 4.6,
+        "google_review_count": 2172,
+        "price_level": 2
+    },
+    "Elephanta Caves": {
+        "google_rating": 4.1,
+        "google_review_count": 8451,
+        "price_level": 2
+    },
+    "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya": {
+        "google_rating": 3.8,
+        "google_review_count": 13818,
+        "price_level": 2
+    },
+    "Chowpatty Beach": {
+        "google_rating": 4.8,
+        "google_review_count": 5444,
+        "price_level": 2
+    },
+    "Essel World": {
+        "google_rating": 3.9,
+        "google_review_count": 2453,
+        "price_level": 2
+    },
+    "Five gardens, Matunga": {
+        "google_rating": 4.1,
+        "google_review_count": 5674,
+        "price_level": 2
+    },
+    "Gateway of India": {
+        "google_rating": 4.4,
+        "google_review_count": 16645,
+        "price_level": 2
+    },
+    "Haji Ali Dargah": {
+        "google_rating": 4.4,
+        "google_review_count": 17313,
+        "price_level": 2
+    },
+    "Jio world drive mall, BKC": {
+        "google_rating": 4.0,
+        "google_review_count": 14735,
+        "price_level": 2
+    },
+    "Mahalaxmi Temple": {
+        "google_rating": 4.6,
+        "google_review_count": 16572,
+        "price_level": 2
+    },
+    "Marine Drive": {
+        "google_rating": 4.8,
+        "google_review_count": 17312,
+        "price_level": 2
+    },
+    "NCPA Tiger safari at Borivali": {
+        "google_rating": 4.9,
+        "google_review_count": 16630,
+        "price_level": 2
+    },
+    "Phoenix marketcity Mall, Kurla": {
+        "google_rating": 4.8,
+        "google_review_count": 16694,
+        "price_level": 2
+    },
+    "Key Monastery": {
+        "google_rating": 3.9,
+        "google_review_count": 16721,
+        "price_level": 2
+    },
+    "Abcd": {
+        "google_rating": 4.1,
+        "google_review_count": 17493,
+        "price_level": 2
+    },
+    "Bharatpur Beach": {
+        "google_rating": 4.3,
+        "google_review_count": 19002,
+        "price_level": 2
+    },
+    "Nani Daman market": {
+        "google_rating": 4.6,
+        "google_review_count": 7469,
+        "price_level": 2
+    },
+    "St.Jerome Fort": {
+        "google_rating": 4.5,
+        "google_review_count": 5705,
+        "price_level": 2
+    },
+    "Div Garden": {
+        "google_rating": 4.2,
+        "google_review_count": 10948,
+        "price_level": 2
+    },
+    "Manas National Park": {
+        "google_rating": 4.6,
+        "google_review_count": 16567,
+        "price_level": 2
+    },
+    "Ambrai Ghat": {
+        "google_rating": 4.3,
+        "google_review_count": 5195,
+        "price_level": 2
+    },
+    "Bagore ki Haveli": {
+        "google_rating": 4.5,
+        "google_review_count": 6604,
+        "price_level": 2
+    },
+    "City Palace": {
+        "google_rating": 4.4,
+        "google_review_count": 9871,
+        "price_level": 2
+    },
+    "Jagdish Temple": {
+        "google_rating": 4.8,
+        "google_review_count": 6400,
+        "price_level": 2
+    },
+    "Karni Mata Temple": {
+        "google_rating": 4.8,
+        "google_review_count": 4186,
+        "price_level": 2
+    },
+    "Lake Pichola": {
+        "google_rating": 4.7,
+        "google_review_count": 14511,
+        "price_level": 2
+    },
+    "Saheliyon ki Bari": {
+        "google_rating": 4.9,
+        "google_review_count": 7635,
+        "price_level": 2
+    },
+    "Sajjangarh Monsoon Palace": {
+        "google_rating": 4.7,
+        "google_review_count": 3503,
+        "price_level": 2
+    },
+    "Cave garden": {
+        "google_rating": 4.6,
+        "google_review_count": 14638,
+        "price_level": 2
+    },
+    "Cheena peak": {
+        "google_rating": 4.1,
+        "google_review_count": 8960,
+        "price_level": 2
+    },
+    "Corbett National Park": {
+        "google_rating": 4.0,
+        "google_review_count": 15443,
+        "price_level": 2
+    },
+    "Naina Devi temple": {
+        "google_rating": 4.0,
+        "google_review_count": 5766,
+        "price_level": 2
+    },
+    "Naini Lake": {
+        "google_rating": 4.8,
+        "google_review_count": 13059,
+        "price_level": 2
+    },
+    "Nainital ropeway": {
+        "google_rating": 4.5,
+        "google_review_count": 4811,
+        "price_level": 2
+    },
+    "Nainital zoo": {
+        "google_rating": 4.3,
+        "google_review_count": 12364,
+        "price_level": 2
+    },
+    "Pangot and Kilbury bird sanctuary": {
+        "google_rating": 4.8,
+        "google_review_count": 12581,
+        "price_level": 2
+    },
+    "Raj Bhawan Royal Palace": {
+        "google_rating": 4.5,
+        "google_review_count": 10717,
+        "price_level": 2
+    },
+    "Shop at Mall road": {
+        "google_rating": 4.3,
+        "google_review_count": 18737,
+        "price_level": 2
+    },
+    "Chowk Bazaar": {
+        "google_rating": 4.8,
+        "google_review_count": 10738,
+        "price_level": 2
+    },
+    "Dali Monastery": {
+        "google_rating": 4.8,
+        "google_review_count": 5733,
+        "price_level": 2
+    },
+    "Darjeeling Rock garden": {
+        "google_rating": 4.1,
+        "google_review_count": 18633,
+        "price_level": 2
+    },
+    "Darjeeling Ropeway ": {
+        "google_rating": 4.7,
+        "google_review_count": 11691,
+        "price_level": 2
+    },
+    "Darjeeling Toy Train": {
+        "google_rating": 4.1,
+        "google_review_count": 2723,
+        "price_level": 2
+    },
+    "Everest museum": {
+        "google_rating": 4.6,
+        "google_review_count": 6064,
+        "price_level": 2
+    },
+    "Ghoom monastery market": {
+        "google_rating": 3.9,
+        "google_review_count": 8935,
+        "price_level": 2
+    },
+    "Happy valley tea estate": {
+        "google_rating": 4.1,
+        "google_review_count": 8998,
+        "price_level": 2
+    },
+    "Himalayan Mountaineering Institute(Museum, Library, Souvenir shop)": {
+        "google_rating": 3.9,
+        "google_review_count": 17139,
+        "price_level": 2
+    },
+    "Kanchenjunga peak": {
+        "google_rating": 4.3,
+        "google_review_count": 16304,
+        "price_level": 2
+    },
+    "Vaishno Devi": {
+        "google_rating": 4.5,
+        "google_review_count": 18970,
+        "price_level": 2
+    }
+}

@@ -1,0 +1,20 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 19, 2026 - 14:27:06
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+[19/Jul/2026 14:30:13] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+[19/Jul/2026 14:30:39] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+[19/Jul/2026 14:30:55] "GET /api/cities/Ahemdabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1192

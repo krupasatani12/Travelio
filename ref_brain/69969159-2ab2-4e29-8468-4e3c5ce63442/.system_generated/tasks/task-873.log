@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys; sys.path.append('.'); from ml.embedding_index import SemanticSearchIndex; idx = SemanticSearchIndex(); print('Init done'); print(idx.search('mountains'))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Travel.IO\ml-service\ml\embedding_index.py", line 5, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\sentence_transformers\__init__.py", line 3, in <module>
+    from .datasets import SentencesDataset, ParallelSentencesDataset
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\sentence_transformers\datasets\__init__.py", line 3, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 4, in <module>
+    from .. import SentenceTransformer
+  File "C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\sentence_transformers\SentenceTransformer.py", line 12, in <module>
+    from huggingface_hub import HfApi, HfFolder, Repository, hf_hub_url, cached_download
+ImportError: cannot import name 'cached_download' from 'huggingface_hub' (C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\huggingface_hub\__init__.py). Did you mean: 'hf_hub_download'?

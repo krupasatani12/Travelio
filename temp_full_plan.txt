@@ -1,0 +1,387 @@
+# Travel.IO — Comprehensive Feature Implementation Plan
+
+This plan covers all the features you requested, organized into **8 phases** from highest to lowest priority. Each phase is self-contained and buildable independently.
+
+---
+
+## User Review Required
+
+> [!IMPORTANT]
+> This is a **very large scope** of work. I recommend we implement it **phase by phase**, with testing between each phase. Please confirm:
+> 1. Should I proceed with **Phase 1 first** (City Pages & Places Navigation)?
+> 2. Or do you want all 8 phases built in one go?
+
+> [!WARNING]
+> Some features require external services:
+> - **News with clickable links** → Requires a news API key (e.g., NewsAPI.org or GNews) or web scraping
+> - **Google Maps route links** → Works with plain Google Maps URLs (no API key needed)
+> - **Video uploads in Journals** → Will increase storage requirements significantly
+
+---
+
+## Open Questions
+
+> [!IMPORTANT]
+> 1. **Video storage for Journals**: Should videos be stored locally on the server filesystem, or do you want to use a cloud service like Cloudinary/AWS S3? For now I'll implement **local filesystem storage** with a file size limit.
+> 2. **Admin charts (Matplotlib)**: You mentioned Python-generated charts. Should the Django ML service generate chart images and serve them via API, or would you prefer **interactive JavaScript charts** (Recharts/Chart.js) rendered in the browser? From our earlier discussion you preferred interactive — confirming.
+> 3. **Credit system billing**: The 100 credits/day system — should credits reset at midnight IST daily, or on a rolling 24-hour window?
+
+---
+
+## Phase 1: City Pages & Places Navigation
+
+**Goal**: Dedicated URLs for each city (`/places/delhi`), clickable place detail cards, nearby cities section, and favorite/cart-like interactions.
+
+### Frontend — Pages & Routing
+
+#### [MODIFY] [App.jsx](file:///d:/Travel.IO/client/src/App.jsx)
+- Add new routes:
+  - `/places/:citySlug` → `CityPage` (dedicated city page with places cards)
+  - `/places/:citySlug/:placeSlug` → `PlaceDetailPage` (individual place details)
+- Keep existing `/places` route for the main browse grid
+
+#### [NEW] `client/src/pages/CityPage.jsx`
+- Dedicated page for a city (e.g., `/places/delhi`)
+- **City hero section**: City name, state, average rating, review count, hero image
+- **Places cards grid**: All places in that city, each card clickable → navigates to `/places/delhi/india-gate`
+- **Nearby cities section**: Shows 4-6 nearby city cards (based on same state or geo-proximity)
+- **Favorite & Save actions**: Heart icon to favorite, "Add to Wishlist" button (like shopping cart)
+- **Search filter**: Filter places within this city
+- **Chatbot integration**: The chatbot receives `/places/delhi` as context URL so it can give city-specific suggestions
+
+#### [NEW] `client/src/pages/PlaceDetailPage.jsx`
+- Full detail view of a single place
+- Shows: name, images, rating, reviews, entrance fee, best time to visit, teaser text, Google Maps link
+- **Budget estimate**: Quick budget widget for this place
+- **Safety score**: Safety indicator for the city
+- **Related places**: Other places in the same city
+- **Journal entries**: Public journal entries from this place
+
+#### [NEW] `client/src/pages/CityPage.css`
+- Styles for city hero, places grid, nearby section, favorite buttons
+
+### Frontend — Favorites/Wishlist System
+
+#### [MODIFY] [Dashboard.jsx](file:///d:/Travel.IO/client/src/pages/Dashboard.jsx)
+- Add "My Wishlist" section showing all favorited cities/places
+- Add "Search" within saved items
+
+### Backend — API
+
+#### [MODIFY] [locations.routes.js](file:///d:/Travel.IO/server/routes/locations.routes.js)
+- Add `GET /api/locations/cities/:citySlug` → returns city details + metadata
+- Add `GET /api/locations/cities/:citySlug/nearby` → returns nearby cities
+- Add `GET /api/locations/places/:placeSlug` → returns individual place details
+
+#### [MODIFY] [favorites.routes.js](file:///d:/Travel.IO/server/routes/favorites.routes.js)
+- Extend to support saving both cities and individual places
+- Add `GET /api/favorites` → list all favorites
+- Add `DELETE /api/favorites/:id` → remove a favorite
+
+---
+
+## Phase 2: Navbar Restructure & Smart Travel Tools
+
+**Goal**: Move Budget & Safety from main navbar into "Smart Travel Tools" dropdown. Replace with News, Journals, Routes.
+
+### Frontend — Navbar
+
+#### [MODIFY] [Navbar.jsx](file:///d:/Travel.IO/client/src/components/layout/Navbar.jsx)
+- Change `navLinks` from:
+  ```
+  Places, Plan Trip, Budget, Safety, Routes
+  ```
+  to:
+  ```
+  Places, Plan Trip, News, Journals, Routes
+  ```
+- Budget & Safety become accessible only within:
+  - The Trip Planner flow (auto-fetched)
+  - A "Smart Tools" dropdown or sub-section in the Plan Trip page
+
+### Frontend — News Page Enhancement
+
+#### [MODIFY] [NewsAlerts.jsx](file:///d:/Travel.IO/client/src/pages/NewsAlerts.jsx)
+- Add **clickable links** to original news source URLs
+- Cards show: title, summary, source name, date, and a "Read Full Article →" link
+- Add category filters (weather, transport, advisory, general)
+
+### Frontend — Routes Enhancement
+
+#### [MODIFY] [RoutePlanner.jsx](file:///d:/Travel.IO/client/src/pages/RoutePlanner.jsx)
+- After showing route results, display:
+  - **Flight data**: Available flights from CSV (price, airline, duration)
+  - **Train data**: Available trains from JSON (duration, estimated price)
+- Add **"Route Map Link"** button → generates a Google Maps directions URL:
+  ```
+  https://www.google.com/maps/dir/Source/Destination
+  ```
+- This URL pattern is reused throughout the app (trip planner emails, etc.)
+
+---
+
+## Phase 3: Journal System Overhaul
+
+**Goal**: Public/private journals, destination autocomplete, photo/video uploads, social interactions.
+
+### Database
+
+#### [MODIFY] [Journal.js](file:///d:/Travel.IO/server/models/Journal.js)
+- Add fields:
+  - `visibility`: `'private'` (default) | `'public'`
+  - `media`: Array of `{ type: 'image'|'video', url: String, thumbnail: String }`
+  - `comments`: Array of `{ userId, text, createdAt }`
+  - `savedBy`: Array of `ObjectId` (users who saved this journal)
+
+### Backend
+
+#### [MODIFY] [journal.routes.js](file:///d:/Travel.IO/server/routes/journal.routes.js)
+- Add `GET /api/journals/public` → paginated public journals (any user can see)
+- Add `GET /api/journals/place/:placeName` → public journals for a specific place
+- Add `POST /api/journals/:id/comment` → add comment (authenticated)
+- Add `POST /api/journals/:id/save` → save/unsave journal (authenticated)
+- Add `POST /api/journals/upload-media` → handle image/video upload (multer)
+- Add `GET /api/journals/destinations/autocomplete?q=go` → returns matching place names
+
+### Frontend
+
+#### [MODIFY] [Journal.jsx](file:///d:/Travel.IO/client/src/pages/Journal.jsx)
+- **Destination autocomplete**: As user types in the location field, show dropdown of matching places (e.g., typing "go" shows "Goa", "Gopnath", etc.)
+- **Media upload**: Add file picker for images + videos, show preview cards
+- **Visibility toggle**: Public/Private switch (default: Private)
+- **Public feed tab**: "My Journals" / "Community Journals" toggle
+- **Journal cards**: Rich cards with media thumbnails, location, mood, like/comment/save buttons
+- **Place-linked journals**: When viewing a place detail page, show public journals from that place
+
+---
+
+## Phase 4: AI-Powered Trip Planner Overhaul
+
+**Goal**: Full AI chatbot integration in trip planning, city/place selection with checkboxes, day-wise planning, AI time management overview, and auto email.
+
+### Frontend
+
+#### [MODIFY] [TripPlanner.jsx](file:///d:/Travel.IO/client/src/pages/TripPlanner.jsx)
+- **Step 1**: Form (existing) — categories, vibes, budget, days, group size, month
+- **Step 2**: AI Suggestions — city cards from recommendations
+- **Step 3** (NEW): **City & Place Selection**
+  - User selects a city card
+  - Checkboxes appear for places within that city
+  - If multi-day trip, user assigns places to specific days
+  - "Add Another City" button for multi-city trips
+- **Step 4** (NEW): **AI Chatbot Suggestion Panel**
+  - Send all form data + selected places to Mistral AI
+  - AI returns a full day-wise itinerary with time management (like the Somnath→Dwarka example)
+  - Display the AI overview in a rich formatted panel
+  - **Extended plan section**: "If you extend by 1 day and ₹X more budget, you could also visit..."
+- **Step 5** (NEW): **Final Overview & Confirm**
+  - Summary of all days, places, budget, safety
+  - Each suggestion card is clickable → shows place details with budget & safety
+  - **Auto-email**: On "Confirm Trip", send the full AI itinerary email with:
+    - Day-wise plan
+    - Place cards with Google Maps location links
+    - Per-day "Route Map Link" (Google Maps directions for that day's route)
+    - Budget breakdown
+    - Safety tips
+- **Login gate**: After filling the form (Step 1), if user is not logged in, freeze all inputs and prompt login
+
+### Backend
+
+#### [MODIFY] [chatbot.routes.js](file:///d:/Travel.IO/server/routes/chatbot.routes.js)
+- Add `POST /api/chatbot/trip-plan` → sends trip details to Mistral AI, returns structured itinerary
+- The prompt instructs Mistral to return a JSON-structured day-wise plan with times, places, costs, tips
+
+#### [MODIFY] [trip.routes.js](file:///d:/Travel.IO/server/routes/trip.routes.js)
+- Add `POST /api/trips/confirm-full` → saves full trip + triggers email with AI overview
+- Add `POST /api/trips/extend-suggestion` → AI suggests what to add with more days/budget
+
+#### [MODIFY] [emailService.js](file:///d:/Travel.IO/server/services/emailService.js)
+- Add `sendTripPlanEmail(to, tripPlan)` → rich HTML email with:
+  - Full AI itinerary (day-wise)
+  - Place cards with images and Google anchor links
+  - Per-day Google Maps direction links
+  - Budget and safety summary
+
+### Frontend — Tool Settings (Profile)
+
+#### [MODIFY] [Dashboard.jsx](file:///d:/Travel.IO/client/src/pages/Dashboard.jsx)
+- Add "Tool Preferences" section in user profile settings:
+  - Toggle ON/OFF: Budget suggestions in trip planner
+  - Toggle ON/OFF: Safety suggestions in trip planner
+  - Toggle ON/OFF: Route suggestions in trip planner
+- These preferences are stored in `User.preferences` and sent to the trip planner
+
+---
+
+## Phase 5: Credit System
+
+**Goal**: Per-user daily credit limits for AI features.
+
+### Database
+
+#### [MODIFY] [User.js](file:///d:/Travel.IO/server/models/User.js)
+- Add fields:
+  - `credits`: `{ daily: Number (default 100), used: Number (default 0), lastReset: Date }`
+  - `creditHistory`: Array of `{ action: String, cost: Number, timestamp: Date }`
+
+### Backend
+
+#### [NEW] `server/middleware/creditCheck.js`
+- Middleware that checks if user has enough credits before AI operations
+- Auto-resets credits at midnight IST daily
+- Credit costs:
+  - Chat message: 2-5 credits (based on response length)
+  - Trip planner full suggestion: 10 credits
+  - Landmark detection: 3 credits
+
+#### [MODIFY] [chatbot.routes.js](file:///d:/Travel.IO/server/routes/chatbot.routes.js)
+- Apply `creditCheck` middleware to chat endpoints
+- Deduct credits after successful response
+
+#### [MODIFY] [auth.routes.js](file:///d:/Travel.IO/server/routes/auth.routes.js)
+- `GET /api/auth/me` → now includes credit status in response
+
+### Frontend
+
+#### [MODIFY] [Dashboard.jsx](file:///d:/Travel.IO/client/src/pages/Dashboard.jsx)
+- Show credit usage bar: "42/100 credits used today"
+- Credit history log
+
+#### [MODIFY] [ChatbotPage.jsx](file:///d:/Travel.IO/client/src/pages/ChatbotPage.jsx)
+- Show remaining credits in chat header
+- Disable chat input when credits exhausted
+
+---
+
+## Phase 6: Database Expansion
+
+**Goal**: Store all required data types.
+
+### Database Models
+
+#### [MODIFY] [User.js](file:///d:/Travel.IO/server/models/User.js)
+- Already has: name, email, password, role, preferences, savedDestinations
+- Add: credits (Phase 5), toolPreferences (Phase 4)
+
+#### [NEW] `server/models/ChatHistory.js`
+- `userId`, `sessionId`, `messages[]` (role, content, timestamp), `creditsUsed`, `context` (page URL)
+
+#### [NEW] `server/models/EmailLog.js`
+- `userId`, `to`, `subject`, `type` (otp|itinerary|alert), `status` (sent|failed), `sentAt`, `errorMessage`
+
+#### [MODIFY] [Journal.js](file:///d:/Travel.IO/server/models/Journal.js)
+- Add: `visibility`, `media[]`, `comments[]`, `savedBy[]` (Phase 3)
+
+#### [MODIFY] [Trip.js](file:///d:/Travel.IO/server/models/Trip.js)
+- Add: `aiItinerary` (full AI response), `selectedPlaces[]`, `routeMapLinks[]`
+
+---
+
+## Phase 7: Admin Dashboard Overhaul
+
+**Goal**: Python charts, API settings, online/offline mode, credit management.
+
+### Backend — Django ML Service
+
+#### [NEW] `ml-service/api/charts.py`
+- Endpoints that generate Matplotlib/Seaborn chart images:
+  1. `GET /api/charts/ml-performance` → ML model confidence line chart
+  2. `GET /api/charts/safety-heatmap` → Safety scores heatmap by state
+  3. `GET /api/charts/budget-duration` → Budget vs duration scatter plot
+  4. `GET /api/charts/vibe-distribution` → Donut chart of searched categories
+  5. `GET /api/charts/api-usage` → API request area chart
+
+### Backend — Node.js Admin API
+
+#### [MODIFY] [admin.routes.js](file:///d:/Travel.IO/server/routes/admin.routes.js)
+- Add endpoints:
+  - `GET /api/admin/stats` → enhanced stats (users, journals, trips, credits used, emails sent)
+  - `PUT /api/admin/settings` → update system settings (online/offline mode, LLM params)
+  - `PUT /api/admin/credits/:userId` → admin can modify user credit limits
+  - `GET /api/admin/credit-usage` → aggregate credit usage data for charts
+  - `GET /api/admin/email-logs` → email delivery status logs
+
+#### [NEW] `server/models/SystemSettings.js`
+- Singleton document storing:
+  - `mode`: 'online' | 'offline'
+  - `llm`: `{ temperature, maxTokens, topP }`
+  - `apiLimits`: `{ defaultCreditsPerDay, maxCreditsPerDay }`
+  - `features`: `{ chatbotEnabled, emailEnabled, budgetToolEnabled, safetyToolEnabled }`
+
+### Frontend
+
+#### [MODIFY] [AdminDashboard.jsx](file:///d:/Travel.IO/client/src/pages/AdminDashboard.jsx)
+- **Stats section**: Enhanced stat cards (users, journals, trips, total credits consumed, emails sent)
+- **Charts section**: 5 chart panels loading images from Django ML service
+- **API Settings panel**:
+  - Temperature slider (0.0-1.0)
+  - Max Tokens input
+  - Top-P slider
+- **Online/Offline toggle**: When offline → chatbot disabled, email disabled, AI features disabled
+- **Credit Management**: Table of users with their credit usage, admin can adjust limits
+- **Quick Actions**: Wire existing buttons to real endpoints (ML retrain, cache clear, emergency stop)
+
+---
+
+## Phase 8: Login Gates & Miscellaneous
+
+**Goal**: Enforce login where required, final polish.
+
+### Frontend — Auth Gates
+
+#### [NEW] `client/src/components/common/AuthGate.jsx`
+- Wrapper component that shows a login prompt overlay instead of content when user is not authenticated
+- Used in: Favorite actions, Save trip, Chatbot, Trip Planner (after form fill)
+
+### Applied to:
+- **Add favorite places** → requires login
+- **Save trip** → requires login
+- **Use chatbot** → requires login
+- **Trip Planner**: Form can be filled freely, but clicking "Discover Cities" requires login (form fields freeze with blur overlay + login CTA)
+- **Journal creation** → requires login
+- **Journal reactions** (like, comment, save) → requires login
+
+---
+
+## Verification Plan
+
+### Automated Tests
+```bash
+# Backend API tests
+npm test --prefix server
+
+# Check all servers start cleanly
+cd ml-service && python manage.py runserver 8000
+cd server && npm run dev
+cd client && npm run dev
+```
+
+### Manual Verification
+- Navigate to `/places/delhi` → verify city page loads with places cards
+- Click a place card → verify detail page loads at `/places/delhi/india-gate`
+- Check "Nearby Cities" section on city page
+- Favorite a city → verify it appears in Dashboard wishlist
+- Fill Trip Planner form → verify login gate after clicking "Discover"
+- Complete a trip plan → verify AI itinerary is displayed
+- Confirm trip → verify email is received with full plan + Google Maps links
+- Create a journal with video → verify upload and card display
+- Toggle journal to Public → verify it appears in community feed
+- Admin dashboard → verify all 5 charts load
+- Toggle offline mode → verify chatbot and email are disabled
+- Check credit deduction after chatbot use
+- Check credit display on user dashboard
+
+---
+
+## Summary Table
+
+| Phase | Feature | Files Changed | New Files |
+|-------|---------|--------------|-----------|
+| 1 | City Pages & Places Nav | App.jsx, locations.routes, favorites.routes, Dashboard | CityPage.jsx, PlaceDetailPage.jsx, CityPage.css |
+| 2 | Navbar Restructure | Navbar.jsx, NewsAlerts, RoutePlanner | — |
+| 3 | Journal Overhaul | Journal.jsx, Journal.js, journal.routes | — |
+| 4 | AI Trip Planner | TripPlanner.jsx, chatbot.routes, trip.routes, emailService, Dashboard | — |
+| 5 | Credit System | User.js, chatbot.routes, auth.routes, Dashboard, ChatbotPage | creditCheck.js |
+| 6 | Database Expansion | User.js, Journal.js, Trip.js | ChatHistory.js, EmailLog.js |
+| 7 | Admin Dashboard | AdminDashboard.jsx, admin.routes | charts.py, SystemSettings.js |
+| 8 | Login Gates | Various pages | AuthGate.jsx |

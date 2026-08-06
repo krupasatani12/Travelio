@@ -1,0 +1,113 @@
+
+> travelio-server@1.0.0 dev
+> node --watch server.js
+
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-01.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-01.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-01.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-01.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-01.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+Restarting 'server.js'
+
+  ✈️  TravelIO API Gateway
+  ├─ Server:     http://localhost:5000
+  ├─ Health:     http://localhost:5000/api/health
+  ├─ WebSockets: enabled
+  └─ Cron:       daily alerts at 8:00 AM IST
+
+[TravelIO] MongoDB connected: ac-b2nwj8m-shard-00-02.qmbo2q2.mongodb.net
+[Cron] Resetting user AI credits...
+[Cron] Credits reset for 2 users.

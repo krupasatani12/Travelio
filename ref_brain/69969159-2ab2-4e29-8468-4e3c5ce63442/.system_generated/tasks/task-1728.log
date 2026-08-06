@@ -1,0 +1,115 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 20, 2026 - 17:37:37
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784549518.412577   23332 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784549568.175063   23332 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+I0000 00:00:1784549605.926505   23332 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+1/1 
+1/1 ==================== 0s 6s/step
+1/1 
+1/1 ==================== 6s 6s/step
+[20/Jul/2026 17:43:38,359] - Broken pipe from ('127.0.0.1', 54891)
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+[20/Jul/2026 17:46:34] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+WARNING:tensorflow:From C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+WARNING:tensorflow:From C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Initializing Semantic Search Index... (This might take a moment)
+Found 1167 valid embeddings out of 1167 rows. Parsing...
+Success: Loaded 1167 location embeddings into memory.
+[20/Jul/2026 17:48:04] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 17:50:48] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 17:50:48] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+D:\Travel.IO\ml-service\ml\city_index.py changed, reloading.
+INFO:django.utils.autoreload:D:\Travel.IO\ml-service\ml\city_index.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 20, 2026 - 18:24:58
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+D:\Travel.IO\ml-service\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 20, 2026 - 18:25:05
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+D:\Travel.IO\ml-service\api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 20, 2026 - 18:25:21
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+[20/Jul/2026 18:38:08] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784552896.649930   26936 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784552906.041596   26936 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+[20/Jul/2026 18:38:29] "GET /api/cities/ahemdabad/detail/ HTTP/1.1" 200 235
+[20/Jul/2026 18:38:29] "GET /api/cities/ahemdabad/nearby/?limit=6 HTTP/1.1" 200 1334
+[20/Jul/2026 18:38:29] "GET /api/cities/ahemdabad/detail/ HTTP/1.1" 200 235
+[20/Jul/2026 18:38:29] "GET /api/cities/ahemdabad/nearby/?limit=6 HTTP/1.1" 200 1334
+[20/Jul/2026 18:38:29] "GET /api/cities/Ahemdabad/places/?page=1&limit=12&sort=alpha HTTP/1.1" 200 1192
+[20/Jul/2026 18:38:29] "GET /api/cities/Ahemdabad/places/?page=1&limit=12&sort=alpha HTTP/1.1" 200 1192
+[20/Jul/2026 18:38:39] "GET /api/cities/ahemdabad/places/auto-world-vintage-car-museum/detail/ HTTP/1.1" 200 518
+[20/Jul/2026 18:38:39] "GET /api/cities/ahemdabad/places/auto-world-vintage-car-museum/detail/ HTTP/1.1" 200 518
+WARNING:tensorflow:From C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Initializing Semantic Search Index... (This might take a moment)
+Found 1167 valid embeddings out of 1167 rows. Parsing...
+Success: Loaded 1167 location embeddings into memory.
+[20/Jul/2026 18:39:15] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 18:39:36] "POST /api/recommend/ HTTP/1.1" 200 1375
+Not Found: /api/seasonal/
+[20/Jul/2026 18:39:40] "GET /api/seasonal/?destination=Diu&month=7 HTTP/1.1" 404 36
+[20/Jul/2026 18:39:42] "GET /api/safety/Diu/ HTTP/1.1" 200 188
+[20/Jul/2026 18:39:42] "POST /api/budget/predict/ HTTP/1.1" 200 219
+[20/Jul/2026 18:40:06] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 18:40:06] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586

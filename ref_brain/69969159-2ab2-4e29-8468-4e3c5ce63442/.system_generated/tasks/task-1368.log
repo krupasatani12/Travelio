@@ -1,0 +1,103 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+[TravelIO] Graph loaded with 10 nodes and 71 edges.
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 20, 2026 - 12:22:53
+Django version 4.2.30, using settings 'travelio.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+CityIndex: loading places data...
+D:\Travel.IO\ml-service\ml\city_index.py:83: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  merged = pd.concat(frames, ignore_index=True)
+  CityIndex: 1135 places across 241 cities in 37 states.
+[20/Jul/2026 12:26:42] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+[20/Jul/2026 12:27:03] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+[20/Jul/2026 12:27:03] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 4718
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784530626.432657   10684 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1784530644.537350   10684 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\KAVYA\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Initializing Semantic Search Index... (This might take a moment)
+Found 1167 valid embeddings out of 1167 rows. Parsing...
+Success: Loaded 1167 location embeddings into memory.
+[20/Jul/2026 12:28:00] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:42:11] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:42:11] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:47:59] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:47:59] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:55:34] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:55:34] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:58:13] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:58:13] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:58:33] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 12:58:33] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:02:24] "GET /api/cities/Ahemdabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1192
+[20/Jul/2026 13:02:57] "GET /api/cities/Ahemdabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1192
+[20/Jul/2026 13:04:31] "POST /api/search/semantic/ HTTP/1.1" 200 2978
+[20/Jul/2026 13:05:04] "POST /api/recommend/ HTTP/1.1" 200 1341
+[20/Jul/2026 13:05:35] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:05:35] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:06:43] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:06:43] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:09:21] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18408
+[20/Jul/2026 13:09:27] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18408
+[20/Jul/2026 13:09:47] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:09:47] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:10:01] "GET /api/cities/Auli/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2243
+[20/Jul/2026 13:10:10] "GET /api/cities/Ahemdabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1192
+[20/Jul/2026 13:10:20] "GET /api/cities/Ahmedabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2075
+[20/Jul/2026 13:10:30] "GET /api/cities/?page=2&limit=20&sort=alpha HTTP/1.1" 200 5183
+Not Found: /api/route/
+[20/Jul/2026 13:11:00] "GET /api/route/?source=mumbai&destination=goa&optimize=price HTTP/1.1" 404 75
+[20/Jul/2026 13:11:16] "GET /api/safety/goa/ HTTP/1.1" 200 188
+[20/Jul/2026 13:11:31] "GET /api/safety/goa/ HTTP/1.1" 200 188
+[20/Jul/2026 13:14:10] "GET /api/safety/goa/ HTTP/1.1" 200 188
+[20/Jul/2026 13:22:52] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:22:52] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:22:57] "GET /api/cities/Agra/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 4837
+[20/Jul/2026 13:23:09] "GET /api/cities/Agra/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 4837
+[20/Jul/2026 13:23:13] "GET /api/cities/Agra/places/?page=1&limit=10&sort=highest_rated HTTP/1.1" 200 4808
+[20/Jul/2026 13:23:18] "GET /api/cities/Agra/places/?page=1&limit=10&sort=most_reviewed HTTP/1.1" 200 4793
+[20/Jul/2026 13:23:51] "GET /api/cities/?page=1&limit=20&sort=highest_rated HTTP/1.1" 200 5001
+[20/Jul/2026 13:24:03] "GET /api/cities/?page=1&limit=20&sort=highest_rated&state=Gujarat HTTP/1.1" 200 2671
+[20/Jul/2026 13:24:13] "GET /api/cities/Gandhinagar/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2245
+[20/Jul/2026 13:24:26] "GET /api/cities/Gandhinagar/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2245
+[20/Jul/2026 13:24:30] "GET /api/cities/Ahmedabad/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2075
+[20/Jul/2026 13:24:36] "GET /api/cities/Bhuj/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 2148
+[20/Jul/2026 13:25:15] "GET /api/cities/Junagadh/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 1527
+[20/Jul/2026 13:25:48] "GET /api/cities/Somnath/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 785
+[20/Jul/2026 13:26:16] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:26:16] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:33:42] "POST /api/search/semantic/ HTTP/1.1" 200 2962
+[20/Jul/2026 13:33:42] "POST /api/search/semantic/ HTTP/1.1" 200 1616
+[20/Jul/2026 13:34:03] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:44:33] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:44:33] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:56:47] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:56:47] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:58:38] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:58:39] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:58:50] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:58:51] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 13:58:52] "GET /api/cities/Agra/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 4837
+[20/Jul/2026 13:59:04] "GET /api/cities/Ajanta/places/?page=1&limit=10&sort=alpha HTTP/1.1" 200 428
+[20/Jul/2026 13:59:39] "POST /api/recommend/ HTTP/1.1" 200 1375
+Not Found: /api/seasonal/
+[20/Jul/2026 13:59:53] "GET /api/seasonal/?destination=Visakhapatnam&month=7 HTTP/1.1" 404 46
+[20/Jul/2026 13:59:53] "GET /api/safety/Visakhapatnam/ HTTP/1.1" 200 188
+[20/Jul/2026 13:59:55] "POST /api/budget/predict/ HTTP/1.1" 200 229
+[20/Jul/2026 14:02:48] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 14:02:48] "GET /api/cities/?page=1&limit=20&sort=alpha HTTP/1.1" 200 5586
+[20/Jul/2026 14:17:59] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18408
+[20/Jul/2026 14:18:02] "GET /api/news/alerts/?destinations=India HTTP/1.1" 200 18408
+Not Found: /api/route/
+[20/Jul/2026 14:50:52] "GET /api/route/?source=amreli&destination=amreli&optimize=price HTTP/1.1" 404 75
+Not Found: /api/route/
+[20/Jul/2026 14:52:47] "GET /api/route/?source=amreli&destination=amreli&optimize=price HTTP/1.1" 404 75

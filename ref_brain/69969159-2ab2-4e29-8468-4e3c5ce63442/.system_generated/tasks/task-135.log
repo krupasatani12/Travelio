@@ -1,0 +1,9 @@
+|
+o  Scaffolding project in D:\Travel.IO\client...
+|
+—  Done. Now run:
+
+  cd client
+  npm install
+  npm run dev
+
