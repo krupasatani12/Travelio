@@ -245,19 +245,29 @@
 
 ## 📸 Screenshots
 
-> [!TIP]
-> Replace these placeholder paths with actual screenshots of your deployed app.
+### 🏠 Home Page
+![Travel.IO Home Page](screenshots/home.png)
 
-| Page | Preview |
-|:-----|:--------|
-| Home (3D Hero) | *Screenshot of the landing page with 3D globe* |
-| City Explorer | *Screenshot of the city browsing page* |
-| Trip Planner | *Screenshot of the drag-and-drop itinerary builder* |
-| AI Chatbot | *Screenshot of the TravelBot conversation* |
-| Admin Dashboard | *Screenshot of the admin analytics panel* |
-| Landmark Detector | *Screenshot of the image upload & detection result* |
+### 🔐 Login / Registration
+![Login Page](screenshots/login.png)
 
----
+### 🗺️ Trip Planner
+![Trip Planner](screenshots/trip-planner.png)
+
+### 🤖 AI TravelBot
+![AI TravelBot](screenshots/chatbot.png)
+
+### 🏛️ Landmark Detection
+![Landmark Detection](screenshots/landmark-detection.png)
+
+### 💰 Budget Forecaster
+![Budget Forecaster](screenshots/budget-forecaster.png)
+
+### 🛡️ Safety Scorer
+![Safety Scorer](screenshots/safety-scorer.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 <a id="getting-started"></a>
 
